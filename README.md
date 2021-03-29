@@ -1,0 +1,2 @@
+# MildomGifUtilty
+Mildomでギフトを送るとアイテムとしてギフトをもらえるMOD
