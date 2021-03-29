@@ -32,7 +32,7 @@ public class ClientHandler {
         if (mc.player != null && Mildom.isShowGift()) {
             Gift gift = MildomGiftManager.getGiftByGiftID(e.getGift());
             String giftName = EmojicordCompat.isLoaded() ? EmojicordCompat.getEmojiString(gift.getEmojiId()) : I18n.format("item.gift." + gift.getId() + ".name");
-            ITextComponent comp = new TextComponentTranslation("message.migift", e.getMildomUserNameAndLevel(), giftName + (e.getCont() > 1 ? ("×" + e.getCont()) : ""));
+            ITextComponent comp = new TextComponentTranslation("message.migift", e.getMildomUserNameAndLevel(), giftName + (e.getCont() > 1 ? (I18n.format("item.gift.kakeru") + e.getCont()) : ""));
             mc.player.sendStatusMessage(comp, false);
         }
     }

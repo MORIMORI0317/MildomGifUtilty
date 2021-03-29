@@ -1,9 +1,8 @@
 package net.morimori.mildomgiftutilty.util;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
-import java.io.PrintWriter;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
 import java.nio.file.Path;
 
 public class StringUtils {
@@ -13,10 +12,8 @@ public class StringUtils {
 
     public static void txtWriter(String text, Path path) {
         try {
-            FileWriter fw = new FileWriter(path.toString(), false);
-            PrintWriter pw = new PrintWriter(new BufferedWriter(fw));
-            pw.println(text);
-            pw.close();
+            byte[] datas = text.getBytes(StandardCharsets.UTF_8);
+            Files.write(path, datas);
         } catch (IOException e) {
             e.printStackTrace();
         }

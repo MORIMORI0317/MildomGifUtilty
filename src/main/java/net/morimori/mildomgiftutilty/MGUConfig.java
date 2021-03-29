@@ -14,7 +14,6 @@ public class MGUConfig {
         sync();
 
         MinecraftForge.EVENT_BUS.register(new MGUConfig());
-
     }
 
     public static void sync() {

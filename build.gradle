@@ -18,7 +18,7 @@ apply plugin: 'com.github.johnrengelman.shadow'
 
 version = '1.0'
 group = 'net.morimori.mildomgiftutilty'
-archivesBaseName = 'mildomgiftutilty'
+archivesBaseName = 'MildomGifUtilty'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8'
 
