@@ -18,6 +18,7 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -29,7 +30,7 @@ import java.util.List;
 import java.util.Map;
 
 public class MildomGiftManager {
-    private static final String GIFTDATA_URL = "https://raw.githubusercontent.com/MORIMORI0317/MildomIntegration/main/testgiftdata.json";
+    private static final String GIFTDATA_URL = "https://raw.githubusercontent.com/MORIMORI0317/MildomGifUtilty/main/gifts.json";
     public static final Path DATA_PATH = Paths.get(MildomGiftUtilty.MODID);
     public static final Path RESOURCE_PATH = DATA_PATH.resolve("resource");
     public static final Path RESOURCE_TEXTUER_PATH = RESOURCE_PATH.resolve("assets").resolve(MildomGiftUtilty.MODID).resolve("textures").resolve("items");
@@ -125,7 +126,9 @@ public class MildomGiftManager {
                 JsonObject jo = n.getAsJsonObject();
                 try {
                     LOGGER.info("Gift Dwonloding :" + jo.get("id") + " " + jo.get("id") + "/" + (giftsdata.size() - 1));
-                    BufferedImage bi = ImageIO.read(new URL(jo.get("image").getAsString()).openStream());
+                    HttpURLConnection connection = (HttpURLConnection) new URL(jo.get("image").getAsString()).openConnection();
+                    connection.addRequestProperty("User-Agent", URLUtils.USER_AGENT);
+                    BufferedImage bi = ImageIO.read(connection.getInputStream());
                     int size = Math.max(bi.getWidth(), bi.getHeight());
                     BufferedImage outImage = new BufferedImage(size, size, BufferedImage.TYPE_INT_ARGB);
                     int ox = 0;
