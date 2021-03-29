@@ -1,0 +1,91 @@
+buildscript {
+    repositories {
+        maven { url = 'https://files.minecraftforge.net/maven' }
+        jcenter()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'net.minecraftforge.gradle:ForgeGradle:3.+'
+    }
+}
+plugins {
+    id "com.github.johnrengelman.shadow" version "4.0.4"
+}
+apply plugin: 'net.minecraftforge.gradle'
+apply plugin: 'eclipse'
+apply plugin: 'maven-publish'
+apply plugin: 'com.github.johnrengelman.shadow'
+
+version = '1.0'
+group = 'net.morimori.mildomgiftutilty'
+archivesBaseName = 'mildomgiftutilty'
+
+sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8'
+
+minecraft {
+    mappings channel: 'snapshot', version: '20171003-1.12'
+    runs {
+        client {
+            workingDirectory project.file('run')
+
+            property 'forge.logging.markers', 'SCAN,REGISTRIES,REGISTRYDUMP'
+
+            property 'forge.logging.console.level', 'debug'
+        }
+
+        server {
+
+            property 'forge.logging.markers', 'SCAN,REGISTRIES,REGISTRYDUMP'
+
+            property 'forge.logging.console.level', 'debug'
+        }
+    }
+}
+configurations {
+    shadow
+    compile.extendsFrom(shadow)
+}
+dependencies {
+    minecraft 'net.minecraftforge:forge:1.12.2-14.23.5.2854'
+    implementation group: 'org.glassfish.tyrus.bundles', name: 'tyrus-standalone-client', version: '2.0.0'
+    compile fg.deobf(files("libs/ChanceCubes-1.12.2-5.0.2.385.jar"))
+    compile fg.deobf(files("libs/MildomIntegration-1.2.jar"))
+}
+shadowJar {
+    classifier ''
+    project.configurations.shadow.setTransitive(true);
+    configurations = [project.configurations.shadow]
+    relocate 'com.google', 'net.pmtf.mildomgiftutilty.libs.com.google'
+}
+sourceSets {
+    main { output.resourcesDir = output.classesDir }
+}
+jar {
+    manifest {
+        attributes([
+                "Specification-Title"     : "mildomgiftutilty",
+                "Specification-Vendor"    : "MORIMORI0317",
+                "Specification-Version"   : "1",
+                "Implementation-Title"    : project.name,
+                "Implementation-Version"  : "${version}",
+                "Implementation-Vendor"   : "MORIMORI0317",
+                "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
+        ])
+    }
+}
+
+
+jar.finalizedBy('reobfJar')
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            artifact jar
+        }
+    }
+    repositories {
+        maven {
+            url "file:///${project.projectDir}/mcmodsrepo"
+        }
+    }
+}
