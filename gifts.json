@@ -1,5 +1,5 @@
 {
-  "data_version": 1.0,
+  "data_version": 2.0,
   "gifts": [
     {
       "id": 0,
@@ -1692,6 +1692,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8c4bf734fde077ba55a0100b55e60bd8.png",
       "name_en_us": "Flapping butterflies",
       "name_ja_jp": "はばたく蝶々"
+    },
+    {
+      "id": 188,
+      "gift_id": 1277,
+      "emoji_id": 827197752772657222,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/62200e967bb765407a88e7c31a954cb9.png",
+      "name_en_us": "Coin back",
+      "name_ja_jp": "コインバック"
     }
   ]
 }
