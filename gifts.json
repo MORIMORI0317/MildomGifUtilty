@@ -1,5 +1,5 @@
 {
-  "data_version": 2.0,
+  "data_version": 3.0,
   "gifts": [
     {
       "id": 0,
@@ -1701,6 +1701,78 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/62200e967bb765407a88e7c31a954cb9.png",
       "name_en_us": "Coin back",
       "name_ja_jp": "コインバック"
+    },
+    {
+      "id": 189,
+      "gift_id": 1278,
+      "emoji_id": 829551128596578324,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5b80e342639c77b6a80c7588d4ba33d0.png",
+      "name_en_us": "F4te ゝ Tɞ \"kyy\"",
+      "name_ja_jp": "F4teゝＴɞ\"ｋｙｙ"
+    },
+    {
+      "id": 190,
+      "gift_id": 1279,
+      "emoji_id": 829551136213696532,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/18af3acb07103303eaa051a72d3dcd00.png",
+      "name_en_us": "Chiba p Natsu",
+      "name_ja_jp": "千葉産pなっつ"
+    },
+    {
+      "id": 191,
+      "gift_id": 1280,
+      "emoji_id": 829551143633027152,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/95a157a01c92c7912fe042d7490b30b2.png",
+      "name_en_us": "㍿ Mizumaru Industry",
+      "name_ja_jp": "㍿みずまる産業"
+    },
+    {
+      "id": 192,
+      "gift_id": 1281,
+      "emoji_id": 829551149845184532,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8aaf0f5d44ff7ff4cf792d298630a541.png",
+      "name_en_us": "JOKER #Minakikai",
+      "name_ja_jp": "JOKER#皆喜会"
+    },
+    {
+      "id": 193,
+      "gift_id": 1282,
+      "emoji_id": 829551156173733918,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c12df73a6240af516347f9b805b5d8b4.png",
+      "name_en_us": "President M",
+      "name_ja_jp": "M社長"
+    },
+    {
+      "id": 194,
+      "gift_id": 1283,
+      "emoji_id": 829551161630785576,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cbc628cec305341fd4fbb7042e578998.png",
+      "name_en_us": "Calcium",
+      "name_ja_jp": "ともかるしうむ"
+    },
+    {
+      "id": 195,
+      "gift_id": 1284,
+      "emoji_id": 829551167737430026,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ecab97f949d3cf440fb9e5be86f70fac.png",
+      "name_en_us": "F4te ゝ Tɞ \"kyy\"",
+      "name_ja_jp": "F4teゝＴɞ\"ｋｙｙ"
+    },
+    {
+      "id": 196,
+      "gift_id": 1285,
+      "emoji_id": 829551174033735690,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b0f4a7cfbb3bbc19e72c954bb07efee1.png",
+      "name_en_us": "Uzuki Uyu [Re: Vero]",
+      "name_ja_jp": "卯月うゆ【Re:Vero】"
     }
   ]
 }
