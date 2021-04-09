@@ -1,5 +1,5 @@
 {
-  "data_version": 3.0,
+  "data_version": 4.0,
   "gifts": [
     {
       "id": 0,
@@ -1773,6 +1773,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b0f4a7cfbb3bbc19e72c954bb07efee1.png",
       "name_en_us": "Uzuki Uyu [Re: Vero]",
       "name_ja_jp": "卯月うゆ【Re:Vero】"
+    },
+    {
+      "id": 197,
+      "gift_id": 1286,
+      "emoji_id": 830097200322183198,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2b7e3d79faa44fb81e9cbd129468ea80.png",
+      "name_en_us": "Four-leaf clover",
+      "name_ja_jp": "四葉クローバー"
+    },
+    {
+      "id": 198,
+      "gift_id": 1287,
+      "emoji_id": 830097209856229427,
+      "price": 0,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/88ad5c0d618239df69651f433036ea9d.png",
+      "name_en_us": "Mitsuha clover",
+      "name_ja_jp": "三葉クローバー"
+    },
+    {
+      "id": 199,
+      "gift_id": 1288,
+      "emoji_id": 830097216664371282,
+      "price": 0,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/88ad5c0d618239df69651f433036ea9d.png",
+      "name_en_us": "Mitsuha clover",
+      "name_ja_jp": "三葉クローバー"
+    },
+    {
+      "id": 200,
+      "gift_id": 1289,
+      "emoji_id": 830097224070332457,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2b7e3d79faa44fb81e9cbd129468ea80.png",
+      "name_en_us": "Four-leaf clover",
+      "name_ja_jp": "四葉クローバー"
     }
   ]
 }
