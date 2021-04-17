@@ -1,5 +1,5 @@
 {
-  "data_version": 5.0,
+  "data_version": 6.0,
   "gifts": [
     {
       "id": 0,
@@ -1818,6 +1818,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2f017fdc622e728a434c66008a2cc550.png",
       "name_en_us": "hug",
       "name_ja_jp": "ハグ"
+    },
+    {
+      "id": 202,
+      "gift_id": 1291,
+      "emoji_id": 832812622428110858,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/339f1e65252b281cab8173da5348e6b7.png",
+      "name_en_us": "Planet",
+      "name_ja_jp": "プラネット"
+    },
+    {
+      "id": 203,
+      "gift_id": 1292,
+      "emoji_id": 832812630002368583,
+      "price": 1699,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4d486d0361d4e7ab9fcd5a0daac4dc9c.png",
+      "name_en_us": "Space travel",
+      "name_ja_jp": "宇宙旅行"
     }
   ]
 }
