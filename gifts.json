@@ -1,5 +1,5 @@
 {
-  "data_version": 6.0,
+  "data_version": 7.0,
   "gifts": [
     {
       "id": 0,
@@ -1836,6 +1836,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4d486d0361d4e7ab9fcd5a0daac4dc9c.png",
       "name_en_us": "Space travel",
       "name_ja_jp": "宇宙旅行"
+    },
+    {
+      "id": 204,
+      "gift_id": 1293,
+      "emoji_id": 833899784477605948,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4f8e48d5000f6817e5d53492de6ef2b1.png",
+      "name_en_us": "CHAMPION",
+      "name_ja_jp": "CHAMPION"
+    },
+    {
+      "id": 205,
+      "gift_id": 1294,
+      "emoji_id": 833899790348582912,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4f8e48d5000f6817e5d53492de6ef2b1.png",
+      "name_en_us": "champion",
+      "name_ja_jp": "チャンピオン"
+    },
+    {
+      "id": 206,
+      "gift_id": 1295,
+      "emoji_id": 833899796036452372,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4d486d0361d4e7ab9fcd5a0daac4dc9c.png",
+      "name_en_us": "test1",
+      "name_ja_jp": "test1"
+    },
+    {
+      "id": 207,
+      "gift_id": 1296,
+      "emoji_id": 833899802168393728,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4d486d0361d4e7ab9fcd5a0daac4dc9c.png",
+      "name_en_us": "test2",
+      "name_ja_jp": "test2"
     }
   ]
 }
