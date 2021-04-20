@@ -1,5 +1,5 @@
 {
-  "data_version": 7.0,
+  "data_version": 8.0,
   "gifts": [
     {
       "id": 0,
@@ -1872,6 +1872,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4d486d0361d4e7ab9fcd5a0daac4dc9c.png",
       "name_en_us": "test2",
       "name_ja_jp": "test2"
+    },
+    {
+      "id": 208,
+      "gift_id": 1297,
+      "emoji_id": 833946779861909554,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/52645ca2d46fb9e9beee35e2f0062755.png",
+      "name_en_us": "Magic Fragment [Red]",
+      "name_ja_jp": "魔法のかけら【レッド】"
+    },
+    {
+      "id": 209,
+      "gift_id": 1298,
+      "emoji_id": 833946788876648489,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6b4f7a0a3747eb9ef65d2b580ca20228.png",
+      "name_en_us": "Magic Fragment [White]",
+      "name_ja_jp": "魔法のかけら【ホワイト】"
+    },
+    {
+      "id": 210,
+      "gift_id": 1299,
+      "emoji_id": 833946795352129587,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/99124f0ec0dda164040661ff8cbb9932.png",
+      "name_en_us": "Magic Fragment [Blue]",
+      "name_ja_jp": "魔法のかけら【ブルー】"
     }
   ]
 }
