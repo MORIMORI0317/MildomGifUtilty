@@ -1,5 +1,5 @@
 {
-  "data_version": 8.0,
+  "data_version": 9.0,
   "gifts": [
     {
       "id": 0,
@@ -1899,6 +1899,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/99124f0ec0dda164040661ff8cbb9932.png",
       "name_en_us": "Magic Fragment [Blue]",
       "name_ja_jp": "魔法のかけら【ブルー】"
+    },
+    {
+      "id": 211,
+      "gift_id": 1300,
+      "emoji_id": 834262172620030013,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3b1fd43613b9b7bdb6a1ec41b9b91918.png",
+      "name_en_us": "Ram Ram G",
+      "name_ja_jp": "ラムラムG"
+    },
+    {
+      "id": 212,
+      "gift_id": 1301,
+      "emoji_id": 834262181491114014,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f3d32f15994c85960983971445abdb8e.png",
+      "name_en_us": "[963] Mr. Kuro. ..",
+      "name_ja_jp": "［963］くろさん。。"
     }
   ]
 }
