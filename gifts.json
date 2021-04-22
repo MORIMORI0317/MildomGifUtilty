@@ -1,5 +1,5 @@
 {
-  "data_version": 9.0,
+  "data_version": 10.0,
   "gifts": [
     {
       "id": 0,
@@ -1917,6 +1917,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f3d32f15994c85960983971445abdb8e.png",
       "name_en_us": "[963] Mr. Kuro. ..",
       "name_ja_jp": "［963］くろさん。。"
+    },
+    {
+      "id": 213,
+      "gift_id": 1302,
+      "emoji_id": 834624560980295730,
+      "price": 8888,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b7170022fd7bda579ed2cd7cf4dd5006.png",
+      "name_en_us": "Victory dragon",
+      "name_ja_jp": "勝利のドラゴン"
     }
   ]
 }
