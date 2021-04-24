@@ -1,5 +1,5 @@
 {
-  "data_version": 10.0,
+  "data_version": 11.0,
   "gifts": [
     {
       "id": 0,
@@ -1926,6 +1926,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b7170022fd7bda579ed2cd7cf4dd5006.png",
       "name_en_us": "Victory dragon",
       "name_ja_jp": "勝利のドラゴン"
+    },
+    {
+      "id": 214,
+      "gift_id": 1303,
+      "emoji_id": 835318151666860112,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/36297066249ff79f3448578108ddfd78.png",
+      "name_en_us": "Sy4Ch1",
+      "name_ja_jp": "Sy4Ch1"
+    },
+    {
+      "id": 215,
+      "gift_id": 1304,
+      "emoji_id": 835318167797497897,
+      "price": 1888,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/914f4fb57a7eb792b06c41bea5dfd269.png",
+      "name_en_us": "cracker",
+      "name_ja_jp": "クラッカー"
     }
   ]
 }
