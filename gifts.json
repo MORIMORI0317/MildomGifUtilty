@@ -1,5 +1,5 @@
 {
-  "data_version": 11.0,
+  "data_version": 12.0,
   "gifts": [
     {
       "id": 0,
@@ -1944,6 +1944,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/914f4fb57a7eb792b06c41bea5dfd269.png",
       "name_en_us": "cracker",
       "name_ja_jp": "クラッカー"
+    },
+    {
+      "id": 216,
+      "gift_id": 1305,
+      "emoji_id": 836798888358576188,
+      "price": 1699,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a6d37aacafba62651965e91227c274e7.png",
+      "name_en_us": "Crème caramel",
+      "name_ja_jp": "プリンパフェ"
+    },
+    {
+      "id": 217,
+      "gift_id": 1306,
+      "emoji_id": 836798897380786186,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6bd7948e26c0d692530501f416e37384.png",
+      "name_en_us": "Solution!",
+      "name_ja_jp": "解決！"
     }
   ]
 }
