@@ -1,5 +1,5 @@
 {
-  "data_version": 12.0,
+  "data_version": 13.0,
   "gifts": [
     {
       "id": 0,
@@ -1962,6 +1962,78 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6bd7948e26c0d692530501f416e37384.png",
       "name_en_us": "Solution!",
       "name_ja_jp": "解決！"
+    },
+    {
+      "id": 218,
+      "gift_id": 1312,
+      "emoji_id": 837161272612093974,
+      "price": 3,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d1937ff9f0e16962b703591e418639bb.png",
+      "name_en_us": "enjoy!",
+      "name_ja_jp": "エンジョイ！"
+    },
+    {
+      "id": 219,
+      "gift_id": 1313,
+      "emoji_id": 837161280983793704,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5cfd61003caa8f873f3db0b6ec1ff905.png",
+      "name_en_us": "Celebration!",
+      "name_ja_jp": "祝！"
+    },
+    {
+      "id": 220,
+      "gift_id": 1314,
+      "emoji_id": 837161286072532992,
+      "price": 19999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/bf30384ce060468dece9cc4aa1061fce.png",
+      "name_en_us": "Diamond ring",
+      "name_ja_jp": "ダイヤの指輪"
+    },
+    {
+      "id": 221,
+      "gift_id": 1307,
+      "emoji_id": 837161291746771004,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4bbae2196c792e0e15418cc3bd54ef84.png",
+      "name_en_us": "S rank gift",
+      "name_ja_jp": "Sランクギフト"
+    },
+    {
+      "id": 222,
+      "gift_id": 1308,
+      "emoji_id": 837161297396105217,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/81f288266cedb67f737dd753661ca8fd.png",
+      "name_en_us": "A rank gift",
+      "name_ja_jp": "Aランクギフト"
+    },
+    {
+      "id": 223,
+      "gift_id": 1309,
+      "emoji_id": 837161303582703676,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/135cb851ecc028734dde4b2d853878bc.png",
+      "name_en_us": "B rank gift",
+      "name_ja_jp": "Bランクギフト"
+    },
+    {
+      "id": 224,
+      "gift_id": 1310,
+      "emoji_id": 837161309283418132,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/364c8ee066504bf8c550f102fd46646d.png",
+      "name_en_us": "C rank gift",
+      "name_ja_jp": "Cランクギフト"
+    },
+    {
+      "id": 225,
+      "gift_id": 1311,
+      "emoji_id": 837161315843440680,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6ca3adb77e30d35b1e1443cc14939695.png",
+      "name_en_us": "D rank gift",
+      "name_ja_jp": "Dランクギフト"
     }
   ]
 }
