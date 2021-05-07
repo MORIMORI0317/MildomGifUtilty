@@ -1,5 +1,5 @@
 {
-  "data_version": 14.0,
+  "data_version": 15.0,
   "gifts": [
     {
       "id": 0,
@@ -2061,6 +2061,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9fb02c3062aaae4fabc4e26545a6878f.png",
       "name_en_us": "Moving beckoning cat",
       "name_ja_jp": "動く招き猫"
+    },
+    {
+      "id": 229,
+      "gift_id": 1318,
+      "emoji_id": 840234145278984252,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f537bc94fe260fd3948e1ed17171eef3.png",
+      "name_en_us": "Magic Fragment [Green]",
+      "name_ja_jp": "魔法のかけら【グリーン】"
+    },
+    {
+      "id": 230,
+      "gift_id": 1319,
+      "emoji_id": 840234153927901204,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6b4f7a0a3747eb9ef65d2b580ca20228.png",
+      "name_en_us": "Magic Fragment [White]",
+      "name_ja_jp": "魔法のかけら【ホワイト】"
+    },
+    {
+      "id": 231,
+      "gift_id": 1320,
+      "emoji_id": 840234161985552424,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/52645ca2d46fb9e9beee35e2f0062755.png",
+      "name_en_us": "Magic Fragment [Red]",
+      "name_ja_jp": "魔法のかけら【レッド】"
     }
   ]
 }
