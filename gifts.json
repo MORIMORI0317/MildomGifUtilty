@@ -1,5 +1,5 @@
 {
-  "data_version": 15.0,
+  "data_version": 16.0,
   "gifts": [
     {
       "id": 0,
@@ -2088,6 +2088,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/52645ca2d46fb9e9beee35e2f0062755.png",
       "name_en_us": "Magic Fragment [Red]",
       "name_ja_jp": "魔法のかけら【レッド】"
+    },
+    {
+      "id": 232,
+      "gift_id": 1321,
+      "emoji_id": 841961581318242355,
+      "price": 499,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9fb02c3062aaae4fabc4e26545a6878f.png",
+      "name_en_us": "Moving beckoning cat",
+      "name_ja_jp": "動く招き猫"
     }
   ]
 }
