@@ -1,5 +1,5 @@
 {
-  "data_version": 16.0,
+  "data_version": 17.0,
   "gifts": [
     {
       "id": 0,
@@ -2097,6 +2097,60 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9fb02c3062aaae4fabc4e26545a6878f.png",
       "name_en_us": "Moving beckoning cat",
       "name_ja_jp": "動く招き猫"
+    },
+    {
+      "id": 233,
+      "gift_id": 1322,
+      "emoji_id": 842184445301358602,
+      "price": 1999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9e4d19dba3249bedf69385b23ec87c31.png",
+      "name_en_us": "Good bear",
+      "name_ja_jp": "グッドくま"
+    },
+    {
+      "id": 234,
+      "gift_id": 1323,
+      "emoji_id": 842184453743837184,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/bf2d5542f4d5ccc354e94e2ec520bcf9.png",
+      "name_en_us": "Mistake",
+      "name_ja_jp": "まがれつ"
+    },
+    {
+      "id": 235,
+      "gift_id": 1324,
+      "emoji_id": 842184461013483538,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/02da3163a2bd2e7658ae50678f8f3855.png",
+      "name_en_us": "Hinapiyo",
+      "name_ja_jp": "ひなぴよ"
+    },
+    {
+      "id": 236,
+      "gift_id": 1325,
+      "emoji_id": 842184467883622411,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3342f69de0cb0ae56ff82e36633ce8cc.png",
+      "name_en_us": "Nephrite",
+      "name_ja_jp": "ネフライト"
+    },
+    {
+      "id": 237,
+      "gift_id": 1326,
+      "emoji_id": 842184474808025119,
+      "price": 100,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b8460d45f73eb17fb4b21f73dc42e230.png",
+      "name_en_us": "Umehara",
+      "name_ja_jp": "ウメハラ"
+    },
+    {
+      "id": 238,
+      "gift_id": 1327,
+      "emoji_id": 842184482693578783,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/33b42450284cf2469d7be8c82f308682.png",
+      "name_en_us": "Gunbi-kun",
+      "name_ja_jp": "ぐんび君"
     }
   ]
 }
