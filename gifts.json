@@ -1,5 +1,5 @@
 {
-  "data_version": 17.0,
+  "data_version": 18.0,
   "gifts": [
     {
       "id": 0,
@@ -2151,6 +2151,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/33b42450284cf2469d7be8c82f308682.png",
       "name_en_us": "Gunbi-kun",
       "name_ja_jp": "ぐんび君"
+    },
+    {
+      "id": 239,
+      "gift_id": 1328,
+      "emoji_id": 842867446708961280,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e0b4f3c1caee3aea5121c745e0252470.png",
+      "name_en_us": "Best recommended",
+      "name_ja_jp": "最推し"
     }
   ]
 }
