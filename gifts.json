@@ -1,5 +1,5 @@
 {
-  "data_version": 18.0,
+  "data_version": 19.0,
   "gifts": [
     {
       "id": 0,
@@ -2160,6 +2160,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e0b4f3c1caee3aea5121c745e0252470.png",
       "name_en_us": "Best recommended",
       "name_ja_jp": "最推し"
+    },
+    {
+      "id": 240,
+      "gift_id": 1329,
+      "emoji_id": 844409032700985344,
+      "price": 1899,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a256634efc3fb07753fd2d4d0404a5e0.png",
+      "name_en_us": "Magic stick",
+      "name_ja_jp": "魔法のステッキ"
     }
   ]
 }
