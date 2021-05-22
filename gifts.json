@@ -1,5 +1,5 @@
 {
-  "data_version": 19.0,
+  "data_version": 20.0,
   "gifts": [
     {
       "id": 0,
@@ -2169,6 +2169,267 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a256634efc3fb07753fd2d4d0404a5e0.png",
       "name_en_us": "Magic stick",
       "name_ja_jp": "魔法のステッキ"
+    },
+    {
+      "id": 241,
+      "gift_id": 1330,
+      "emoji_id": 845496197225381929,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cc9931a6bdfc565c33fb0d03d8452c53.png",
+      "name_en_us": "Support plate",
+      "name_ja_jp": "応援プレート"
+    },
+    {
+      "id": 242,
+      "gift_id": 1332,
+      "emoji_id": 845496208842948639,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a39174888718fba0b8c144d93057aa20.png",
+      "name_en_us": "Ess",
+      "name_ja_jp": "Ess"
+    },
+    {
+      "id": 243,
+      "gift_id": 1333,
+      "emoji_id": 845496217891110963,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2a66c6d88c75cc2fc39ff5510d82f6de.png",
+      "name_en_us": "Naetor",
+      "name_ja_jp": "Naetor"
+    },
+    {
+      "id": 244,
+      "gift_id": 1334,
+      "emoji_id": 845496226668478464,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f77d7976669b8793e675119732a1c5ca.png",
+      "name_en_us": "Rizart",
+      "name_ja_jp": "Rizart"
+    },
+    {
+      "id": 245,
+      "gift_id": 1335,
+      "emoji_id": 845496235514658836,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f5a989200f13067a162bc0230c5f7748.png",
+      "name_en_us": "Alice",
+      "name_ja_jp": "Alice"
+    },
+    {
+      "id": 246,
+      "gift_id": 1336,
+      "emoji_id": 845496243047104552,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b616fa27c94492e1823a7cab11a0034d.png",
+      "name_en_us": "Yusea",
+      "name_ja_jp": "Yusea"
+    },
+    {
+      "id": 247,
+      "gift_id": 1337,
+      "emoji_id": 845496252371566592,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/13658d8c995b66dd2e20be36f0598533.png",
+      "name_en_us": "Ruri",
+      "name_ja_jp": "Ruri"
+    },
+    {
+      "id": 248,
+      "gift_id": 1338,
+      "emoji_id": 845496260034691133,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f77d7976669b8793e675119732a1c5ca.png",
+      "name_en_us": "Rizart",
+      "name_ja_jp": "Rizart"
+    },
+    {
+      "id": 249,
+      "gift_id": 1339,
+      "emoji_id": 845496269082591302,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/23c03191b1e41d5fcf1289578f22df4f.png",
+      "name_en_us": "Scarlet",
+      "name_ja_jp": "Scarlet"
+    },
+    {
+      "id": 250,
+      "gift_id": 1340,
+      "emoji_id": 845496276723433503,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c755ca49ad1d752aa862d19fd3a088c2.png",
+      "name_en_us": "Qjac",
+      "name_ja_jp": "Qjac"
+    },
+    {
+      "id": 251,
+      "gift_id": 1341,
+      "emoji_id": 845496284526018582,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a58ebdcdfbbf2d399b8b79b4cad488b7.png",
+      "name_en_us": "Selly",
+      "name_ja_jp": "Selly"
+    },
+    {
+      "id": 252,
+      "gift_id": 1342,
+      "emoji_id": 845496292229775410,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9d6f05a2020d5f1d47269521ca4cbcf8.png",
+      "name_en_us": "Mondo",
+      "name_ja_jp": "Mondo"
+    },
+    {
+      "id": 253,
+      "gift_id": 1343,
+      "emoji_id": 845496300643287070,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ad9fa06caf9fe70ac32652feb7fb7ea5.png",
+      "name_en_us": "Ras",
+      "name_ja_jp": "Ras"
+    },
+    {
+      "id": 254,
+      "gift_id": 1344,
+      "emoji_id": 845496309652914216,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/07236476f5621c7c4331d993a0713909.png",
+      "name_en_us": "Cpt",
+      "name_ja_jp": "Cpt"
+    },
+    {
+      "id": 255,
+      "gift_id": 1345,
+      "emoji_id": 845496317388259368,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ba040b60b0254043c1ae9d5d61ddc686.png",
+      "name_en_us": "Munchkin",
+      "name_ja_jp": "Munchkin"
+    },
+    {
+      "id": 256,
+      "gift_id": 1346,
+      "emoji_id": 845496323837919233,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d02b21a3cb3a9f2b1d5f6f7587638104.png",
+      "name_en_us": "neth",
+      "name_ja_jp": "neth"
+    },
+    {
+      "id": 257,
+      "gift_id": 1347,
+      "emoji_id": 845496330793123850,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/456ff9f901187c9c43073116e8fbf2d7.png",
+      "name_en_us": "rion",
+      "name_ja_jp": "rion"
+    },
+    {
+      "id": 258,
+      "gift_id": 1348,
+      "emoji_id": 845496337221812255,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2b717ccc3c9f928d8f820db96760f182.png",
+      "name_en_us": "Medusa",
+      "name_ja_jp": "Medusa"
+    },
+    {
+      "id": 259,
+      "gift_id": 1349,
+      "emoji_id": 845496342910205964,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/034ac0729e0701a8021be6c07a718e41.png",
+      "name_en_us": "Zepher",
+      "name_ja_jp": "Zepher"
+    },
+    {
+      "id": 260,
+      "gift_id": 1350,
+      "emoji_id": 845496349767761960,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ed2af9cc686b6123b2e8da8fa2635e8e.png",
+      "name_en_us": "Wokka",
+      "name_ja_jp": "Wokka"
+    },
+    {
+      "id": 261,
+      "gift_id": 1351,
+      "emoji_id": 845496355890921482,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2bf82489a1e63235bee0416ea3da9059.png",
+      "name_en_us": "Kawase",
+      "name_ja_jp": "カワセ"
+    },
+    {
+      "id": 262,
+      "gift_id": 1352,
+      "emoji_id": 845496362719117373,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/aa0a7bea3f7fbe8e763eff2950013783.png",
+      "name_en_us": "Cornn",
+      "name_ja_jp": "Cornn"
+    },
+    {
+      "id": 263,
+      "gift_id": 1353,
+      "emoji_id": 845496369086988309,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/aff85822082e8ec5e2dc48c553098bfe.png",
+      "name_en_us": "VanilLa",
+      "name_ja_jp": "VanilLa"
+    },
+    {
+      "id": 264,
+      "gift_id": 1354,
+      "emoji_id": 845496375910989864,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/26a9b9492d605cf9c63b6a9a5d6ac588.png",
+      "name_en_us": "UyuRiru",
+      "name_ja_jp": "うゅりる"
+    },
+    {
+      "id": 265,
+      "gift_id": 1355,
+      "emoji_id": 845496382060363787,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/743337c22a52e6ff88b84d3e32a744b3.png",
+      "name_en_us": "Toppy",
+      "name_ja_jp": "とっぴー"
+    },
+    {
+      "id": 266,
+      "gift_id": 1356,
+      "emoji_id": 845496388392583218,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5c4d1963f77c95bff0f3855438fecdbb.png",
+      "name_en_us": "Francisco",
+      "name_ja_jp": "フランシスコ"
+    },
+    {
+      "id": 267,
+      "gift_id": 1357,
+      "emoji_id": 845496394613522462,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2011a857e1aa89c01e456e99eaf34243.png",
+      "name_en_us": "Arisaka",
+      "name_ja_jp": "ありさか"
+    },
+    {
+      "id": 268,
+      "gift_id": 1358,
+      "emoji_id": 845496400204791808,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3708b7b4921cb97c72998407dc54bd31.png",
+      "name_en_us": "CRWIN",
+      "name_ja_jp": "CRWIN"
+    },
+    {
+      "id": 269,
+      "gift_id": 1331,
+      "emoji_id": 845496405861597235,
+      "price": 0,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/64490a72cf05d6daf1f778394fb66898.png",
+      "name_en_us": "Cheering light",
+      "name_ja_jp": "応援ライト"
     }
   ]
 }
