@@ -1,5 +1,5 @@
 {
-  "data_version": 20.0,
+  "data_version": 21.0,
   "gifts": [
     {
       "id": 0,
@@ -2430,6 +2430,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/64490a72cf05d6daf1f778394fb66898.png",
       "name_en_us": "Cheering light",
       "name_ja_jp": "応援ライト"
+    },
+    {
+      "id": 270,
+      "gift_id": 1359,
+      "emoji_id": 846220971185930260,
+      "price": 1999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e32dd5adfcb775e2ca164210e9a07da8.png",
+      "name_en_us": "Wait for you in the rain",
+      "name_ja_jp": "雨の中で君を待つ"
     }
   ]
 }
