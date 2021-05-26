@@ -1,5 +1,5 @@
 {
-  "data_version": 21.0,
+  "data_version": 22.0,
   "gifts": [
     {
       "id": 0,
@@ -2439,6 +2439,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e32dd5adfcb775e2ca164210e9a07da8.png",
       "name_en_us": "Wait for you in the rain",
       "name_ja_jp": "雨の中で君を待つ"
+    },
+    {
+      "id": 271,
+      "gift_id": 1360,
+      "emoji_id": 846942087479033887,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2fe58bb54782776dfc7afe9519418c0d.png",
+      "name_en_us": "invincible",
+      "name_ja_jp": "無敵"
     }
   ]
 }
