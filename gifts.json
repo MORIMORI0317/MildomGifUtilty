@@ -1,5 +1,5 @@
 {
-  "data_version": 22.0,
+  "data_version": 23.0,
   "gifts": [
     {
       "id": 0,
@@ -2448,6 +2448,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2fe58bb54782776dfc7afe9519418c0d.png",
       "name_en_us": "invincible",
       "name_ja_jp": "無敵"
+    },
+    {
+      "id": 272,
+      "gift_id": 1361,
+      "emoji_id": 847308135178043412,
+      "price": 3,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d1937ff9f0e16962b703591e418639bb.png",
+      "name_en_us": "enjoy!",
+      "name_ja_jp": "エンジョイ！"
     }
   ]
 }
