@@ -1,5 +1,5 @@
 {
-  "data_version": 23.0,
+  "data_version": 24.0,
   "gifts": [
     {
       "id": 0,
@@ -2457,6 +2457,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d1937ff9f0e16962b703591e418639bb.png",
       "name_en_us": "enjoy!",
       "name_ja_jp": "エンジョイ！"
+    },
+    {
+      "id": 273,
+      "gift_id": 1362,
+      "emoji_id": 848859047356923924,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b9e26639c754c7ccddd759a7f45e4b98.png",
+      "name_en_us": "1st place prize",
+      "name_ja_jp": "1位入賞"
+    },
+    {
+      "id": 274,
+      "gift_id": 1363,
+      "emoji_id": 848859055384428595,
+      "price": 29,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7b3a88feb475c5c6176895975730b6a0.png",
+      "name_en_us": "2nd place prize",
+      "name_ja_jp": "2位入賞"
+    },
+    {
+      "id": 275,
+      "gift_id": 1364,
+      "emoji_id": 848859062649225246,
+      "price": 19,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ab6b530d0057bd5deeb5ae9bb59c7ac0.png",
+      "name_en_us": "3rd place prize",
+      "name_ja_jp": "3位入賞"
     }
   ]
 }
