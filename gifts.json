@@ -1,5 +1,5 @@
 {
-  "data_version": 27.0,
+  "data_version": 28.0,
   "gifts": [
     {
       "id": 0,
@@ -895,9 +895,9 @@
     {
       "id": 99,
       "gift_id": 1171,
-      "emoji_id": 807244766730256404,
+      "emoji_id": 851656788721532958,
       "price": 29999,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d994059315fef46217de35ae90103a70.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/465a50bfb19a3580fbce507f01d9fc75.png",
       "name_en_us": "rocket",
       "name_ja_jp": "ロケット"
     },
@@ -2520,6 +2520,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/21c30c57feff7bcb874eb48854fe4520.png",
       "name_en_us": "GooooD!",
       "name_ja_jp": "GooooD！"
+    },
+    {
+      "id": 280,
+      "gift_id": 1369,
+      "emoji_id": 851656801941848065,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/80166793b59953543938d2650683a8bd.png",
+      "name_en_us": "Yunako",
+      "name_ja_jp": "ゆなっこ"
+    },
+    {
+      "id": 281,
+      "gift_id": 1370,
+      "emoji_id": 851656810536108072,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7ed69999d5ab49910380120eec8965ea.png",
+      "name_en_us": "Ryocho",
+      "name_ja_jp": "りょりょち"
+    },
+    {
+      "id": 282,
+      "gift_id": 1371,
+      "emoji_id": 851656830618435584,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f858137423f8870b416f99c3354411f8.png",
+      "name_en_us": "Vivor Bagins",
+      "name_ja_jp": "ビボルバギンズ"
+    },
+    {
+      "id": 283,
+      "gift_id": 1372,
+      "emoji_id": 851656838902579251,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5609690f85070afbd96c0eba178b3e0d.png",
+      "name_en_us": "Mistake",
+      "name_ja_jp": "まがれつ"
     }
   ]
 }
