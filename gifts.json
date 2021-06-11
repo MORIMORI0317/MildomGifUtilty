@@ -1,5 +1,5 @@
 {
-  "data_version": 28.0,
+  "data_version": 29.0,
   "gifts": [
     {
       "id": 0,
@@ -2556,6 +2556,60 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5609690f85070afbd96c0eba178b3e0d.png",
       "name_en_us": "Mistake",
       "name_ja_jp": "まがれつ"
+    },
+    {
+      "id": 284,
+      "gift_id": 1373,
+      "emoji_id": 852743952192897034,
+      "price": 29,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/92edae48319e8aa1286026e762707570.png",
+      "name_en_us": "!! !!",
+      "name_ja_jp": "！！"
+    },
+    {
+      "id": 285,
+      "gift_id": 1374,
+      "emoji_id": 852743963559067649,
+      "price": 29,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/adaf9481e633012958e56cc4bf3f6f52.png",
+      "name_en_us": "?? ??",
+      "name_ja_jp": "？？"
+    },
+    {
+      "id": 286,
+      "gift_id": 1375,
+      "emoji_id": 852743972332765184,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/374239200301723763ba3b18961a2718.png",
+      "name_en_us": "Bye bye",
+      "name_ja_jp": "バイバイ"
+    },
+    {
+      "id": 287,
+      "gift_id": 1376,
+      "emoji_id": 852743979481169951,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9a95f2ffaf40646b742e1d57d20b1145.png",
+      "name_en_us": "Hooray!",
+      "name_ja_jp": "わーい！"
+    },
+    {
+      "id": 288,
+      "gift_id": 1377,
+      "emoji_id": 852743986678333470,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/df20b2324869c71bc3b45488f6219f6d.png",
+      "name_en_us": "cute",
+      "name_ja_jp": "かわいい"
+    },
+    {
+      "id": 289,
+      "gift_id": 1378,
+      "emoji_id": 852743994135543808,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/01cdfeda35a0dcee5e5ecdbff31c0152.png",
+      "name_en_us": "Understand",
+      "name_ja_jp": "わかる"
     }
   ]
 }
