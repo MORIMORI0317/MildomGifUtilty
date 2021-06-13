@@ -1,5 +1,5 @@
 {
-  "data_version": 29.0,
+  "data_version": 30.0,
   "gifts": [
     {
       "id": 0,
@@ -2610,6 +2610,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/01cdfeda35a0dcee5e5ecdbff31c0152.png",
       "name_en_us": "Understand",
       "name_ja_jp": "わかる"
+    },
+    {
+      "id": 290,
+      "gift_id": 1379,
+      "emoji_id": 853468730340278334,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1de137be6c4332828ce0680c09490666.png",
+      "name_en_us": "Win",
+      "name_ja_jp": "必勝"
+    },
+    {
+      "id": 291,
+      "gift_id": 1380,
+      "emoji_id": 853468738431090689,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/aa27004d6c1b3706cdcb893ff896db1b.png",
+      "name_en_us": "Good luck!",
+      "name_ja_jp": "がんばろ！"
     }
   ]
 }
