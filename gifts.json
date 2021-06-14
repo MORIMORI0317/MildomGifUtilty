@@ -1,5 +1,5 @@
 {
-  "data_version": 30.0,
+  "data_version": 31.0,
   "gifts": [
     {
       "id": 0,
@@ -2628,6 +2628,51 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/aa27004d6c1b3706cdcb893ff896db1b.png",
       "name_en_us": "Good luck!",
       "name_ja_jp": "がんばろ！"
+    },
+    {
+      "id": 292,
+      "gift_id": 1381,
+      "emoji_id": 853831125260828713,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4bbae2196c792e0e15418cc3bd54ef84.png",
+      "name_en_us": "S rank gift",
+      "name_ja_jp": "Sランクギフト"
+    },
+    {
+      "id": 293,
+      "gift_id": 1382,
+      "emoji_id": 853831141181227028,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/81f288266cedb67f737dd753661ca8fd.png",
+      "name_en_us": "A rank gift",
+      "name_ja_jp": "Aランクギフト"
+    },
+    {
+      "id": 294,
+      "gift_id": 1383,
+      "emoji_id": 853831151131426846,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/135cb851ecc028734dde4b2d853878bc.png",
+      "name_en_us": "B rank gift",
+      "name_ja_jp": "Bランクギフト"
+    },
+    {
+      "id": 295,
+      "gift_id": 1384,
+      "emoji_id": 853831160207769602,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/364c8ee066504bf8c550f102fd46646d.png",
+      "name_en_us": "C rank gift",
+      "name_ja_jp": "Cランクギフト"
+    },
+    {
+      "id": 296,
+      "gift_id": 1385,
+      "emoji_id": 853831168473432075,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6ca3adb77e30d35b1e1443cc14939695.png",
+      "name_en_us": "D rank gift",
+      "name_ja_jp": "Dランクギフト"
     }
   ]
 }
