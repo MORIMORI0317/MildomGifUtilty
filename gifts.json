@@ -1,5 +1,5 @@
 {
-  "data_version": 32.0,
+  "data_version": 33.0,
   "gifts": [
     {
       "id": 0,
@@ -3069,6 +3069,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0e5f8333423a6b9df77b25abb2546fe9.png",
       "name_en_us": "TOPANGA27",
       "name_ja_jp": "TOPANGA27"
+    },
+    {
+      "id": 341,
+      "gift_id": 1430,
+      "emoji_id": 854918283799298068,
+      "price": 1999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d41bf794a195c3c84df2b27bfcd2ed55.png",
+      "name_en_us": "High five!",
+      "name_ja_jp": "ハイタッチ！"
     }
   ]
 }
