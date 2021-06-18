@@ -1,5 +1,5 @@
 {
-  "data_version": 33.0,
+  "data_version": 34.0,
   "gifts": [
     {
       "id": 0,
@@ -3078,6 +3078,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d41bf794a195c3c84df2b27bfcd2ed55.png",
       "name_en_us": "High five!",
       "name_ja_jp": "ハイタッチ！"
+    },
+    {
+      "id": 342,
+      "gift_id": 1431,
+      "emoji_id": 855280666546405376,
+      "price": 2399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3af91c1993b5c0224f2713c31b2c5015.png",
+      "name_en_us": "Highest \u0026 highest",
+      "name_ja_jp": "最＆高"
     }
   ]
 }
