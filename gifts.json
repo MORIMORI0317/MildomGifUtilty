@@ -1,5 +1,5 @@
 {
-  "data_version": 36.0,
+  "data_version": 37.0,
   "gifts": [
     {
       "id": 0,
@@ -905,7 +905,7 @@
       "id": 100,
       "gift_id": 1174,
       "emoji_id": 807244772107747368,
-      "price": 899,
+      "price": 999,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b9e18492f57ac1b6b4bf3d5ef14f1f27.png",
       "name_en_us": "Fireworks",
       "name_ja_jp": "打ち上げ花火"
@@ -3100,18 +3100,18 @@
     {
       "id": 344,
       "gift_id": 1433,
-      "emoji_id": 857454995066585128,
+      "emoji_id": 858179774219812864,
       "price": 1,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9fb02c3062aaae4fabc4e26545a6878f.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/087d3edb1dcc070389a4146b8453739a.png",
       "name_en_us": "test1",
       "name_ja_jp": "test1"
     },
     {
       "id": 345,
       "gift_id": 1434,
-      "emoji_id": 857455001831342140,
+      "emoji_id": 858179779350364190,
       "price": 1,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2f017fdc622e728a434c66008a2cc550.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3af91c1993b5c0224f2713c31b2c5015.png",
       "name_en_us": "test2",
       "name_ja_jp": "test2"
     },
@@ -3154,11 +3154,47 @@
     {
       "id": 350,
       "gift_id": 1439,
-      "emoji_id": 857455034580205568,
+      "emoji_id": 858179784533606420,
       "price": 5899,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/377c41b2817df66214682663efa5b701.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4158f9a6233382aa3c791c590d239dde.png",
       "name_en_us": "Penlight",
       "name_ja_jp": "ペンライト"
+    },
+    {
+      "id": 351,
+      "gift_id": 1440,
+      "emoji_id": 858179790598307851,
+      "price": 6999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2b6027d02b6075e77544f274fb7bae7a.png",
+      "name_en_us": "Goldfish swaying",
+      "name_ja_jp": "金魚ゆらゆら"
+    },
+    {
+      "id": 352,
+      "gift_id": 1441,
+      "emoji_id": 858179795636060176,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/407e5ee25094d7d95912c57a4b7b8bab.png",
+      "name_en_us": "Mask",
+      "name_ja_jp": "お面"
+    },
+    {
+      "id": 353,
+      "gift_id": 1442,
+      "emoji_id": 858179800439062568,
+      "price": 2399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/211d7d19df8482e93a467f5733aa4e44.png",
+      "name_en_us": "Bubble maker",
+      "name_ja_jp": "バブルメーカー"
+    },
+    {
+      "id": 354,
+      "gift_id": 1443,
+      "emoji_id": 858179806439800852,
+      "price": 3599,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6bb3b19131e19acb8f8a1b2e1d368b52.png",
+      "name_en_us": "Aim!",
+      "name_ja_jp": "ねらいうち！"
     }
   ]
 }
