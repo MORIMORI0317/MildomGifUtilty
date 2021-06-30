@@ -1,5 +1,5 @@
 {
-  "data_version": 37.0,
+  "data_version": 38.0,
   "gifts": [
     {
       "id": 0,
@@ -3195,6 +3195,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6bb3b19131e19acb8f8a1b2e1d368b52.png",
       "name_en_us": "Aim!",
       "name_ja_jp": "ねらいうち！"
+    },
+    {
+      "id": 355,
+      "gift_id": 1444,
+      "emoji_id": 859629324109742100,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/004a0cf52395d4adf392f4ec1c36af95.png",
+      "name_en_us": "Respect",
+      "name_ja_jp": "尊み"
     }
   ]
 }
