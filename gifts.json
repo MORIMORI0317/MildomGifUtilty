@@ -1,5 +1,5 @@
 {
-  "data_version": 40.0,
+  "data_version": 41.0,
   "gifts": [
     {
       "id": 0,
@@ -194,7 +194,7 @@
       "id": 21,
       "gift_id": 1059,
       "emoji_id": 807244326170001439,
-      "price": 19,
+      "price": 20,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0312b4f98daf2de1f5abfd86f8f91b79.png",
       "name_en_us": "watermelon",
       "name_ja_jp": "スイカ"
@@ -3348,6 +3348,69 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2f017fdc622e728a434c66008a2cc550.png",
       "name_en_us": "hug",
       "name_ja_jp": "ハグ"
+    },
+    {
+      "id": 372,
+      "gift_id": 1464,
+      "emoji_id": 862528428179980318,
+      "price": 1299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c4ec10bfc222fdde0b7ba3c3f8f0d0c4.png",
+      "name_en_us": "Blessing of seven colors",
+      "name_ja_jp": "七色の祝福"
+    },
+    {
+      "id": 373,
+      "gift_id": 1465,
+      "emoji_id": 862528434566856755,
+      "price": 2299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0f452055d2ebe8bd7186aa56e6538cdd.png",
+      "name_en_us": "relax time",
+      "name_ja_jp": "リラックスタイム"
+    },
+    {
+      "id": 374,
+      "gift_id": 1466,
+      "emoji_id": 862528440099930113,
+      "price": 1299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c6b6f47ccc24649fc6e50cf0212de07e.png",
+      "name_en_us": "cheers! !!",
+      "name_ja_jp": "乾杯！！"
+    },
+    {
+      "id": 375,
+      "gift_id": 1460,
+      "emoji_id": 862528445488955424,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/bf2248699295bf22c6cd0246e0d01935.png",
+      "name_en_us": "Love Nyan",
+      "name_ja_jp": "ラブにゃん"
+    },
+    {
+      "id": 376,
+      "gift_id": 1461,
+      "emoji_id": 862528451449847839,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/afa26d8abb510a9512b75f3818276586.png",
+      "name_en_us": "Horse Nyan",
+      "name_ja_jp": "うまにゃん"
+    },
+    {
+      "id": 377,
+      "gift_id": 1462,
+      "emoji_id": 862528457053437992,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6cf06355444b17c60442d9dab60771c2.png",
+      "name_en_us": "Terenyan",
+      "name_ja_jp": "てれにゃん"
+    },
+    {
+      "id": 378,
+      "gift_id": 1463,
+      "emoji_id": 862528461930758174,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/56c0a3578ad053e85b25c5545b5d2fd6.png",
+      "name_en_us": "Nerunyan",
+      "name_ja_jp": "ねるにゃん"
     }
   ]
 }
