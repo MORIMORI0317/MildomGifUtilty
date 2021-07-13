@@ -1,5 +1,5 @@
 {
-  "data_version": 41.0,
+  "data_version": 42.0,
   "gifts": [
     {
       "id": 0,
@@ -3411,6 +3411,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/56c0a3578ad053e85b25c5545b5d2fd6.png",
       "name_en_us": "Nerunyan",
       "name_ja_jp": "ねるにゃん"
+    },
+    {
+      "id": 379,
+      "gift_id": 1467,
+      "emoji_id": 864340366022803526,
+      "price": 10,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f8faf1de74e2d347c8775f9ea659c5d2.png",
+      "name_en_us": "Pirate ship anchor",
+      "name_ja_jp": "海賊船のイカリ"
     }
   ]
 }
