@@ -1,5 +1,5 @@
 {
-  "data_version": 42.0,
+  "data_version": 43.0,
   "gifts": [
     {
       "id": 0,
@@ -3420,6 +3420,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f8faf1de74e2d347c8775f9ea659c5d2.png",
       "name_en_us": "Pirate ship anchor",
       "name_ja_jp": "海賊船のイカリ"
+    },
+    {
+      "id": 380,
+      "gift_id": 1468,
+      "emoji_id": 864702754102181929,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/966d8761d39904c1fa6802788a913462.png",
+      "name_en_us": "A little",
+      "name_ja_jp": "すこ"
+    },
+    {
+      "id": 381,
+      "gift_id": 1469,
+      "emoji_id": 864702760313028638,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b1795c0261cf5711d8f13ef25549082b.png",
+      "name_en_us": "wait…",
+      "name_ja_jp": "まって…"
+    },
+    {
+      "id": 382,
+      "gift_id": 1470,
+      "emoji_id": 864702766597537812,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/09a8703cc38214c12ffaaf3d30a4f5b0.png",
+      "name_en_us": "Doya",
+      "name_ja_jp": "ドヤァ"
     }
   ]
 }
