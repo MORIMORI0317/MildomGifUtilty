@@ -1,5 +1,5 @@
 {
-  "data_version": 43.0,
+  "data_version": 44.0,
   "gifts": [
     {
       "id": 0,
@@ -3447,6 +3447,78 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/09a8703cc38214c12ffaaf3d30a4f5b0.png",
       "name_en_us": "Doya",
       "name_ja_jp": "ドヤァ"
+    },
+    {
+      "id": 383,
+      "gift_id": 1471,
+      "emoji_id": 865789916134637629,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/31c341b54eaadec466d02a669147e149.png",
+      "name_en_us": "Good luck ★",
+      "name_ja_jp": "がんばれ★"
+    },
+    {
+      "id": 384,
+      "gift_id": 1472,
+      "emoji_id": 865789922433695744,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ef109cd799ce51eead4597b4d44e1916.png",
+      "name_en_us": "I\u0027m sorry ...",
+      "name_ja_jp": "すん…"
+    },
+    {
+      "id": 385,
+      "gift_id": 1473,
+      "emoji_id": 865789929589309450,
+      "price": 89,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/160b41184c18767189415576b2e2e2eb.png",
+      "name_en_us": "Wow!",
+      "name_ja_jp": "すごい！"
+    },
+    {
+      "id": 386,
+      "gift_id": 1474,
+      "emoji_id": 865789934745157653,
+      "price": 89,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1e0fce3cdf197ed65af118d9feb50872.png",
+      "name_en_us": "Will i do it",
+      "name_ja_jp": "オレ様がやろうか"
+    },
+    {
+      "id": 387,
+      "gift_id": 1475,
+      "emoji_id": 865789940456488970,
+      "price": 1999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/18c9263719403db98ffba7869c38c83a.png",
+      "name_en_us": "I love you!",
+      "name_ja_jp": "だいすき！"
+    },
+    {
+      "id": 388,
+      "gift_id": 1476,
+      "emoji_id": 865789945242058752,
+      "price": 1999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c53ebb37c7fba1b7c7e5a9cc7d74c1a7.png",
+      "name_en_us": "I\u0027m sorry ...",
+      "name_ja_jp": "ざんねん…"
+    },
+    {
+      "id": 389,
+      "gift_id": 1477,
+      "emoji_id": 865789950510235694,
+      "price": 1225,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fb28cabf42e34c12a3631effa10d02cf.png",
+      "name_en_us": "GG!",
+      "name_ja_jp": "GG！"
+    },
+    {
+      "id": 390,
+      "gift_id": 1478,
+      "emoji_id": 865789956513202207,
+      "price": 1225,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b8c8e9ba5c9a677f8819b5c3d32fe518.png",
+      "name_en_us": "Thank you ~",
+      "name_ja_jp": "おつかれ～"
     }
   ]
 }
