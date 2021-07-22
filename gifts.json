@@ -1,5 +1,5 @@
 {
-  "data_version": 44.0,
+  "data_version": 45.0,
   "gifts": [
     {
       "id": 0,
@@ -3519,6 +3519,159 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b8c8e9ba5c9a677f8819b5c3d32fe518.png",
       "name_en_us": "Thank you ~",
       "name_ja_jp": "おつかれ～"
+    },
+    {
+      "id": 391,
+      "gift_id": 1479,
+      "emoji_id": 867601854136320080,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/66c7d8ac2f4684f0ad95a33dee7ad2b5.png",
+      "name_en_us": "Ras.2",
+      "name_ja_jp": "Ras.2"
+    },
+    {
+      "id": 392,
+      "gift_id": 1480,
+      "emoji_id": 867601860960190504,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/303291572649b77840d78403e46a966f.png",
+      "name_en_us": "Mondo.2",
+      "name_ja_jp": "Mondo.2"
+    },
+    {
+      "id": 393,
+      "gift_id": 1481,
+      "emoji_id": 867601867194499072,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e8b9ada97f95fb577c4fc985e59b0e4e.png",
+      "name_en_us": "Cpt.2",
+      "name_ja_jp": "Cpt.2"
+    },
+    {
+      "id": 394,
+      "gift_id": 1482,
+      "emoji_id": 867601872537387058,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7028e458ebc9547661360277634dd99e.png",
+      "name_en_us": "Toppy.2",
+      "name_ja_jp": "とっぴー.2"
+    },
+    {
+      "id": 395,
+      "gift_id": 1483,
+      "emoji_id": 867601877544730645,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2c899425bc7eee9d530f2ecdf3a25b71.png",
+      "name_en_us": "YUKICHI",
+      "name_ja_jp": "YUKICHI"
+    },
+    {
+      "id": 396,
+      "gift_id": 1484,
+      "emoji_id": 867601883358167060,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/08adba320a824867f9313a16a30e8d30.png",
+      "name_en_us": "yuaaa",
+      "name_ja_jp": "yuaaa"
+    },
+    {
+      "id": 397,
+      "gift_id": 1485,
+      "emoji_id": 867601888600653834,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/32d2132cd6b9fda18799eaab3690e687.png",
+      "name_en_us": "#MIKAMIKA",
+      "name_ja_jp": "#MIKAMIKA"
+    },
+    {
+      "id": 398,
+      "gift_id": 1486,
+      "emoji_id": 867601894637043782,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/32d2132cd6b9fda18799eaab3690e687.png",
+      "name_en_us": "#MIKAMIKA",
+      "name_ja_jp": "#MIKAMIKA"
+    },
+    {
+      "id": 399,
+      "gift_id": 1487,
+      "emoji_id": 867601900635553792,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3ba74f6d1da3ff8a81a6195431aeb6ea.png",
+      "name_en_us": "TOPANGA43",
+      "name_ja_jp": "TOPANGA43"
+    },
+    {
+      "id": 400,
+      "gift_id": 1488,
+      "emoji_id": 867601906401280010,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e1ea0f0b88589af97dd48ac8b5ad99ab.png",
+      "name_en_us": "TOPANGA44",
+      "name_ja_jp": "TOPANGA44"
+    },
+    {
+      "id": 401,
+      "gift_id": 1489,
+      "emoji_id": 867601912413028352,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5961ac8c4b123e44bee92b5bae7f3750.png",
+      "name_en_us": "TOPANGA44",
+      "name_ja_jp": "TOPANGA44"
+    },
+    {
+      "id": 402,
+      "gift_id": 1490,
+      "emoji_id": 867601917764829184,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/000c0f3c94c3ad31f12604de21a105e0.png",
+      "name_en_us": "TOPANGA46",
+      "name_ja_jp": "TOPANGA46"
+    },
+    {
+      "id": 403,
+      "gift_id": 1491,
+      "emoji_id": 867601924030070846,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7f5dcd038c738720c313d3447c36d342.png",
+      "name_en_us": "TOPANGA47",
+      "name_ja_jp": "TOPANGA47"
+    },
+    {
+      "id": 404,
+      "gift_id": 1492,
+      "emoji_id": 867601930749739018,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b073599db9dd9c1ca0c8f18411d38a68.png",
+      "name_en_us": "TOPANGA48",
+      "name_ja_jp": "TOPANGA48"
+    },
+    {
+      "id": 405,
+      "gift_id": 1493,
+      "emoji_id": 867601936027090974,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6c56ee41d187a71d52f1c131ddf20616.png",
+      "name_en_us": "TOPANGA49",
+      "name_ja_jp": "TOPANGA49"
+    },
+    {
+      "id": 406,
+      "gift_id": 1494,
+      "emoji_id": 867601943118741544,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/bb1c49f8ea4fab61357cdc85a9d85030.png",
+      "name_en_us": "TOPANGA50",
+      "name_ja_jp": "TOPANGA50"
+    },
+    {
+      "id": 407,
+      "gift_id": 1495,
+      "emoji_id": 867601948786294819,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/000c0f3c94c3ad31f12604de21a105e0.png",
+      "name_en_us": "TOPANGA51",
+      "name_ja_jp": "TOPANGA51"
     }
   ]
 }
