@@ -1,5 +1,5 @@
 {
-  "data_version": 45.0,
+  "data_version": 46.0,
   "gifts": [
     {
       "id": 0,
@@ -3672,6 +3672,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/000c0f3c94c3ad31f12604de21a105e0.png",
       "name_en_us": "TOPANGA51",
       "name_ja_jp": "TOPANGA51"
+    },
+    {
+      "id": 408,
+      "gift_id": 1496,
+      "emoji_id": 869413794370158642,
+      "price": 4999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c5e6388ed904ef25b7fb9b11e08230d4.png",
+      "name_en_us": "Elegant tea party",
+      "name_ja_jp": "優雅なお茶会"
+    },
+    {
+      "id": 409,
+      "gift_id": 1497,
+      "emoji_id": 869413801357901884,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/dc316e6b68e4e36450e6d2a63e19b127.png",
+      "name_en_us": "cupcake",
+      "name_ja_jp": "カップケーキ"
     }
   ]
 }
