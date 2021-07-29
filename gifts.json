@@ -1,5 +1,5 @@
 {
-  "data_version": 46.0,
+  "data_version": 47.0,
   "gifts": [
     {
       "id": 0,
@@ -3690,6 +3690,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/dc316e6b68e4e36450e6d2a63e19b127.png",
       "name_en_us": "cupcake",
       "name_ja_jp": "カップケーキ"
+    },
+    {
+      "id": 410,
+      "gift_id": 1498,
+      "emoji_id": 870138569535139910,
+      "price": 3,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d1937ff9f0e16962b703591e418639bb.png",
+      "name_en_us": "enjoy!",
+      "name_ja_jp": "エンジョイ！"
     }
   ]
 }
