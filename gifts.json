@@ -1,5 +1,5 @@
 {
-  "data_version": 47.0,
+  "data_version": 47.1,
   "gifts": [
     {
       "id": 0,
@@ -1112,7 +1112,7 @@
       "id": 123,
       "gift_id": 1203,
       "emoji_id": 807244903644921866,
-      "price": 3999,
+      "price": 5999,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/de8a423de12819c4ba8c30ee33ac1cd0.png",
       "name_en_us": "Takoyaki of flame",
       "name_ja_jp": "炎のたこ焼き"
