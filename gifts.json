@@ -1,5 +1,5 @@
 {
-  "data_version": 49.1,
+  "data_version": 50.1,
   "gifts": [
     {
       "id": 0,
@@ -3762,6 +3762,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4388552f5bc2b8810fa1bd24b20aa74f.png",
       "name_en_us": "Amores Cup-No Fai",
       "name_ja_jp": "アモアス部杯-ないふぁい"
+    },
+    {
+      "id": 418,
+      "gift_id": 1506,
+      "emoji_id": 873762449973719051,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6e8012263161f5669c1635af9ebfca93.png",
+      "name_en_us": "Gunbi-kun",
+      "name_ja_jp": "ぐんび君"
+    },
+    {
+      "id": 419,
+      "gift_id": 1507,
+      "emoji_id": 873762456995000330,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/97ed4430add56c0271d31cb5b0652081.png",
+      "name_en_us": "8/8 Amores Cup-GG",
+      "name_ja_jp": "8/8アモアス部杯-GG"
+    },
+    {
+      "id": 420,
+      "gift_id": 1508,
+      "emoji_id": 873762462837649438,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4388552f5bc2b8810fa1bd24b20aa74f.png",
+      "name_en_us": "8/8 Amores Club Cup_Naifai",
+      "name_ja_jp": "8/8アモアス部杯_ないふぁい"
     }
   ]
 }
