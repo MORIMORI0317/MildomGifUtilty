@@ -1,5 +1,5 @@
 {
-  "data_version": 50.1,
+  "data_version": 51.1,
   "gifts": [
     {
       "id": 0,
@@ -3789,6 +3789,51 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4388552f5bc2b8810fa1bd24b20aa74f.png",
       "name_en_us": "8/8 Amores Club Cup_Naifai",
       "name_ja_jp": "8/8アモアス部杯_ないふぁい"
+    },
+    {
+      "id": 421,
+      "gift_id": 1509,
+      "emoji_id": 874849613549535252,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4bbae2196c792e0e15418cc3bd54ef84.png",
+      "name_en_us": "S rank gift",
+      "name_ja_jp": "Sランクギフト"
+    },
+    {
+      "id": 422,
+      "gift_id": 1511,
+      "emoji_id": 874849620067487745,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/81f288266cedb67f737dd753661ca8fd.png",
+      "name_en_us": "A rank gift",
+      "name_ja_jp": "Aランクギフト"
+    },
+    {
+      "id": 423,
+      "gift_id": 1512,
+      "emoji_id": 874849625775939595,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/135cb851ecc028734dde4b2d853878bc.png",
+      "name_en_us": "B rank gift",
+      "name_ja_jp": "Bランクギフト"
+    },
+    {
+      "id": 424,
+      "gift_id": 1513,
+      "emoji_id": 874849632411353088,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/364c8ee066504bf8c550f102fd46646d.png",
+      "name_en_us": "C rank gift",
+      "name_ja_jp": "Cランクギフト"
+    },
+    {
+      "id": 425,
+      "gift_id": 1514,
+      "emoji_id": 874849637738115103,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6ca3adb77e30d35b1e1443cc14939695.png",
+      "name_en_us": "D rank gift",
+      "name_ja_jp": "Dランクギフト"
     }
   ]
 }
