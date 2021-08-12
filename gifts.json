@@ -1,5 +1,5 @@
 {
-  "data_version": 51.1,
+  "data_version": 52.1,
   "gifts": [
     {
       "id": 0,
@@ -3834,6 +3834,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6ca3adb77e30d35b1e1443cc14939695.png",
       "name_en_us": "D rank gift",
       "name_ja_jp": "Dランクギフト"
+    },
+    {
+      "id": 426,
+      "gift_id": 1515,
+      "emoji_id": 875211998911156244,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/18017dd1921048e7a0fb7c0dc15b56f0.png",
+      "name_en_us": "Mistake",
+      "name_ja_jp": "まがれつ"
     }
   ]
 }
