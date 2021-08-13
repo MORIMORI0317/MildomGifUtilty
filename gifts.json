@@ -1,5 +1,5 @@
 {
-  "data_version": 52.1,
+  "data_version": 53.1,
   "gifts": [
     {
       "id": 0,
@@ -3843,6 +3843,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/18017dd1921048e7a0fb7c0dc15b56f0.png",
       "name_en_us": "Mistake",
       "name_ja_jp": "まがれつ"
+    },
+    {
+      "id": 427,
+      "gift_id": 1516,
+      "emoji_id": 875574386537680936,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cff549045a0843cbd4f57c4656e36507.png",
+      "name_en_us": "Kinamaru",
+      "name_ja_jp": "きなまるる"
+    },
+    {
+      "id": 428,
+      "gift_id": 1517,
+      "emoji_id": 875574392996892732,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/54665db00a7c3e3194a912652f9730bd.png",
+      "name_en_us": "Ruka Baby",
+      "name_ja_jp": "るかベイビー"
+    },
+    {
+      "id": 429,
+      "gift_id": 1518,
+      "emoji_id": 875574398688563201,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ffd779b55b28baf3c6ebfda1dadcaafa.png",
+      "name_en_us": "Bean sprouts",
+      "name_ja_jp": "もやし"
     }
   ]
 }
