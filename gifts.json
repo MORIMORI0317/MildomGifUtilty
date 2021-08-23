@@ -1,5 +1,5 @@
 {
-  "data_version": 55.1,
+  "data_version": 56.1,
   "gifts": [
     {
       "id": 0,
@@ -3978,6 +3978,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4f6f496cd0794f12c8c7bc5c3967bc1d.png",
       "name_en_us": "Kokushimusou",
       "name_ja_jp": "Kokushimusou"
+    },
+    {
+      "id": 442,
+      "gift_id": 1531,
+      "emoji_id": 879198265223045160,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ddeee8cd77b5c11f0f1eac73c8d21528.png",
+      "name_en_us": "Yu-uki",
+      "name_ja_jp": "Yu-uki"
+    },
+    {
+      "id": 443,
+      "gift_id": 1532,
+      "emoji_id": 879198271745171536,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c0f268cd63637f384503f7f13568f17c.png",
+      "name_en_us": "Airin Chiyan",
+      "name_ja_jp": "あいりんちやん"
     }
   ]
 }
