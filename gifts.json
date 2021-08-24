@@ -1,5 +1,5 @@
 {
-  "data_version": 56.1,
+  "data_version": 57.1,
   "gifts": [
     {
       "id": 0,
@@ -941,7 +941,7 @@
       "id": 104,
       "gift_id": 1181,
       "emoji_id": 807244794702725152,
-      "price": 899,
+      "price": 999,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9ef25b2a16644185c645bdb588cf3176.png",
       "name_en_us": "Moon viewing",
       "name_ja_jp": "お月見"
@@ -3996,6 +3996,51 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c0f268cd63637f384503f7f13568f17c.png",
       "name_en_us": "Airin Chiyan",
       "name_ja_jp": "あいりんちやん"
+    },
+    {
+      "id": 444,
+      "gift_id": 1533,
+      "emoji_id": 879560658360889344,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/30550c2cfef16189588db5f261ecc418.png",
+      "name_en_us": "Wanda Furu",
+      "name_ja_jp": "わんだふる"
+    },
+    {
+      "id": 445,
+      "gift_id": 1534,
+      "emoji_id": 879560665394737223,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e94a65f9f59d5a899d093d884f70f00d.png",
+      "name_en_us": "I\u0027m scared",
+      "name_ja_jp": "にこわん"
+    },
+    {
+      "id": 446,
+      "gift_id": 1535,
+      "emoji_id": 879560671774249020,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3b1f172d77c905ee3553a68076b73f48.png",
+      "name_en_us": "Fusewan",
+      "name_ja_jp": "ふせわん"
+    },
+    {
+      "id": 447,
+      "gift_id": 1536,
+      "emoji_id": 879560679097524315,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ac96e8174b91b046256a9debec1be832.png",
+      "name_en_us": "Hashiruwan",
+      "name_ja_jp": "はしるわん"
+    },
+    {
+      "id": 448,
+      "gift_id": 1537,
+      "emoji_id": 879560686022299708,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1af5587cdba1002a56506bf8a970f4ed.png",
+      "name_en_us": "Pekowan",
+      "name_ja_jp": "ぺこわん"
     }
   ]
 }
