@@ -1,5 +1,5 @@
 {
-  "data_version": 57.1,
+  "data_version": 58.1,
   "gifts": [
     {
       "id": 0,
@@ -4041,6 +4041,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1af5587cdba1002a56506bf8a970f4ed.png",
       "name_en_us": "Pekowan",
       "name_ja_jp": "ぺこわん"
+    },
+    {
+      "id": 449,
+      "gift_id": 1538,
+      "emoji_id": 881912327291691039,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c3119c97eb66b8af4493f0f947f4b10c.png",
+      "name_en_us": "Roasted sweet potato",
+      "name_ja_jp": "焼き芋"
+    },
+    {
+      "id": 450,
+      "gift_id": 1539,
+      "emoji_id": 881912335860650025,
+      "price": 10,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8f4d5532a398b156116dc08fb024917c.png",
+      "name_en_us": "Ken Uncle HB",
+      "name_ja_jp": "けんおじHB"
+    },
+    {
+      "id": 451,
+      "gift_id": 1540,
+      "emoji_id": 881912342881906718,
+      "price": 10,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/56a31df0dc51389d43557d07adda4138.png",
+      "name_en_us": "Uncle HB2",
+      "name_ja_jp": "けんおじHB2"
     }
   ]
 }
