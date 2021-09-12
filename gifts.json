@@ -1,5 +1,5 @@
 {
-  "data_version": 58.1,
+  "data_version": 59.1,
   "gifts": [
     {
       "id": 0,
@@ -4068,6 +4068,168 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/56a31df0dc51389d43557d07adda4138.png",
       "name_en_us": "Uncle HB2",
       "name_ja_jp": "けんおじHB2"
+    },
+    {
+      "id": 452,
+      "gift_id": 1544,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/abdd67957df77c0ce7a56f479aff1a11.png",
+      "name_en_us": "Persimmon",
+      "name_ja_jp": "柿"
+    },
+    {
+      "id": 453,
+      "gift_id": 1545,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4cf6e4fb80cf787521d5e4790e302f0b.png",
+      "name_en_us": "Chestnut",
+      "name_ja_jp": "栗"
+    },
+    {
+      "id": 454,
+      "gift_id": 1546,
+      "emoji_id": 0,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/633a08a78f7a172fa5ad8562f2f28f05.png",
+      "name_en_us": "☆ ω ☆",
+      "name_ja_jp": "☆ω☆"
+    },
+    {
+      "id": 455,
+      "gift_id": 1547,
+      "emoji_id": 0,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/633a08a78f7a172fa5ad8562f2f28f05.png",
+      "name_en_us": "☆ ω ☆",
+      "name_ja_jp": "☆ω☆"
+    },
+    {
+      "id": 456,
+      "gift_id": 1548,
+      "emoji_id": 0,
+      "price": 30,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ea396ef268e9e2ea4880eb5d15bbe294.png",
+      "name_en_us": "p △ q",
+      "name_ja_jp": "ｐ△ｑ"
+    },
+    {
+      "id": 457,
+      "gift_id": 1549,
+      "emoji_id": 0,
+      "price": 15,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/65b3b33cd0abe0470d755bb289b25f12.png",
+      "name_en_us": "Dinosaur",
+      "name_ja_jp": "きょうりゅう"
+    },
+    {
+      "id": 458,
+      "gift_id": 1550,
+      "emoji_id": 0,
+      "price": 4999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d1eaff5f5279fde79683e0eee496d302.png",
+      "name_en_us": "Autumn gathering of squirrels",
+      "name_ja_jp": "リスの秋あつめ"
+    },
+    {
+      "id": 459,
+      "gift_id": 1551,
+      "emoji_id": 0,
+      "price": 96,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/29d514f3a1cb5dd0c31522bf47e768d7.png",
+      "name_en_us": "Kuroni is the best",
+      "name_ja_jp": "くろにー最高"
+    },
+    {
+      "id": 460,
+      "gift_id": 1552,
+      "emoji_id": 0,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d30a4a5362da0b05959c5c5379247970.png",
+      "name_en_us": "Summer Ver. Hinapiyo",
+      "name_ja_jp": "夏Ver.ひなぴよ"
+    },
+    {
+      "id": 461,
+      "gift_id": 1553,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/54665db00a7c3e3194a912652f9730bd.png",
+      "name_en_us": "Ruka Baby",
+      "name_ja_jp": "るかベイビー"
+    },
+    {
+      "id": 462,
+      "gift_id": 1554,
+      "emoji_id": 0,
+      "price": 10,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ce70a52345fda87fdd2e14d7d182fa3e.png",
+      "name_en_us": "Uncle Ken is here!",
+      "name_ja_jp": "けんおじ登場！"
+    },
+    {
+      "id": 463,
+      "gift_id": 1555,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/403ffe0b1250e687d4880afcdc2ffb42.png",
+      "name_en_us": "Mistake",
+      "name_ja_jp": "まがれつ"
+    },
+    {
+      "id": 464,
+      "gift_id": 1558,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7d2d8c574bdc84e927c62e722505b94e.png",
+      "name_en_us": "Grape",
+      "name_ja_jp": "ぶどう"
+    },
+    {
+      "id": 465,
+      "gift_id": 1541,
+      "emoji_id": 0,
+      "price": 0,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/87d219ebbb3048c071c07fcd0a4f849c.png",
+      "name_en_us": "candy",
+      "name_ja_jp": "キャンディ"
+    },
+    {
+      "id": 466,
+      "gift_id": 1542,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/73e97b4c1a1a0b55f3cf70729e7f4d02.png",
+      "name_en_us": "Iced tea",
+      "name_ja_jp": "アイスティー"
+    },
+    {
+      "id": 467,
+      "gift_id": 1543,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6ee40df1f6f2e5baa5bce121dd714a92.png",
+      "name_en_us": "cake",
+      "name_ja_jp": "ケーキ"
+    },
+    {
+      "id": 468,
+      "gift_id": 1556,
+      "emoji_id": 0,
+      "price": 499,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9fb02c3062aaae4fabc4e26545a6878f.png",
+      "name_en_us": "Moving beckoning cat",
+      "name_ja_jp": "動く招き猫"
+    },
+    {
+      "id": 469,
+      "gift_id": 1557,
+      "emoji_id": 0,
+      "price": 889,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2f017fdc622e728a434c66008a2cc550.png",
+      "name_en_us": "hug",
+      "name_ja_jp": "ハグ"
     }
   ]
 }
