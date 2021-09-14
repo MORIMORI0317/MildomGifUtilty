@@ -1,5 +1,5 @@
 {
-  "data_version": 60.1,
+  "data_version": 61.1,
   "gifts": [
     {
       "id": 0,
@@ -4293,6 +4293,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/969bf411ce8acbe641e597b039416b0d.png",
       "name_en_us": "Tensei ✧︎ Aroe ☘︎︎",
       "name_ja_jp": "Tensei✧︎Aroe☘︎︎"
+    },
+    {
+      "id": 477,
+      "gift_id": 1566,
+      "emoji_id": 0,
+      "price": 10,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1128839d72197df1d1af82f0a039167e.png",
+      "name_en_us": "PAT",
+      "name_ja_jp": "PAT"
+    },
+    {
+      "id": 478,
+      "gift_id": 1567,
+      "emoji_id": 0,
+      "price": 20,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6dd6ac01275df5a707c3e8fc3c8b20d2.png",
+      "name_en_us": "Celebrate with everyone!",
+      "name_ja_jp": "みんなでお祝い！"
+    },
+    {
+      "id": 479,
+      "gift_id": 1568,
+      "emoji_id": 0,
+      "price": 20,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6dd6ac01275df5a707c3e8fc3c8b20d2.png",
+      "name_en_us": "Celebration ☆ 2nd anniversary",
+      "name_ja_jp": "祝☆2周年"
+    },
+    {
+      "id": 480,
+      "gift_id": 1569,
+      "emoji_id": 0,
+      "price": 20000,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d99226f70ac086c2a62b2db4643ae7e4.png",
+      "name_en_us": "Celebrate with everyone!",
+      "name_ja_jp": "みんなでお祝い！"
     }
   ]
 }
