@@ -1,5 +1,5 @@
 {
-  "data_version": 61.1,
+  "data_version": 61.199997,
   "gifts": [
     {
       "id": 0,
@@ -4316,7 +4316,7 @@
       "id": 479,
       "gift_id": 1568,
       "emoji_id": 0,
-      "price": 20,
+      "price": 22,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6dd6ac01275df5a707c3e8fc3c8b20d2.png",
       "name_en_us": "Celebration ☆ 2nd anniversary",
       "name_ja_jp": "祝☆2周年"
@@ -4325,7 +4325,7 @@
       "id": 480,
       "gift_id": 1569,
       "emoji_id": 0,
-      "price": 20000,
+      "price": 22222,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d99226f70ac086c2a62b2db4643ae7e4.png",
       "name_en_us": "Celebrate with everyone!",
       "name_ja_jp": "みんなでお祝い！"
