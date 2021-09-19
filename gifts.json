@@ -1,5 +1,5 @@
 {
-  "data_version": 61.199997,
+  "data_version": 62.199997,
   "gifts": [
     {
       "id": 0,
@@ -4329,6 +4329,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d99226f70ac086c2a62b2db4643ae7e4.png",
       "name_en_us": "Celebrate with everyone!",
       "name_ja_jp": "みんなでお祝い！"
+    },
+    {
+      "id": 481,
+      "gift_id": 1570,
+      "emoji_id": 0,
+      "price": 1399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/89340303ce658aef7472c6c456f8b2fa.png",
+      "name_en_us": "Waterfall tears",
+      "name_ja_jp": "滝涙"
+    },
+    {
+      "id": 482,
+      "gift_id": 1571,
+      "emoji_id": 0,
+      "price": 1399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5b9e1a4082f6047ccbe523530930b0c0.png",
+      "name_en_us": "cat",
+      "name_ja_jp": "ねこ"
+    },
+    {
+      "id": 483,
+      "gift_id": 1572,
+      "emoji_id": 0,
+      "price": 699,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/85d47bfa3170ccd0d2fc910cce1b7706.png",
+      "name_en_us": "Panda",
+      "name_ja_jp": "パンダ"
+    },
+    {
+      "id": 484,
+      "gift_id": 1573,
+      "emoji_id": 0,
+      "price": 699,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6e56e4eab4444b0844881d5ebf881ce0.png",
+      "name_en_us": "tiara",
+      "name_ja_jp": "ティアラ"
     }
   ]
 }
