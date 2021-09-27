@@ -1,5 +1,5 @@
 {
-  "data_version": 62.199997,
+  "data_version": 63.199997,
   "gifts": [
     {
       "id": 0,
@@ -4365,6 +4365,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6e56e4eab4444b0844881d5ebf881ce0.png",
       "name_en_us": "tiara",
       "name_ja_jp": "ティアラ"
+    },
+    {
+      "id": 485,
+      "gift_id": 1574,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c8d53ec0eb27623d067c21b09ceb546e.png",
+      "name_en_us": "It\u0027s Nunumeme",
+      "name_ja_jp": "ぬぬめめですにょーーん"
+    },
+    {
+      "id": 486,
+      "gift_id": 1575,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c8d53ec0eb27623d067c21b09ceb546e.png",
+      "name_en_us": "It\u0027s Nunumeme",
+      "name_ja_jp": "ぬぬめめですにょーーん"
+    },
+    {
+      "id": 487,
+      "gift_id": 1576,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/71e1d339e63376fdc7b553efcc9a7518.png",
+      "name_en_us": "Peach Puka",
+      "name_ja_jp": "Peachぷっか　"
+    },
+    {
+      "id": 488,
+      "gift_id": 1577,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/db715047f10b0077edc97c76641ebdb8.png",
+      "name_en_us": "Christmas Eve @ Just a leisure person",
+      "name_ja_jp": "聖夜@ただの暇人"
     }
   ]
 }
