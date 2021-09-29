@@ -1,5 +1,5 @@
 {
-  "data_version": 63.199997,
+  "data_version": 64.2,
   "gifts": [
     {
       "id": 0,
@@ -4401,6 +4401,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/db715047f10b0077edc97c76641ebdb8.png",
       "name_en_us": "Christmas Eve @ Just a leisure person",
       "name_ja_jp": "聖夜@ただの暇人"
+    },
+    {
+      "id": 489,
+      "gift_id": 1578,
+      "emoji_id": 0,
+      "price": 1000,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e865c18d452607adee26daada90a1a3f.png",
+      "name_en_us": "Legendary pirate ship",
+      "name_ja_jp": "伝説の海賊船"
     }
   ]
 }
