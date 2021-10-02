@@ -1,5 +1,5 @@
 {
-  "data_version": 64.2,
+  "data_version": 65.2,
   "gifts": [
     {
       "id": 0,
@@ -356,7 +356,7 @@
       "id": 39,
       "gift_id": 1090,
       "emoji_id": 807244426090512424,
-      "price": 19,
+      "price": 9,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/13524deee371ff8e12e51a25bc293b7b.png",
       "name_en_us": "Magic broom",
       "name_ja_jp": "魔法のほうき"
@@ -4410,6 +4410,105 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e865c18d452607adee26daada90a1a3f.png",
       "name_en_us": "Legendary pirate ship",
       "name_ja_jp": "伝説の海賊船"
+    },
+    {
+      "id": 490,
+      "gift_id": 1579,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e3ea73c2e4cef85aaa816b7f29a1514f.png",
+      "name_en_us": "Happy Ponkotsu Kapio Maru",
+      "name_ja_jp": "ハッピーポンコツかぴお丸"
+    },
+    {
+      "id": 491,
+      "gift_id": 1580,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/42770583df9216e581771334bd57623f.png",
+      "name_en_us": "Mt.Undermount",
+      "name_ja_jp": "Mt.Undermount"
+    },
+    {
+      "id": 492,
+      "gift_id": 1581,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ca37241281d96063553451356837bb74.png",
+      "name_en_us": "Uncle Ken! !!",
+      "name_ja_jp": "けんおじ！！"
+    },
+    {
+      "id": 493,
+      "gift_id": 1582,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8621768e0dd52f3cb5008b5bf3990327.png",
+      "name_en_us": "Hinapiyo є (･ ө ･.) э ›› ~",
+      "name_ja_jp": "ひなぴよ є(･ө･｡)э››~"
+    },
+    {
+      "id": 494,
+      "gift_id": 1583,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1798f15ad3b207464164ac8ecc2f106e.png",
+      "name_en_us": "Yunako",
+      "name_ja_jp": "ゆなっこ"
+    },
+    {
+      "id": 495,
+      "gift_id": 1584,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2e3f70f171762b50382c037bc6a1c32a.png",
+      "name_en_us": "Furunoto!",
+      "name_ja_jp": "ふるのっと！"
+    },
+    {
+      "id": 496,
+      "gift_id": 1585,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f4c2679b5aa925c36b3703072c96b3c3.png",
+      "name_en_us": "As / Annin [Sea Urchin Som]",
+      "name_ja_jp": "As・あんにん[うにソム]"
+    },
+    {
+      "id": 497,
+      "gift_id": 1586,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9571c71097c2564f54020d092129c512.png",
+      "name_en_us": "Yumechi ᾟ � ྀ ི",
+      "name_ja_jp": "ゆめち🧸ྀི"
+    },
+    {
+      "id": 498,
+      "gift_id": 1587,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/63eba71bb0cddc75ffe1e88a33bbce98.png",
+      "name_en_us": "Riyo dog",
+      "name_ja_jp": "りよワンコ"
+    },
+    {
+      "id": 499,
+      "gift_id": 1588,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9571c71097c2564f54020d092129c512.png",
+      "name_en_us": "Yumechi ᾟ � ྀ ི",
+      "name_ja_jp": "ゆめち🧸ྀི"
+    },
+    {
+      "id": 500,
+      "gift_id": 1589,
+      "emoji_id": 0,
+      "price": 9999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/61f0c3ae29c779569ce7fc56a1db937e.png",
+      "name_en_us": "Creepy shadow march",
+      "name_ja_jp": "不気味な影の行進"
     }
   ]
 }
