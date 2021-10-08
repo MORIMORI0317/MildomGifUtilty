@@ -1,5 +1,5 @@
 {
-  "data_version": 65.2,
+  "data_version": 66.2,
   "gifts": [
     {
       "id": 0,
@@ -4509,6 +4509,51 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/61f0c3ae29c779569ce7fc56a1db937e.png",
       "name_en_us": "Creepy shadow march",
       "name_ja_jp": "不気味な影の行進"
+    },
+    {
+      "id": 501,
+      "gift_id": 1590,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/403ffe0b1250e687d4880afcdc2ffb42.png",
+      "name_en_us": "Purimaga",
+      "name_ja_jp": "ぷりまが"
+    },
+    {
+      "id": 502,
+      "gift_id": 1591,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7ba00f03f324598997e87055349d9da9.png",
+      "name_en_us": "Konyanyachiha !!",
+      "name_ja_jp": "こにゃにゃちは!!"
+    },
+    {
+      "id": 503,
+      "gift_id": 1592,
+      "emoji_id": 0,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a191e405cd4fd4d5506e7a86da7f71ce.png",
+      "name_en_us": "Ikiri",
+      "name_ja_jp": "イキり"
+    },
+    {
+      "id": 504,
+      "gift_id": 1593,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d2eb8f9127f888d0a93570b645d94922.png",
+      "name_en_us": "Umecat",
+      "name_ja_jp": "ウメキャット"
+    },
+    {
+      "id": 505,
+      "gift_id": 1594,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/54d8de8740501fb5c89674a945310c23.png",
+      "name_en_us": "Yuki Chipien",
+      "name_ja_jp": "ゆきちぴえん"
     }
   ]
 }
