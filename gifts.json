@@ -1,5 +1,5 @@
 {
-  "data_version": 67.2,
+  "data_version": 68.2,
   "gifts": [
     {
       "id": 0,
@@ -4617,6 +4617,51 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e3c3cc5f1c58209f03a87a27a7664e44.png",
       "name_en_us": "Ghost prank",
       "name_ja_jp": "オバケのいたずら"
+    },
+    {
+      "id": 513,
+      "gift_id": 1602,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4bbae2196c792e0e15418cc3bd54ef84.png",
+      "name_en_us": "S rank gift",
+      "name_ja_jp": "Sランクギフト"
+    },
+    {
+      "id": 514,
+      "gift_id": 1603,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/81f288266cedb67f737dd753661ca8fd.png",
+      "name_en_us": "A rank gift",
+      "name_ja_jp": "Aランクギフト"
+    },
+    {
+      "id": 515,
+      "gift_id": 1604,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/135cb851ecc028734dde4b2d853878bc.png",
+      "name_en_us": "B rank gift",
+      "name_ja_jp": "Bランクギフト"
+    },
+    {
+      "id": 516,
+      "gift_id": 1605,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/364c8ee066504bf8c550f102fd46646d.png",
+      "name_en_us": "C rank gift",
+      "name_ja_jp": "Cランクギフト"
+    },
+    {
+      "id": 517,
+      "gift_id": 1606,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6ca3adb77e30d35b1e1443cc14939695.png",
+      "name_en_us": "D rank gift",
+      "name_ja_jp": "Dランクギフト"
     }
   ]
 }
