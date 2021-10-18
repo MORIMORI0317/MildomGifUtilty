@@ -1,5 +1,5 @@
 {
-  "data_version": 68.2,
+  "data_version": 69.2,
   "gifts": [
     {
       "id": 0,
@@ -4662,6 +4662,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6ca3adb77e30d35b1e1443cc14939695.png",
       "name_en_us": "D rank gift",
       "name_ja_jp": "Dランクギフト"
+    },
+    {
+      "id": 518,
+      "gift_id": 1607,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/856ff937a4130c7c7344763663297f90.png",
+      "name_en_us": "Larry",
+      "name_ja_jp": "らりぃー"
+    },
+    {
+      "id": 519,
+      "gift_id": 1608,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/26eba6ddd72479f77383830f741e1f62.png",
+      "name_en_us": "Yui Momose (peach)",
+      "name_ja_jp": "百瀬ゆい(桃)"
+    },
+    {
+      "id": 520,
+      "gift_id": 1609,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a1a4d8362543d512e8dc172f0d05885e.png",
+      "name_en_us": "Honokoro ᾑ.Ἷ.Hono",
+      "name_ja_jp": "ほのころ🤙🏽Hono"
     }
   ]
 }
