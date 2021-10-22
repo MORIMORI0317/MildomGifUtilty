@@ -1,5 +1,5 @@
 {
-  "data_version": 70.2,
+  "data_version": 71.2,
   "gifts": [
     {
       "id": 0,
@@ -4707,6 +4707,78 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2f017fdc622e728a434c66008a2cc550.png",
       "name_en_us": "hug",
       "name_ja_jp": "ハグ"
+    },
+    {
+      "id": 523,
+      "gift_id": 1612,
+      "emoji_id": 0,
+      "price": 5899,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e635cc5d2faae3113cef0c430d30de23.png",
+      "name_en_us": "Penlight",
+      "name_ja_jp": "ペンライト"
+    },
+    {
+      "id": 524,
+      "gift_id": 1613,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9fb5572eb3d693f6a7646934611bb875.png",
+      "name_en_us": "Haro Hina Ἰ.",
+      "name_ja_jp": "ハロひな🎃"
+    },
+    {
+      "id": 525,
+      "gift_id": 1614,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0664bb7bb1f6f5ed462b173fe112ef75.png",
+      "name_en_us": "Yunako",
+      "name_ja_jp": "ゆなっこ"
+    },
+    {
+      "id": 526,
+      "gift_id": 1615,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d8b757c43f03f29ebca04be0f0b0471f.png",
+      "name_en_us": "milca / see",
+      "name_ja_jp": "milca / みるか"
+    },
+    {
+      "id": 527,
+      "gift_id": 1616,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/416fdc6d0ab633b2fdd5338e3274ee1d.png",
+      "name_en_us": "Horse ὃ.",
+      "name_ja_jp": "うまさん🐴"
+    },
+    {
+      "id": 528,
+      "gift_id": 1617,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b4a335cfb2422660ab5da0df573c1836.png",
+      "name_en_us": "Tora Tora ~ ʕ￫ᴥ￩ʔ",
+      "name_ja_jp": "とらとら〜ʕ￫ᴥ￩ʔ"
+    },
+    {
+      "id": 529,
+      "gift_id": 1618,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/002480d487e063da3893f74a113b11c1.png",
+      "name_en_us": "Reason CH",
+      "name_ja_jp": "かわけんCH"
+    },
+    {
+      "id": 530,
+      "gift_id": 1619,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c6a0fb9545ccf0e5cb60592ec9572cf1.png",
+      "name_en_us": "꒰꒰ ဉ. Naopi ꒱꒱. *",
+      "name_ja_jp": "꒰꒰ 𐂐 なおぴ ꒱꒱.*"
     }
   ]
 }
