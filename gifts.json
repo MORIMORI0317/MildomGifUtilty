@@ -1,5 +1,5 @@
 {
-  "data_version": 71.2,
+  "data_version": 72.2,
   "gifts": [
     {
       "id": 0,
@@ -4779,6 +4779,51 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c6a0fb9545ccf0e5cb60592ec9572cf1.png",
       "name_en_us": "꒰꒰ ဉ. Naopi ꒱꒱. *",
       "name_ja_jp": "꒰꒰ 𐂐 なおぴ ꒱꒱.*"
+    },
+    {
+      "id": 531,
+      "gift_id": 1620,
+      "emoji_id": 0,
+      "price": 2999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b04205651976bf4ca905949c6f58d098.png",
+      "name_en_us": "Bravo",
+      "name_ja_jp": "ブラヴォ"
+    },
+    {
+      "id": 532,
+      "gift_id": 1621,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7279c3a0c3bbb6cd065e9d422767f2cb.png",
+      "name_en_us": "a… ",
+      "name_ja_jp": "あ… "
+    },
+    {
+      "id": 533,
+      "gift_id": 1622,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/60018ecbae5b9c740444c4c946a9804b.png",
+      "name_en_us": "Thank you ",
+      "name_ja_jp": "ありがとう "
+    },
+    {
+      "id": 534,
+      "gift_id": 1623,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1a66160dc8987a3a3b88f52d29ef7cb7.png",
+      "name_en_us": "No!",
+      "name_ja_jp": "ないすー！"
+    },
+    {
+      "id": 535,
+      "gift_id": 1624,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/96eb6847bf2a9a5772f47a589dc8eded.png",
+      "name_en_us": "God",
+      "name_ja_jp": "神"
     }
   ]
 }
