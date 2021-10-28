@@ -1,5 +1,5 @@
 {
-  "data_version": 72.2,
+  "data_version": 73.2,
   "gifts": [
     {
       "id": 0,
@@ -4824,6 +4824,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/96eb6847bf2a9a5772f47a589dc8eded.png",
       "name_en_us": "God",
       "name_ja_jp": "神"
+    },
+    {
+      "id": 536,
+      "gift_id": 1625,
+      "emoji_id": 0,
+      "price": 0,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/eb972da03c740d51360be3b6d949707f.png",
+      "name_en_us": "Love",
+      "name_ja_jp": "爱"
     }
   ]
 }
