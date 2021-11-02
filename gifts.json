@@ -1,5 +1,5 @@
 {
-  "data_version": 73.2,
+  "data_version": 74.2,
   "gifts": [
     {
       "id": 0,
@@ -4833,6 +4833,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/eb972da03c740d51360be3b6d949707f.png",
       "name_en_us": "Love",
       "name_ja_jp": "爱"
+    },
+    {
+      "id": 537,
+      "gift_id": 1626,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5cfd61003caa8f873f3db0b6ec1ff905.png",
+      "name_en_us": "Celebration!",
+      "name_ja_jp": "祝！"
+    },
+    {
+      "id": 538,
+      "gift_id": 1627,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b988c047cc71c07daa2668499cfa151b.png",
+      "name_en_us": "I can recommend it!",
+      "name_ja_jp": "推せる！"
     }
   ]
 }
