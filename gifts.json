@@ -1,5 +1,5 @@
 {
-  "data_version": 74.2,
+  "data_version": 75.2,
   "gifts": [
     {
       "id": 0,
@@ -4851,6 +4851,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b988c047cc71c07daa2668499cfa151b.png",
       "name_en_us": "I can recommend it!",
       "name_ja_jp": "推せる！"
+    },
+    {
+      "id": 539,
+      "gift_id": 1628,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b988c047cc71c07daa2668499cfa151b.png",
+      "name_en_us": "I can recommend it!",
+      "name_ja_jp": "推せる！"
+    },
+    {
+      "id": 540,
+      "gift_id": 1629,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4e23a003ba374297c103e12cd82fe1fe.png",
+      "name_en_us": "Heart Puni",
+      "name_ja_jp": "ハートぷにっ"
+    },
+    {
+      "id": 541,
+      "gift_id": 1630,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5b85d751779a2ccbc359b0d51cc40e3b.png",
+      "name_en_us": "Hi",
+      "name_ja_jp": "Hi"
+    },
+    {
+      "id": 542,
+      "gift_id": 1631,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/dc316e6b68e4e36450e6d2a63e19b127.png",
+      "name_en_us": "cupcake",
+      "name_ja_jp": "カップケーキ"
     }
   ]
 }
