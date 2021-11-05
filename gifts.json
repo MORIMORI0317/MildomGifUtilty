@@ -1,5 +1,5 @@
 {
-  "data_version": 75.2,
+  "data_version": 76.2,
   "gifts": [
     {
       "id": 0,
@@ -4713,7 +4713,7 @@
       "gift_id": 1612,
       "emoji_id": 0,
       "price": 5899,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e635cc5d2faae3113cef0c430d30de23.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/432ebad73b47a37d7242f642a8f281e3.png",
       "name_en_us": "Penlight",
       "name_ja_jp": "ペンライト"
     },
@@ -4887,6 +4887,60 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/dc316e6b68e4e36450e6d2a63e19b127.png",
       "name_en_us": "cupcake",
       "name_ja_jp": "カップケーキ"
+    },
+    {
+      "id": 543,
+      "gift_id": 1632,
+      "emoji_id": 0,
+      "price": 2999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b04205651976bf4ca905949c6f58d098.png",
+      "name_en_us": "Bravo",
+      "name_ja_jp": "ブラヴォ"
+    },
+    {
+      "id": 544,
+      "gift_id": 1633,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7ee09ff49a0841d92bf3e119551afc3a.png",
+      "name_en_us": "Zeder",
+      "name_ja_jp": "Zeder"
+    },
+    {
+      "id": 545,
+      "gift_id": 1634,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1719e1393f63f4f417195e13db6bc654.png",
+      "name_en_us": "Bazzi",
+      "name_ja_jp": "Bazzi"
+    },
+    {
+      "id": 546,
+      "gift_id": 1635,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/283ce347a1bcab91f70cdad2b1d2830b.png",
+      "name_en_us": "Minty",
+      "name_ja_jp": "Minty"
+    },
+    {
+      "id": 547,
+      "gift_id": 1636,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/11da24c71f8fb44a975430a3b67f3dd2.png",
+      "name_en_us": "ade",
+      "name_ja_jp": "ade"
+    },
+    {
+      "id": 548,
+      "gift_id": 1637,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cc34a63098c297012f2651fdaefe62af.png",
+      "name_en_us": "Fisker",
+      "name_ja_jp": "Fisker"
     }
   ]
 }
