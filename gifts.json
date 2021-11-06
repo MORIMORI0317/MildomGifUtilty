@@ -1,5 +1,5 @@
 {
-  "data_version": 76.2,
+  "data_version": 77.2,
   "gifts": [
     {
       "id": 0,
@@ -4941,6 +4941,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cc34a63098c297012f2651fdaefe62af.png",
       "name_en_us": "Fisker",
       "name_ja_jp": "Fisker"
+    },
+    {
+      "id": 549,
+      "gift_id": 1638,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6e56e4eab4444b0844881d5ebf881ce0.png",
+      "name_en_us": "tiara",
+      "name_ja_jp": "ティアラ"
+    },
+    {
+      "id": 550,
+      "gift_id": 1639,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/85d47bfa3170ccd0d2fc910cce1b7706.png",
+      "name_en_us": "Panda",
+      "name_ja_jp": "パンダ"
+    },
+    {
+      "id": 551,
+      "gift_id": 1640,
+      "emoji_id": 0,
+      "price": 699,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5b9e1a4082f6047ccbe523530930b0c0.png",
+      "name_en_us": "cat",
+      "name_ja_jp": "ねこ"
+    },
+    {
+      "id": 552,
+      "gift_id": 1641,
+      "emoji_id": 0,
+      "price": 699,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/89340303ce658aef7472c6c456f8b2fa.png",
+      "name_en_us": "Waterfall tears",
+      "name_ja_jp": "滝涙"
     }
   ]
 }
