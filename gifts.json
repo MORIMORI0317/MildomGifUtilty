@@ -1,5 +1,5 @@
 {
-  "data_version": 77.2,
+  "data_version": 78.2,
   "gifts": [
     {
       "id": 0,
@@ -4977,6 +4977,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/89340303ce658aef7472c6c456f8b2fa.png",
       "name_en_us": "Waterfall tears",
       "name_ja_jp": "滝涙"
+    },
+    {
+      "id": 553,
+      "gift_id": 1642,
+      "emoji_id": 0,
+      "price": 1999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9340f1f4f8e7b8571f383b8270e1f6c1.png",
+      "name_en_us": "I love you",
+      "name_ja_jp": "だいすき"
     }
   ]
 }
