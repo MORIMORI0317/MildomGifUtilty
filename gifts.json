@@ -1,5 +1,5 @@
 {
-  "data_version": 78.2,
+  "data_version": 79.2,
   "gifts": [
     {
       "id": 0,
@@ -4986,6 +4986,132 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9340f1f4f8e7b8571f383b8270e1f6c1.png",
       "name_en_us": "I love you",
       "name_ja_jp": "だいすき"
+    },
+    {
+      "id": 554,
+      "gift_id": 1643,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/12db35b22f80b7a5396fa5b134947252.png",
+      "name_en_us": "Mr. Sasa",
+      "name_ja_jp": "さっささん"
+    },
+    {
+      "id": 555,
+      "gift_id": 1644,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1e5e96a323a5d9448cc9d74d2de4b07f.png",
+      "name_en_us": "Broly unnie",
+      "name_ja_jp": "ブロリー姉さん"
+    },
+    {
+      "id": 556,
+      "gift_id": 1645,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ad296f39f2e24e133f5d8b81505bfb7b.png",
+      "name_en_us": "Yu-uki",
+      "name_ja_jp": "Yu-uki"
+    },
+    {
+      "id": 557,
+      "gift_id": 1646,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e94bb854db1496090672eb4ba3aaec10.png",
+      "name_en_us": "Hacchi Hacchi ໒꒱⁸",
+      "name_ja_jp": "はっち Hacchi ໒꒱‪⁸"
+    },
+    {
+      "id": 558,
+      "gift_id": 1647,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fc491732f84909e1917681b87beec7ba.png",
+      "name_en_us": "Sakipi ε (• ө •) з ”",
+      "name_ja_jp": "さきぴε(•ө•)з゛"
+    },
+    {
+      "id": 559,
+      "gift_id": 1648,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9b50118694f121e416be94a6a67651ad.png",
+      "name_en_us": "Shake-kun ᙏ̤̫꒰ঌ ♡ ︎໒꒱",
+      "name_ja_jp": "しゃけくんᙏ̤̫‪꒰ঌ♡︎‬໒꒱"
+    },
+    {
+      "id": 560,
+      "gift_id": 1649,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e94bb854db1496090672eb4ba3aaec10.png",
+      "name_en_us": "Hacchi Hacchi ໒꒱⁸",
+      "name_ja_jp": "はっち Hacchi ໒꒱‪⁸"
+    },
+    {
+      "id": 561,
+      "gift_id": 1650,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9b50118694f121e416be94a6a67651ad.png",
+      "name_en_us": "Shake-kun ᙏ̤̫꒰ঌ ♡ ︎໒꒱",
+      "name_ja_jp": "しゃけくんᙏ̤̫‪꒰ঌ♡︎‬໒꒱"
+    },
+    {
+      "id": 562,
+      "gift_id": 1651,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9a18db5ad3f2b8c3f70d4194462bec76.png",
+      "name_en_us": "Hinakkei",
+      "name_ja_jp": "ひなおっけーい"
+    },
+    {
+      "id": 563,
+      "gift_id": 1652,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3dbbb19d8b2b7e46e556d90293d2547f.png",
+      "name_en_us": "Nyankoru Kapi",
+      "name_ja_jp": "にゃんこるかぴ"
+    },
+    {
+      "id": 564,
+      "gift_id": 1653,
+      "emoji_id": 0,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fe2231ffef10f44c480db1c3432c0dcb.png",
+      "name_en_us": "Gunpanda",
+      "name_ja_jp": "ぐんぱんだ"
+    },
+    {
+      "id": 565,
+      "gift_id": 1654,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/369ac5d95bfb755026152eeb6703ca41.png",
+      "name_en_us": "Ryokkuma",
+      "name_ja_jp": "リヨックマ"
+    },
+    {
+      "id": 566,
+      "gift_id": 1655,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/721b67acc2967f8ea16bbee98ec5a28c.png",
+      "name_en_us": "Pien",
+      "name_ja_jp": "ぴえん"
+    },
+    {
+      "id": 567,
+      "gift_id": 1656,
+      "emoji_id": 0,
+      "price": 999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cd516b019235dedaa5626205dbf3b34c.png",
+      "name_en_us": "illumination",
+      "name_ja_jp": "イルミネーション"
     }
   ]
 }
