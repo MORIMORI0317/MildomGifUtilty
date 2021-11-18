@@ -1,5 +1,5 @@
 {
-  "data_version": 79.2,
+  "data_version": 80.2,
   "gifts": [
     {
       "id": 0,
@@ -5112,6 +5112,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cd516b019235dedaa5626205dbf3b34c.png",
       "name_en_us": "illumination",
       "name_ja_jp": "イルミネーション"
+    },
+    {
+      "id": 568,
+      "gift_id": 1657,
+      "emoji_id": 0,
+      "price": 699,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a4c21df95a7f8d736dbad6b36d19fdcf.png",
+      "name_en_us": "Throwing kiss",
+      "name_ja_jp": "投げキス"
+    },
+    {
+      "id": 569,
+      "gift_id": 1658,
+      "emoji_id": 0,
+      "price": 1099,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b8082c8fe232a9e4301c0f7aaf5a63f1.png",
+      "name_en_us": "vacance",
+      "name_ja_jp": "バカンス"
+    },
+    {
+      "id": 570,
+      "gift_id": 1659,
+      "emoji_id": 0,
+      "price": 599,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f6d37958e1f0c61a56cfce10bcfb03d0.png",
+      "name_en_us": "Kappa",
+      "name_ja_jp": "カッパ"
     }
   ]
 }
