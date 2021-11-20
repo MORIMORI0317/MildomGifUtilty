@@ -1,5 +1,5 @@
 {
-  "data_version": 80.2,
+  "data_version": 81.2,
   "gifts": [
     {
       "id": 0,
@@ -5139,6 +5139,123 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f6d37958e1f0c61a56cfce10bcfb03d0.png",
       "name_en_us": "Kappa",
       "name_ja_jp": "カッパ"
+    },
+    {
+      "id": 571,
+      "gift_id": 1663,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a62a43e44ab16565dee9178f3beb5687.png",
+      "name_en_us": "[ScL] Intense wake up Misumaru (# `꒳´)",
+      "name_ja_jp": "【ScL】激おこすみす丸( #`꒳´ )"
+    },
+    {
+      "id": 572,
+      "gift_id": 1664,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/97da418aaecb4238570428475528b14d.png",
+      "name_en_us": "imoaN / Naomi",
+      "name_ja_jp": "imoaN / Naomi"
+    },
+    {
+      "id": 573,
+      "gift_id": 1665,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a62a43e44ab16565dee9178f3beb5687.png",
+      "name_en_us": "[ScL] Intense wake up Misumaru (# `꒳´)",
+      "name_ja_jp": "【ScL】激おこすみす丸( #`꒳´ )"
+    },
+    {
+      "id": 574,
+      "gift_id": 1666,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6db8fd393b193e7707c11cd6e5531b03.png",
+      "name_en_us": "That\u0027s Jiken!",
+      "name_ja_jp": "あれくのじけーん！"
+    },
+    {
+      "id": 575,
+      "gift_id": 1667,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/662a377b020a54a3279fba95850dbef6.png",
+      "name_en_us": "Ami Sato",
+      "name_ja_jp": "さとうあみ"
+    },
+    {
+      "id": 576,
+      "gift_id": 1668,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d617c005093dcef33e8647083dd6241c.png",
+      "name_en_us": "Hapiva Hina Ἰ.",
+      "name_ja_jp": "ハピバひな🎂"
+    },
+    {
+      "id": 577,
+      "gift_id": 1669,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/04ab2348605f3f724f3befb8b1e8e762.png",
+      "name_en_us": "Kurome @",
+      "name_ja_jp": "くろめ＠"
+    },
+    {
+      "id": 578,
+      "gift_id": 1670,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b35d79ddaa0acc5868e386f01a676e53.png",
+      "name_en_us": "Nobi",
+      "name_ja_jp": "のびを"
+    },
+    {
+      "id": 579,
+      "gift_id": 1671,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e2040ed3df032188bdca32815181690a.png",
+      "name_en_us": "Shogi",
+      "name_ja_jp": "将棋"
+    },
+    {
+      "id": 580,
+      "gift_id": 1672,
+      "emoji_id": 0,
+      "price": 999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cd516b019235dedaa5626205dbf3b34c.png",
+      "name_en_us": "illumination",
+      "name_ja_jp": "イルミネーション"
+    },
+    {
+      "id": 581,
+      "gift_id": 1660,
+      "emoji_id": 0,
+      "price": 0,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/87d219ebbb3048c071c07fcd0a4f849c.png",
+      "name_en_us": "candy",
+      "name_ja_jp": "キャンディ"
+    },
+    {
+      "id": 582,
+      "gift_id": 1661,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/73e97b4c1a1a0b55f3cf70729e7f4d02.png",
+      "name_en_us": "Iced tea",
+      "name_ja_jp": "アイスティー"
+    },
+    {
+      "id": 583,
+      "gift_id": 1662,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6ee40df1f6f2e5baa5bce121dd714a92.png",
+      "name_en_us": "cake",
+      "name_ja_jp": "ケーキ"
     }
   ]
 }
