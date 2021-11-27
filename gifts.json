@@ -1,5 +1,5 @@
 {
-  "data_version": 83.2,
+  "data_version": 84.2,
   "gifts": [
     {
       "id": 0,
@@ -5346,6 +5346,96 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6ca3adb77e30d35b1e1443cc14939695.png",
       "name_en_us": "D rank gift",
       "name_ja_jp": "Dランクギフト"
+    },
+    {
+      "id": 594,
+      "gift_id": 1687,
+      "emoji_id": 0,
+      "price": 7,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/df928a19f498e03cd160ced99c7ad971.png",
+      "name_en_us": "Magical rod",
+      "name_ja_jp": "マジカルロッド"
+    },
+    {
+      "id": 595,
+      "gift_id": 1688,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b94fd4b4efd3e3e65513762a2cf97626.png",
+      "name_en_us": "keep it up!!",
+      "name_ja_jp": "がんばれ!!"
+    },
+    {
+      "id": 596,
+      "gift_id": 1689,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d6b383e8b32e58b0ef0e2b1ecd006c29.png",
+      "name_en_us": "Quarter note",
+      "name_ja_jp": "4分音符"
+    },
+    {
+      "id": 597,
+      "gift_id": 1690,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/aa66f6316ed38119ab3e2f58309a69ff.png",
+      "name_en_us": "Meat Bun",
+      "name_ja_jp": "肉まん"
+    },
+    {
+      "id": 598,
+      "gift_id": 1691,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2c2702c194a9fbdb3fb0f93d784266de.png",
+      "name_en_us": "Beef Stew",
+      "name_ja_jp": "ビーフシチュー"
+    },
+    {
+      "id": 599,
+      "gift_id": 1692,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d09a812f75b91ba9da622841ac628779.png",
+      "name_en_us": "King",
+      "name_ja_jp": "王者"
+    },
+    {
+      "id": 600,
+      "gift_id": 1683,
+      "emoji_id": 0,
+      "price": 259,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8866ec67111f8f2a5f3538044d9e51ec.png",
+      "name_en_us": "Magical flower",
+      "name_ja_jp": "マジカルフラワー"
+    },
+    {
+      "id": 601,
+      "gift_id": 1684,
+      "emoji_id": 0,
+      "price": 259,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ed7ce1d5367ef06c85b55b726c836448.png",
+      "name_en_us": "Magical feather",
+      "name_ja_jp": "マジカルフェザー"
+    },
+    {
+      "id": 602,
+      "gift_id": 1685,
+      "emoji_id": 0,
+      "price": 259,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/163fb66ec6a1f2b003c39abc61b48d10.png",
+      "name_en_us": "Damage potion",
+      "name_ja_jp": "ダメージポーション"
+    },
+    {
+      "id": 603,
+      "gift_id": 1686,
+      "emoji_id": 0,
+      "price": 259,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c314cb4bbbf68ca55d637dc7f0b1228f.png",
+      "name_en_us": "Energy potion",
+      "name_ja_jp": "エナジーポーション"
     }
   ]
 }
