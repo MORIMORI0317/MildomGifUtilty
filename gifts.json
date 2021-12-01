@@ -1,5 +1,5 @@
 {
-  "data_version": 84.2,
+  "data_version": 85.2,
   "gifts": [
     {
       "id": 0,
@@ -5436,6 +5436,51 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c314cb4bbbf68ca55d637dc7f0b1228f.png",
       "name_en_us": "Energy potion",
       "name_ja_jp": "エナジーポーション"
+    },
+    {
+      "id": 604,
+      "gift_id": 1693,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/dc747343b7373ac8c81764a8faec9372.png",
+      "name_en_us": "Socks",
+      "name_ja_jp": "くつした"
+    },
+    {
+      "id": 605,
+      "gift_id": 1694,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c04dd61252b05a0016e69f0cb59ef2cc.png",
+      "name_en_us": "Candy cane",
+      "name_ja_jp": "キャンディーケーン"
+    },
+    {
+      "id": 606,
+      "gift_id": 1695,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d7935a77e03075ea9fc5ed266750cccc.png",
+      "name_en_us": "Ginger cookies",
+      "name_ja_jp": "ジンジャークッキー"
+    },
+    {
+      "id": 607,
+      "gift_id": 1696,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/570805268bcbd82c6b61adf2b776ead6.png",
+      "name_en_us": "Bell",
+      "name_ja_jp": "ベル"
+    },
+    {
+      "id": 608,
+      "gift_id": 1697,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/63636f87accf639dda104dec25146c0f.png",
+      "name_en_us": "Christmas tree",
+      "name_ja_jp": "クリスマスツリー"
     }
   ]
 }
