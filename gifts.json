@@ -1,5 +1,5 @@
 {
-  "data_version": 85.2,
+  "data_version": 86.2,
   "gifts": [
     {
       "id": 0,
@@ -5481,6 +5481,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/63636f87accf639dda104dec25146c0f.png",
       "name_en_us": "Christmas tree",
       "name_ja_jp": "クリスマスツリー"
+    },
+    {
+      "id": 609,
+      "gift_id": 1698,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/06dffa971146550f0f0cbb2bb9db0196.png",
+      "name_en_us": "** Achu **",
+      "name_ja_jp": "*＊あちゅ＊*"
+    },
+    {
+      "id": 610,
+      "gift_id": 1699,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4ef41a2dbd30a8fbfafd3c0dc861509f.png",
+      "name_en_us": "Honokoro ᾑ.Ἷ.Hono",
+      "name_ja_jp": "ほのころ🤙🏽Hono"
     }
   ]
 }
