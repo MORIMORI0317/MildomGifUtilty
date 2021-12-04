@@ -1,5 +1,5 @@
 {
-  "data_version": 86.2,
+  "data_version": 87.2,
   "gifts": [
     {
       "id": 0,
@@ -5499,6 +5499,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4ef41a2dbd30a8fbfafd3c0dc861509f.png",
       "name_en_us": "Honokoro ᾑ.Ἷ.Hono",
       "name_ja_jp": "ほのころ🤙🏽Hono"
+    },
+    {
+      "id": 611,
+      "gift_id": 1700,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1cdd54acf8265a3ceb2f8808f4d7aff7.png",
+      "name_en_us": "gloves",
+      "name_ja_jp": "手袋"
+    },
+    {
+      "id": 612,
+      "gift_id": 1701,
+      "emoji_id": 0,
+      "price": 19,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c09af9f946c3dea9ead870fcb9b28336.png",
+      "name_en_us": "Scarf",
+      "name_ja_jp": "マフラー"
+    },
+    {
+      "id": 613,
+      "gift_id": 1702,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/563a0642d7c1fd2f1555475eb9743f38.png",
+      "name_en_us": "lease",
+      "name_ja_jp": "リース"
+    },
+    {
+      "id": 614,
+      "gift_id": 1703,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/513c6e97b95685a20d2d083e2a7b438a.png",
+      "name_en_us": "reindeer",
+      "name_ja_jp": "トナカイ"
     }
   ]
 }
