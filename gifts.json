@@ -1,5 +1,5 @@
 {
-  "data_version": 87.2,
+  "data_version": 88.2,
   "gifts": [
     {
       "id": 0,
@@ -5109,7 +5109,7 @@
       "gift_id": 1656,
       "emoji_id": 0,
       "price": 999,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cd516b019235dedaa5626205dbf3b34c.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b982ad10cc4dd83a90c3c80942b3fd4a.png",
       "name_en_us": "illumination",
       "name_ja_jp": "イルミネーション"
     },
@@ -5535,6 +5535,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/513c6e97b95685a20d2d083e2a7b438a.png",
       "name_en_us": "reindeer",
       "name_ja_jp": "トナカイ"
+    },
+    {
+      "id": 615,
+      "gift_id": 1704,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/486798cbc94b0a4a65645e9865408127.png",
+      "name_en_us": "Chef.Shota",
+      "name_ja_jp": "Chef.Shota"
     }
   ]
 }
