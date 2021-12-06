@@ -1,5 +1,5 @@
 {
-  "data_version": 88.2,
+  "data_version": 89.2,
   "gifts": [
     {
       "id": 0,
@@ -5544,6 +5544,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/486798cbc94b0a4a65645e9865408127.png",
       "name_en_us": "Chef.Shota",
       "name_ja_jp": "Chef.Shota"
+    },
+    {
+      "id": 616,
+      "gift_id": 1705,
+      "emoji_id": 0,
+      "price": 699,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2cf75d6d4ef3c68980110360dd6d09c2.png",
+      "name_en_us": "hot spring",
+      "name_ja_jp": "温泉"
+    },
+    {
+      "id": 617,
+      "gift_id": 1706,
+      "emoji_id": 0,
+      "price": 599,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fb44b443f4d6a67e224faedf759f1fa6.png",
+      "name_en_us": "Live light",
+      "name_ja_jp": "ライブライト"
     }
   ]
 }
