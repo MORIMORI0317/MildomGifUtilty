@@ -1,5 +1,5 @@
 {
-  "data_version": 89.2,
+  "data_version": 90.2,
   "gifts": [
     {
       "id": 0,
@@ -5562,6 +5562,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fb44b443f4d6a67e224faedf759f1fa6.png",
       "name_en_us": "Live light",
       "name_ja_jp": "ライブライト"
+    },
+    {
+      "id": 618,
+      "gift_id": 1707,
+      "emoji_id": 0,
+      "price": 499,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9fb02c3062aaae4fabc4e26545a6878f.png",
+      "name_en_us": "Moving beckoning cat",
+      "name_ja_jp": "動く招き猫"
     }
   ]
 }
