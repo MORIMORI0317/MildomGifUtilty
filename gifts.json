@@ -1,5 +1,5 @@
 {
-  "data_version": 90.2,
+  "data_version": 91.2,
   "gifts": [
     {
       "id": 0,
@@ -1301,7 +1301,7 @@
       "id": 144,
       "gift_id": 1233,
       "emoji_id": 807245021681680417,
-      "price": 88,
+      "price": 99,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/74afd6a5ee8a0005fdcde70c3d53b06f.png",
       "name_en_us": "New Year\u0027s present",
       "name_ja_jp": "お年玉"
@@ -5571,6 +5571,51 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9fb02c3062aaae4fabc4e26545a6878f.png",
       "name_en_us": "Moving beckoning cat",
       "name_ja_jp": "動く招き猫"
+    },
+    {
+      "id": 619,
+      "gift_id": 1708,
+      "emoji_id": 0,
+      "price": 1699,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/02fbed56ecf9cb8740a32dbf33be316c.png",
+      "name_en_us": "Happy New Year!",
+      "name_ja_jp": "あけおめ！"
+    },
+    {
+      "id": 620,
+      "gift_id": 1709,
+      "emoji_id": 0,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f0111e2767ad72bb39e3150b5801a0a7.png",
+      "name_en_us": "Hinapiyo",
+      "name_ja_jp": "ひなぴよ"
+    },
+    {
+      "id": 621,
+      "gift_id": 1710,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8d832d2117fd8fbdcd278943f562dc07.png",
+      "name_en_us": "Umecat 2",
+      "name_ja_jp": "ウメキャット2"
+    },
+    {
+      "id": 622,
+      "gift_id": 1711,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/31ad2952000be2faa9443dbef78a813d.png",
+      "name_en_us": "Uncle Ken! !!",
+      "name_ja_jp": "けんおじ！！"
+    },
+    {
+      "id": 623,
+      "gift_id": 1712,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/31ad2952000be2faa9443dbef78a813d.png",
+      "name_en_us": "Uncle Ken",
+      "name_ja_jp": "けんおじ"
     }
   ]
 }
