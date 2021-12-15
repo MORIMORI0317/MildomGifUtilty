@@ -1,5 +1,5 @@
 {
-  "data_version": 91.2,
+  "data_version": 92.2,
   "gifts": [
     {
       "id": 0,
@@ -5616,6 +5616,51 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/31ad2952000be2faa9443dbef78a813d.png",
       "name_en_us": "Uncle Ken",
       "name_ja_jp": "けんおじ"
+    },
+    {
+      "id": 624,
+      "gift_id": 1713,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4e23a003ba374297c103e12cd82fe1fe.png",
+      "name_en_us": "Heart Punipuni",
+      "name_ja_jp": "ハートぷにぷにっ"
+    },
+    {
+      "id": 625,
+      "gift_id": 1714,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/dc316e6b68e4e36450e6d2a63e19b127.png",
+      "name_en_us": "cupcake",
+      "name_ja_jp": "カップケーキ"
+    },
+    {
+      "id": 626,
+      "gift_id": 1715,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5b85d751779a2ccbc359b0d51cc40e3b.png",
+      "name_en_us": "hi",
+      "name_ja_jp": "hi"
+    },
+    {
+      "id": 627,
+      "gift_id": 1716,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/beca2b691c9c69b32cadba2b728e401d.png",
+      "name_en_us": "Microphone",
+      "name_ja_jp": "マイク"
+    },
+    {
+      "id": 628,
+      "gift_id": 1717,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/beca2b691c9c69b32cadba2b728e401d.png",
+      "name_en_us": "Microphone",
+      "name_ja_jp": "マイク"
     }
   ]
 }
