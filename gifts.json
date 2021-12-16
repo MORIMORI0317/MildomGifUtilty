@@ -1,5 +1,5 @@
 {
-  "data_version": 92.2,
+  "data_version": 93.2,
   "gifts": [
     {
       "id": 0,
@@ -5661,6 +5661,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/beca2b691c9c69b32cadba2b728e401d.png",
       "name_en_us": "Microphone",
       "name_ja_jp": "マイク"
+    },
+    {
+      "id": 629,
+      "gift_id": 1718,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/47f002e0af070dee720b23da29cd9ece.png",
+      "name_en_us": "Kotoyoro",
+      "name_ja_jp": "ことよろ"
+    },
+    {
+      "id": 630,
+      "gift_id": 1719,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ddf55c77eda2da19350582fe2608af9e.png",
+      "name_en_us": "Crystal of snow",
+      "name_ja_jp": "雪の結晶"
     }
   ]
 }
