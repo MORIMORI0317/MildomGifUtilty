@@ -1,5 +1,5 @@
 {
-  "data_version": 93.2,
+  "data_version": 94.2,
   "gifts": [
     {
       "id": 0,
@@ -5679,6 +5679,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ddf55c77eda2da19350582fe2608af9e.png",
       "name_en_us": "Crystal of snow",
       "name_ja_jp": "雪の結晶"
+    },
+    {
+      "id": 631,
+      "gift_id": 1720,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f0111e2767ad72bb39e3150b5801a0a7.png",
+      "name_en_us": "Meri Kuri Hina",
+      "name_ja_jp": "メリクリひな"
     }
   ]
 }
