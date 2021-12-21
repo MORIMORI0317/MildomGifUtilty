@@ -1,5 +1,5 @@
 {
-  "data_version": 96.2,
+  "data_version": 97.2,
   "gifts": [
     {
       "id": 0,
@@ -5895,6 +5895,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d1e7860a8a1dcc6711bd6b77e45ce89d.png",
       "name_en_us": "Mioya!",
       "name_ja_jp": "みおみおやで！"
+    },
+    {
+      "id": 655,
+      "gift_id": 1744,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2667a5b4a353cef1e37b700c3b94cf24.png",
+      "name_en_us": "Nekomaru, not Ukimaru",
+      "name_ja_jp": "うきまるではなくねこまる"
     }
   ]
 }
