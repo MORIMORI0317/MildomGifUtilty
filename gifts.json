@@ -1,5 +1,5 @@
 {
-  "data_version": 97.2,
+  "data_version": 98.2,
   "gifts": [
     {
       "id": 0,
@@ -5904,6 +5904,51 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2667a5b4a353cef1e37b700c3b94cf24.png",
       "name_en_us": "Nekomaru, not Ukimaru",
       "name_ja_jp": "うきまるではなくねこまる"
+    },
+    {
+      "id": 656,
+      "gift_id": 1745,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3989c99f8bee32725a2f0007c604d47d.png",
+      "name_en_us": "Ema",
+      "name_ja_jp": "絵馬"
+    },
+    {
+      "id": 657,
+      "gift_id": 1746,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e691b6e5a87bbb705dc82bb97918334a.png",
+      "name_en_us": "battledore",
+      "name_ja_jp": "羽子板"
+    },
+    {
+      "id": 658,
+      "gift_id": 1747,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f4b17ff1dd142f1bdec35c27b1ee491c.png",
+      "name_en_us": "kite",
+      "name_ja_jp": "凧"
+    },
+    {
+      "id": 659,
+      "gift_id": 1748,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f198434b06ab0ff2dc40c4b1cb6b1b2a.png",
+      "name_en_us": "Lion dance",
+      "name_ja_jp": "ししまい"
+    },
+    {
+      "id": 660,
+      "gift_id": 1749,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e5d018ccdea6fff5af6103085779403c.png",
+      "name_en_us": "Kadomatsu",
+      "name_ja_jp": "門松"
     }
   ]
 }
