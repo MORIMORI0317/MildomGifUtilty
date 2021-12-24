@@ -1,5 +1,5 @@
 {
-  "data_version": 98.2,
+  "data_version": 99.2,
   "gifts": [
     {
       "id": 0,
@@ -5949,6 +5949,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e5d018ccdea6fff5af6103085779403c.png",
       "name_en_us": "Kadomatsu",
       "name_ja_jp": "門松"
+    },
+    {
+      "id": 661,
+      "gift_id": 1750,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cf8ddfb638bf121ec256b794033bcc2b.png",
+      "name_en_us": "Yumi Kumazaki ˖ ࣪⭑꙳",
+      "name_ja_jp": "ゆんゆー˖ ࣪⭑꙳"
     }
   ]
 }
