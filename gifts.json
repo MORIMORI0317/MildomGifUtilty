@@ -1,5 +1,5 @@
 {
-  "data_version": 100.2,
+  "data_version": 101.2,
   "gifts": [
     {
       "id": 0,
@@ -5967,6 +5967,51 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/eb972da03c740d51360be3b6d949707f.png",
       "name_en_us": "Love",
       "name_ja_jp": "爱"
+    },
+    {
+      "id": 663,
+      "gift_id": 1756,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/04577256e2532ef1f8d8f6759a1b6ae2.png",
+      "name_en_us": "Yumi Kumazaki ˖ ࣪⭑꙳",
+      "name_ja_jp": "ゆんゆー˖ ࣪⭑꙳"
+    },
+    {
+      "id": 664,
+      "gift_id": 1752,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6416f3d710fff3410304e76a77939282.png",
+      "name_en_us": "Mill Yoshi",
+      "name_ja_jp": "ミル吉"
+    },
+    {
+      "id": 665,
+      "gift_id": 1753,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f73c491de100bd8f9315d089d9d8fc1d.png",
+      "name_en_us": "Daikichi",
+      "name_ja_jp": "大吉"
+    },
+    {
+      "id": 666,
+      "gift_id": 1754,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9690edf7470e392ee3dd34fe6b451430.png",
+      "name_en_us": "Nakayoshi",
+      "name_ja_jp": "中吉"
+    },
+    {
+      "id": 667,
+      "gift_id": 1755,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/03ad422a0967d6b11d7f6164185aa6fb.png",
+      "name_en_us": "Kokichi",
+      "name_ja_jp": "小吉"
     }
   ]
 }
