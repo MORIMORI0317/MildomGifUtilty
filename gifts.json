@@ -1,5 +1,5 @@
 {
-  "data_version": 101.2,
+  "data_version": 102.2,
   "gifts": [
     {
       "id": 0,
@@ -6012,6 +6012,150 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/03ad422a0967d6b11d7f6164185aa6fb.png",
       "name_en_us": "Kokichi",
       "name_ja_jp": "小吉"
+    },
+    {
+      "id": 668,
+      "gift_id": 1757,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/903d556a6600c33f007b89aab4a2dce2.png",
+      "name_en_us": "CONCEPTMATCH_01",
+      "name_ja_jp": "CONCEPTMATCH_01"
+    },
+    {
+      "id": 669,
+      "gift_id": 1758,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5a8f9c995b6b3dce1cd01d21880fe2fe.png",
+      "name_en_us": "CONCEPTMATCH_02",
+      "name_ja_jp": "CONCEPTMATCH_02"
+    },
+    {
+      "id": 670,
+      "gift_id": 1759,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6080a0f18aa8832aca5fe6bb0e8b368d.png",
+      "name_en_us": "CONCEPTMATCH_03",
+      "name_ja_jp": "CONCEPTMATCH_03"
+    },
+    {
+      "id": 671,
+      "gift_id": 1760,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d1f81de74f0b40490edafeab642e212f.png",
+      "name_en_us": "CONCEPTMATCH_04",
+      "name_ja_jp": "CONCEPTMATCH_04"
+    },
+    {
+      "id": 672,
+      "gift_id": 1761,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/427cad647fda5bfb89598cf6d509fb9b.png",
+      "name_en_us": "CONCEPTMATCH_05",
+      "name_ja_jp": "CONCEPTMATCH_05"
+    },
+    {
+      "id": 673,
+      "gift_id": 1762,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/360707802c517747cb94df38d9966b9f.png",
+      "name_en_us": "CONCEPTMATCH_06",
+      "name_ja_jp": "CONCEPTMATCH_06"
+    },
+    {
+      "id": 674,
+      "gift_id": 1763,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/281a8f18ab2abf2a6429c78bb26b3bb4.png",
+      "name_en_us": "CONCEPTMATCH_07",
+      "name_ja_jp": "CONCEPTMATCH_07"
+    },
+    {
+      "id": 675,
+      "gift_id": 1764,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2e95498651d5dac4f88102ec002ad97f.png",
+      "name_en_us": "CONCEPTMATCH_08",
+      "name_ja_jp": "CONCEPTMATCH_08"
+    },
+    {
+      "id": 676,
+      "gift_id": 1765,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/aed476312b817c9f59b67e11358fa5e2.png",
+      "name_en_us": "CONCEPTMATCH_09",
+      "name_ja_jp": "CONCEPTMATCH_09"
+    },
+    {
+      "id": 677,
+      "gift_id": 1766,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8cbe45462fc1b2f23709e10ec91080f7.png",
+      "name_en_us": "CONCEPTMATCH_10",
+      "name_ja_jp": "CONCEPTMATCH_10"
+    },
+    {
+      "id": 678,
+      "gift_id": 1767,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2b19ff12bdf6c85bdeb81c783f789fb4.png",
+      "name_en_us": "CONCEPTMATCH_11",
+      "name_ja_jp": "CONCEPTMATCH_11"
+    },
+    {
+      "id": 679,
+      "gift_id": 1768,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8a16d8bd0b25354cc01ee5c376434fb3.png",
+      "name_en_us": "CONCEPTMATCH_12",
+      "name_ja_jp": "CONCEPTMATCH_12"
+    },
+    {
+      "id": 680,
+      "gift_id": 1769,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/702f10a391f363cc868b62dd0b6c9048.png",
+      "name_en_us": "CONCEPTMATCH_13",
+      "name_ja_jp": "CONCEPTMATCH_13"
+    },
+    {
+      "id": 681,
+      "gift_id": 1770,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1cfb007ea8ca1eea2903f7cbf22de07d.png",
+      "name_en_us": "CONCEPTMATCH_14",
+      "name_ja_jp": "CONCEPTMATCH_14"
+    },
+    {
+      "id": 682,
+      "gift_id": 1771,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fd9e78eadc922bc67e8a087fa028e142.png",
+      "name_en_us": "CONCEPTMATCH_15",
+      "name_ja_jp": "CONCEPTMATCH_15"
+    },
+    {
+      "id": 683,
+      "gift_id": 1772,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8caab7f1570c9ea0df503a254faa0e0c.png",
+      "name_en_us": "CONCEPTMATCH_16",
+      "name_ja_jp": "CONCEPTMATCH_16"
     }
   ]
 }
