@@ -1,5 +1,5 @@
 {
-  "data_version": 102.2,
+  "data_version": 102.299995,
   "gifts": [
     {
       "id": 0,
@@ -5792,7 +5792,7 @@
       "id": 643,
       "gift_id": 1721,
       "emoji_id": 0,
-      "price": 0,
+      "price": 1,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9b7e168bc9356795e8daa6c96fa80563.png",
       "name_en_us": "sea ​​bream",
       "name_ja_jp": "鯛"
