@@ -1,5 +1,5 @@
 {
-  "data_version": 103.299995,
+  "data_version": 104.299995,
   "gifts": [
     {
       "id": 0,
@@ -6183,6 +6183,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ae7bc41bfa3fa704175509e05a10d11c.png",
       "name_en_us": "Original gift",
       "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 687,
+      "gift_id": 1776,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/eb972da03c740d51360be3b6d949707f.png",
+      "name_en_us": "test gift",
+      "name_ja_jp": "test gift"
+    },
+    {
+      "id": 688,
+      "gift_id": 1777,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/37a1c82c3ffd342c24a04cdee360e9ab.png",
+      "name_en_us": "Hinapiyo",
+      "name_ja_jp": "ひなぴよ"
+    },
+    {
+      "id": 689,
+      "gift_id": 1778,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3b399df9af02db028438579cd5fe93dc.png",
+      "name_en_us": "Yunako",
+      "name_ja_jp": "ゆなっこ"
+    },
+    {
+      "id": 690,
+      "gift_id": 1779,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cfba2da2d9c3466cc302efcfc9b63743.png",
+      "name_en_us": "Little fire",
+      "name_ja_jp": "リトルファイア"
     }
   ]
 }
