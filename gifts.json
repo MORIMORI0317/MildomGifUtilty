@@ -1,5 +1,5 @@
 {
-  "data_version": 104.299995,
+  "data_version": 105.299995,
   "gifts": [
     {
       "id": 0,
@@ -6215,10 +6215,19 @@
       "id": 690,
       "gift_id": 1779,
       "emoji_id": 0,
-      "price": 299,
+      "price": 1,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cfba2da2d9c3466cc302efcfc9b63743.png",
       "name_en_us": "Little fire",
       "name_ja_jp": "リトルファイア"
+    },
+    {
+      "id": 691,
+      "gift_id": 1780,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5cfd61003caa8f873f3db0b6ec1ff905.png",
+      "name_en_us": "213",
+      "name_ja_jp": "213"
     }
   ]
 }
