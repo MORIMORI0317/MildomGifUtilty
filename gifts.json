@@ -1,5 +1,5 @@
 {
-  "data_version": 105.399994,
+  "data_version": 106.399994,
   "gifts": [
     {
       "id": 0,
@@ -6228,6 +6228,195 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5cfd61003caa8f873f3db0b6ec1ff905.png",
       "name_en_us": "213",
       "name_ja_jp": "213"
+    },
+    {
+      "id": 692,
+      "gift_id": 1781,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fffde72bb64c7964a2f1cd758410f3d0.jpg",
+      "name_en_us": "Thank you",
+      "name_ja_jp": "ありがとう"
+    },
+    {
+      "id": 693,
+      "gift_id": 1782,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6a23bc8739f472517a4b422f22649fef.png",
+      "name_en_us": "Wow",
+      "name_ja_jp": "はわわ"
+    },
+    {
+      "id": 694,
+      "gift_id": 1783,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5fa976d42b799668d51220d198b2371f.png",
+      "name_en_us": "let\u0027s go",
+      "name_ja_jp": "行くぞ"
+    },
+    {
+      "id": 695,
+      "gift_id": 1784,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6d8cd6fb991e1a192855ebf296ee5dae.png",
+      "name_en_us": "Plum, like",
+      "name_ja_jp": "梅、いいね"
+    },
+    {
+      "id": 696,
+      "gift_id": 1785,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/68700a9518957d85033d8a83d3f4438c.png",
+      "name_en_us": "Huhun",
+      "name_ja_jp": "フフン"
+    },
+    {
+      "id": 697,
+      "gift_id": 1786,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/31628fedca8ca8c8a72b809bb548288a.png",
+      "name_en_us": "sorry",
+      "name_ja_jp": "ごめん"
+    },
+    {
+      "id": 698,
+      "gift_id": 1787,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/91f09e8d1ef1913c5319ae18f7eed9d4.png",
+      "name_en_us": "What",
+      "name_ja_jp": "なんじゃと"
+    },
+    {
+      "id": 699,
+      "gift_id": 1788,
+      "emoji_id": 0,
+      "price": 89,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/bb2e3f636561ba46309498fd31779500.png",
+      "name_en_us": "Yay",
+      "name_ja_jp": "わーい"
+    },
+    {
+      "id": 700,
+      "gift_id": 1789,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/97db66f9cdc45b7dc19ef3b1d377e8a8.png",
+      "name_en_us": "Nice to meet you",
+      "name_ja_jp": "よっろしくね"
+    },
+    {
+      "id": 701,
+      "gift_id": 1790,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/705313f64ac13eabf4aeda96ac1be48e.png",
+      "name_en_us": "see you",
+      "name_ja_jp": "またね"
+    },
+    {
+      "id": 702,
+      "gift_id": 1791,
+      "emoji_id": 0,
+      "price": 89,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cbd114ab04d70712923c3d51d92fa349.png",
+      "name_en_us": "As expected",
+      "name_ja_jp": "さすがです"
+    },
+    {
+      "id": 703,
+      "gift_id": 1792,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/71472bbab55fbbaf41fc839dcdf64b7b.png",
+      "name_en_us": "good work",
+      "name_ja_jp": "おつかれさま"
+    },
+    {
+      "id": 704,
+      "gift_id": 1793,
+      "emoji_id": 0,
+      "price": 89,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ba0d3a161bbf5a88980c87647958ba87.png",
+      "name_en_us": "wonderful",
+      "name_ja_jp": "素敵です"
+    },
+    {
+      "id": 705,
+      "gift_id": 1794,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e23ffaba9e7774363e91bd62a76df6ae.png",
+      "name_en_us": "Yay",
+      "name_ja_jp": "やったー"
+    },
+    {
+      "id": 706,
+      "gift_id": 1795,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5f1c736f80f7af9059a3f47d41cd24c0.png",
+      "name_en_us": "Thanks to me",
+      "name_ja_jp": "あたしのおかげね"
+    },
+    {
+      "id": 707,
+      "gift_id": 1796,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/39118a90cd03e593794749b9f07a496e.png",
+      "name_en_us": "So that\u0027s it",
+      "name_ja_jp": "なるほど"
+    },
+    {
+      "id": 708,
+      "gift_id": 1797,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5953c67f99ea1cc3a2116db2548691a2.png",
+      "name_en_us": "please",
+      "name_ja_jp": "お願いします"
+    },
+    {
+      "id": 709,
+      "gift_id": 1798,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7c397de4db7ff240d41c8a773417774f.png",
+      "name_en_us": "It can\u0027t be helped",
+      "name_ja_jp": "仕方ないわね"
+    },
+    {
+      "id": 710,
+      "gift_id": 1799,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/73d9e34bd9fb9b54cd4adbb8beb92a3d.png",
+      "name_en_us": "Roger that",
+      "name_ja_jp": "了解"
+    },
+    {
+      "id": 711,
+      "gift_id": 1800,
+      "emoji_id": 0,
+      "price": 89,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1dbb13647794f963a7288eecda74d663.png",
+      "name_en_us": "Paaaa",
+      "name_ja_jp": "ぱあああ"
+    },
+    {
+      "id": 712,
+      "gift_id": 1801,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/196b4635cac9490fd6d16d41c163d420.png",
+      "name_en_us": "how do you do",
+      "name_ja_jp": "ごきげんよう"
     }
   ]
 }
