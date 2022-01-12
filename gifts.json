@@ -1,5 +1,5 @@
 {
-  "data_version": 106.399994,
+  "data_version": 107.399994,
   "gifts": [
     {
       "id": 0,
@@ -6417,6 +6417,51 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/196b4635cac9490fd6d16d41c163d420.png",
       "name_en_us": "how do you do",
       "name_ja_jp": "ごきげんよう"
+    },
+    {
+      "id": 713,
+      "gift_id": 1803,
+      "emoji_id": 0,
+      "price": 0,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/10eae146839d8c5dc4b9d88c26fb5ff4.png",
+      "name_en_us": "Thank you",
+      "name_ja_jp": "ありがとう"
+    },
+    {
+      "id": 714,
+      "gift_id": 1804,
+      "emoji_id": 0,
+      "price": 0,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b9b39ab9b3895429f4755dc91f090f9a.png",
+      "name_en_us": "congratulation",
+      "name_ja_jp": "おめでとう"
+    },
+    {
+      "id": 715,
+      "gift_id": 1805,
+      "emoji_id": 0,
+      "price": 0,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/83048d58cf13a3403eb46494fce7c0e3.jpg",
+      "name_en_us": "leave it to me",
+      "name_ja_jp": "まかせてください"
+    },
+    {
+      "id": 716,
+      "gift_id": 1806,
+      "emoji_id": 0,
+      "price": 0,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/79072c478596b25de752766c31cc432c.png",
+      "name_en_us": "Let\u0027s do our best",
+      "name_ja_jp": "頑張りましょ"
+    },
+    {
+      "id": 717,
+      "gift_id": 1807,
+      "emoji_id": 0,
+      "price": 0,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/aa3c2ed45a8411e73b8782aceaa4ea1f.png",
+      "name_en_us": "leave it to me",
+      "name_ja_jp": "まかせてください"
     }
   ]
 }
