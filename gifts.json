@@ -1,5 +1,5 @@
 {
-  "data_version": 107.399994,
+  "data_version": 108.399994,
   "gifts": [
     {
       "id": 0,
@@ -6216,7 +6216,7 @@
       "gift_id": 1779,
       "emoji_id": 0,
       "price": 299,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cfba2da2d9c3466cc302efcfc9b63743.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a20ab97a233eb1046254c31404cecbe7.png",
       "name_en_us": "Little fire",
       "name_ja_jp": "リトルファイア"
     },
@@ -6462,6 +6462,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/aa3c2ed45a8411e73b8782aceaa4ea1f.png",
       "name_en_us": "leave it to me",
       "name_ja_jp": "まかせてください"
+    },
+    {
+      "id": 718,
+      "gift_id": 1808,
+      "emoji_id": 0,
+      "price": 1999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0f0127512930426db0640e66be13d7c7.png",
+      "name_en_us": "Ehomaki Mogumogu",
+      "name_ja_jp": "恵方巻もぐもぐ"
     }
   ]
 }
