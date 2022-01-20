@@ -1,5 +1,5 @@
 {
-  "data_version": 108.399994,
+  "data_version": 109.399994,
   "gifts": [
     {
       "id": 0,
@@ -6471,6 +6471,87 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0f0127512930426db0640e66be13d7c7.png",
       "name_en_us": "Ehomaki Mogumogu",
       "name_ja_jp": "恵方巻もぐもぐ"
+    },
+    {
+      "id": 719,
+      "gift_id": 1809,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9fc138bed4a671d6afa4824154ceebab.png",
+      "name_en_us": "Housing complex wife",
+      "name_ja_jp": "団地妻"
+    },
+    {
+      "id": 720,
+      "gift_id": 1810,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b982ad10cc4dd83a90c3c80942b3fd4a.png",
+      "name_en_us": "Mr. Sasa",
+      "name_ja_jp": "さっささん"
+    },
+    {
+      "id": 721,
+      "gift_id": 1811,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2e7d6ad9422f27d20c38086d05c6fcfb.png",
+      "name_en_us": "Mr. Sasa",
+      "name_ja_jp": "さっささん"
+    },
+    {
+      "id": 722,
+      "gift_id": 1812,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/354c61094898de39aa4674cc08c3228c.png",
+      "name_en_us": "Rita Chan",
+      "name_ja_jp": "りたChan"
+    },
+    {
+      "id": 723,
+      "gift_id": 1813,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0a76124996cfe6b2be91937724d7f108.png",
+      "name_en_us": "Daruma",
+      "name_ja_jp": "だるま"
+    },
+    {
+      "id": 724,
+      "gift_id": 1814,
+      "emoji_id": 0,
+      "price": 999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4627bf22f37a26122affcc160da61330.png",
+      "name_en_us": "Dragon",
+      "name_ja_jp": "龍"
+    },
+    {
+      "id": 725,
+      "gift_id": 1815,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/25605b9570e0e267566f404618e4c150.png",
+      "name_en_us": "turtle",
+      "name_ja_jp": "亀"
+    },
+    {
+      "id": 726,
+      "gift_id": 1816,
+      "emoji_id": 0,
+      "price": 49,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/13c80db5337c331b8f486452d9922296.png",
+      "name_en_us": "Owl",
+      "name_ja_jp": "ふくろう"
+    },
+    {
+      "id": 727,
+      "gift_id": 1817,
+      "emoji_id": 0,
+      "price": 29,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/51fe18c6bf7f027b37388a7c65eb7724.png",
+      "name_en_us": "pig",
+      "name_ja_jp": "ぶた"
     }
   ]
 }
