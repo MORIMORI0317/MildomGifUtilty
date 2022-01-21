@@ -1,5 +1,5 @@
 {
-  "data_version": 109.399994,
+  "data_version": 110.399994,
   "gifts": [
     {
       "id": 0,
@@ -6552,6 +6552,51 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/51fe18c6bf7f027b37388a7c65eb7724.png",
       "name_en_us": "pig",
       "name_ja_jp": "ぶた"
+    },
+    {
+      "id": 728,
+      "gift_id": 1818,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4625583e468015fe01f1f03e99f7972f.png",
+      "name_en_us": "Wand",
+      "name_ja_jp": "ワンド"
+    },
+    {
+      "id": 729,
+      "gift_id": 1819,
+      "emoji_id": 0,
+      "price": 199,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d413d27083735f8a26abe619b8585ea8.png",
+      "name_en_us": "Playing cards",
+      "name_ja_jp": "トランプ"
+    },
+    {
+      "id": 730,
+      "gift_id": 1820,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2e95453218034e402b0cec9f1829e8f2.png",
+      "name_en_us": "mask",
+      "name_ja_jp": "マスク"
+    },
+    {
+      "id": 731,
+      "gift_id": 1821,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5441801085a7d36e37d5e1ec0bf4718e.png",
+      "name_en_us": "Pigeon",
+      "name_ja_jp": "ハト"
+    },
+    {
+      "id": 732,
+      "gift_id": 1822,
+      "emoji_id": 0,
+      "price": 999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ff541f4ffd107b88c623ccf6e6587687.png",
+      "name_en_us": "Magic rabbit",
+      "name_ja_jp": "マジックうさぎ"
     }
   ]
 }
