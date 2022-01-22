@@ -1,5 +1,5 @@
 {
-  "data_version": 110.399994,
+  "data_version": 111.399994,
   "gifts": [
     {
       "id": 0,
@@ -6597,6 +6597,177 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ff541f4ffd107b88c623ccf6e6587687.png",
       "name_en_us": "Magic rabbit",
       "name_ja_jp": "マジックうさぎ"
+    },
+    {
+      "id": 733,
+      "gift_id": 1823,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d2dfa187d8b13de1c5635c37b6ec13b4.png",
+      "name_en_us": "Yunako Toramaru",
+      "name_ja_jp": "虎丸ゆなっこ"
+    },
+    {
+      "id": 734,
+      "gift_id": 1824,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b5d7e9495fd8509a2411d7575a65761c.png",
+      "name_en_us": "Hina Makase Rori ❕",
+      "name_ja_jp": "ひなまかせろりっ❕"
+    },
+    {
+      "id": 735,
+      "gift_id": 1825,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c7ba5396c27939991b283aea2d563e26.png",
+      "name_en_us": "Banana teacher",
+      "name_ja_jp": "バナナ先生"
+    },
+    {
+      "id": 736,
+      "gift_id": 1826,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e5919eaaa2b6c6da88ebe3608c83204a.png",
+      "name_en_us": "Boboten",
+      "name_ja_jp": "ぼぼてん"
+    },
+    {
+      "id": 737,
+      "gift_id": 1827,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6999c90acd3f48b345477175803e09ce.png",
+      "name_en_us": "Happy Ponkotsu Kapio Maru",
+      "name_ja_jp": "ハッピーポンコツかぴお丸"
+    },
+    {
+      "id": 738,
+      "gift_id": 1828,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c653ccd61c78efa311726b2991311bc4.png",
+      "name_en_us": "Hapiba Kodi",
+      "name_ja_jp": "ハピバこでぃ"
+    },
+    {
+      "id": 739,
+      "gift_id": 1829,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/41e6865bfe0c496ad2a23bfd95f1f2f6.png",
+      "name_en_us": "Poguma of the world",
+      "name_ja_jp": "世界のぽぐま"
+    },
+    {
+      "id": 740,
+      "gift_id": 1830,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ac1706ed833498ce9f383df04a3bc432.png",
+      "name_en_us": "ᾟ.ྀི Nupin ⑅⃝",
+      "name_ja_jp": "🧸ྀིぬぴん‎⑅⃝"
+    },
+    {
+      "id": 741,
+      "gift_id": 1831,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7985627e91ba0f5e1cdd2e1fe6813525.png",
+      "name_en_us": "Uzuki Uyu",
+      "name_ja_jp": "卯月うゆ"
+    },
+    {
+      "id": 742,
+      "gift_id": 1832,
+      "emoji_id": 0,
+      "price": 93,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d3497fe0613c2dd8ca15908e722c950f.png",
+      "name_en_us": "I love rice balls",
+      "name_ja_jp": "おにぎり大好き"
+    },
+    {
+      "id": 743,
+      "gift_id": 1833,
+      "emoji_id": 0,
+      "price": 100,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d81bb25d31ed2d664cddb1896a7080e1.png",
+      "name_en_us": "Ken uncle medal",
+      "name_ja_jp": "けんおじメダル"
+    },
+    {
+      "id": 744,
+      "gift_id": 1834,
+      "emoji_id": 0,
+      "price": 59,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/18f65736fcfc6e72dcf1895c5c920a87.png",
+      "name_en_us": "koku_koku",
+      "name_ja_jp": "koku_koku"
+    },
+    {
+      "id": 745,
+      "gift_id": 1835,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5da1af8666fb8fe53a2e780744aee96e.png",
+      "name_en_us": "Magaretsu Zodiac",
+      "name_ja_jp": "まがれつ干支"
+    },
+    {
+      "id": 746,
+      "gift_id": 1836,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/412cb0f5efbf2ff103af6bb89e001656.png",
+      "name_en_us": "Umecat 3",
+      "name_ja_jp": "ウメキャット3"
+    },
+    {
+      "id": 747,
+      "gift_id": 1837,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a904d4ab9dfca4e47b6b97f6d5c0cd67.png",
+      "name_en_us": "Wow Yunako",
+      "name_ja_jp": "わーいゆなっこ"
+    },
+    {
+      "id": 748,
+      "gift_id": 1838,
+      "emoji_id": 0,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f530a3ad8960d9a311eda8d0f2ed1381.png",
+      "name_en_us": "Sheep Gunbi",
+      "name_ja_jp": "ひつじぐんび"
+    },
+    {
+      "id": 749,
+      "gift_id": 1839,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c47c252bc26c7bd673410b4de20f1e37.png",
+      "name_en_us": "Torabagi",
+      "name_ja_jp": "とらばぎ"
+    },
+    {
+      "id": 750,
+      "gift_id": 1840,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/59a570a9fa8c82b44bda6db3f0ca2f10.png",
+      "name_en_us": "Suya Hina",
+      "name_ja_jp": "すやひな"
+    },
+    {
+      "id": 751,
+      "gift_id": 1841,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0a110a5dda855cd5aba12997a7be6160.png",
+      "name_en_us": "TOPANGA x TEKKEN",
+      "name_ja_jp": "TOPANGA x TEKKEN "
     }
   ]
 }
