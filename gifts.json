@@ -1,5 +1,5 @@
 {
-  "data_version": 111.399994,
+  "data_version": 112.399994,
   "gifts": [
     {
       "id": 0,
@@ -6768,6 +6768,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0a110a5dda855cd5aba12997a7be6160.png",
       "name_en_us": "TOPANGA x TEKKEN",
       "name_ja_jp": "TOPANGA x TEKKEN "
+    },
+    {
+      "id": 752,
+      "gift_id": 1842,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/37bbd6d2a535195e4cfa77c844a3ff41.png",
+      "name_en_us": "Team YAMASA | Novi WIN",
+      "name_ja_jp": "Team YAMASA | ノビ WIN"
+    },
+    {
+      "id": 753,
+      "gift_id": 1843,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2b6b6b76c04f04eb23be7becbb842c38.png",
+      "name_en_us": "Beware BΩY",
+      "name_ja_jp": "用心BΩY"
+    },
+    {
+      "id": 754,
+      "gift_id": 1844,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d27cc379ed0a0cf26cf9cf21f4a687e4.png",
+      "name_en_us": "COOASGAMES | Noroma",
+      "name_ja_jp": "COOASGAMES | ノロマ"
+    },
+    {
+      "id": 755,
+      "gift_id": 1845,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8774c39c19b3427c2534fe073c5f7cf7.png",
+      "name_en_us": "ITO | Mikio",
+      "name_ja_jp": "ITO | みきお"
     }
   ]
 }
