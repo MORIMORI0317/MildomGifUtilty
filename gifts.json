@@ -1,5 +1,5 @@
 {
-  "data_version": 112.399994,
+  "data_version": 113.399994,
   "gifts": [
     {
       "id": 0,
@@ -6804,6 +6804,87 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8774c39c19b3427c2534fe073c5f7cf7.png",
       "name_en_us": "ITO | Mikio",
       "name_ja_jp": "ITO | みきお"
+    },
+    {
+      "id": 756,
+      "gift_id": 1851,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3f2d32c3fb6bd42a21976c273ae77b21.png",
+      "name_en_us": "demon",
+      "name_ja_jp": "鬼"
+    },
+    {
+      "id": 757,
+      "gift_id": 1852,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/db98482c14b3ccf4a60a43f1362eace9.png",
+      "name_en_us": "Okame",
+      "name_ja_jp": "おかめ"
+    },
+    {
+      "id": 758,
+      "gift_id": 1853,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c4aa5a9c7463044554d593da567edb9f.png",
+      "name_en_us": "Beans in a box",
+      "name_ja_jp": "升に入った豆"
+    },
+    {
+      "id": 759,
+      "gift_id": 1854,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8757108de8cf3a5547fed5aef59c56a9.png",
+      "name_en_us": "Bean grain",
+      "name_ja_jp": "豆粒"
+    },
+    {
+      "id": 760,
+      "gift_id": 1846,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4625583e468015fe01f1f03e99f7972f.png",
+      "name_en_us": "Secret wand",
+      "name_ja_jp": "秘密ステッキ"
+    },
+    {
+      "id": 761,
+      "gift_id": 1847,
+      "emoji_id": 0,
+      "price": 199,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d413d27083735f8a26abe619b8585ea8.png",
+      "name_en_us": "Heart playing cards",
+      "name_ja_jp": "ハートのトランプ"
+    },
+    {
+      "id": 762,
+      "gift_id": 1848,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2e95453218034e402b0cec9f1829e8f2.png",
+      "name_en_us": "Magician\u0027s mask",
+      "name_ja_jp": "奇術師の仮面"
+    },
+    {
+      "id": 763,
+      "gift_id": 1849,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5441801085a7d36e37d5e1ec0bf4718e.png",
+      "name_en_us": "Mysterious pigeon",
+      "name_ja_jp": "不思議なハト"
+    },
+    {
+      "id": 764,
+      "gift_id": 1850,
+      "emoji_id": 0,
+      "price": 999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ff541f4ffd107b88c623ccf6e6587687.png",
+      "name_en_us": "Magic Rabbit",
+      "name_ja_jp": "マジックラビット"
     }
   ]
 }
