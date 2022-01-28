@@ -1,5 +1,5 @@
 {
-  "data_version": 114.399994,
+  "data_version": 115.399994,
   "gifts": [
     {
       "id": 0,
@@ -6903,6 +6903,69 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2f017fdc622e728a434c66008a2cc550.png",
       "name_en_us": "hug",
       "name_ja_jp": "ハグ"
+    },
+    {
+      "id": 767,
+      "gift_id": 1857,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/232c7040162c8e14c1e89c281751b942.png",
+      "name_en_us": "Chocolate sort",
+      "name_ja_jp": "チョコアソート"
+    },
+    {
+      "id": 768,
+      "gift_id": 1858,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a12d9eecef55153c94097a0872633d7e.png",
+      "name_en_us": "Chocolate cake",
+      "name_ja_jp": "チョコケーキ"
+    },
+    {
+      "id": 769,
+      "gift_id": 1859,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/dbc5f1f12b7f4984f6f58ea1502c83c6.png",
+      "name_en_us": "Rabbit cake",
+      "name_ja_jp": "うさぎケーキ"
+    },
+    {
+      "id": 770,
+      "gift_id": 1860,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2abdf7f947847e7ec8dacc3a391e263d.png",
+      "name_en_us": "Strawberry chocolate",
+      "name_ja_jp": "いちごチョコ"
+    },
+    {
+      "id": 771,
+      "gift_id": 1861,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b4f06fd15cddd42e0c5dc47c94fbf8bb.png",
+      "name_en_us": "Heart chocolate",
+      "name_ja_jp": "ハートチョコ"
+    },
+    {
+      "id": 772,
+      "gift_id": 1862,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d413d27083735f8a26abe619b8585ea8.png",
+      "name_en_us": "Heart playing cards",
+      "name_ja_jp": "ハートのトランプ"
+    },
+    {
+      "id": 773,
+      "gift_id": 1863,
+      "emoji_id": 0,
+      "price": 249,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4625583e468015fe01f1f03e99f7972f.png",
+      "name_en_us": "Secret wand",
+      "name_ja_jp": "秘密ステッキ"
     }
   ]
 }
