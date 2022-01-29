@@ -1,5 +1,5 @@
 {
-  "data_version": 115.399994,
+  "data_version": 116.399994,
   "gifts": [
     {
       "id": 0,
@@ -6966,6 +6966,159 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4625583e468015fe01f1f03e99f7972f.png",
       "name_en_us": "Secret wand",
       "name_ja_jp": "秘密ステッキ"
+    },
+    {
+      "id": 774,
+      "gift_id": 1864,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3f9e10c3772761751cc0566851317bbc.png",
+      "name_en_us": "Beni-gumi-Go! !!",
+      "name_ja_jp": "紅組ー行け！！"
+    },
+    {
+      "id": 775,
+      "gift_id": 1865,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/da5db85c08f722c7af3cdadbd3087996.png",
+      "name_en_us": "Shirogumi-Good luck! !!",
+      "name_ja_jp": "白組ーがんば！！"
+    },
+    {
+      "id": 776,
+      "gift_id": 1866,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2a6e594fba26622bc81032a89bd0b9ff.png",
+      "name_en_us": "Pyariko",
+      "name_ja_jp": "ぴゃりこ"
+    },
+    {
+      "id": 777,
+      "gift_id": 1867,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a5f21a325e2c477a8cf1700a4d696811.png",
+      "name_en_us": "Pyario",
+      "name_ja_jp": "ぴゃりお"
+    },
+    {
+      "id": 778,
+      "gift_id": 1868,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3f99029f273045750a3e41249c449a7a.png",
+      "name_en_us": "Jyotaro. WIN",
+      "name_ja_jp": "じょうたろう。WIN"
+    },
+    {
+      "id": 779,
+      "gift_id": 1869,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2f84ac4f2d913be6deb278b7566ba56d.png",
+      "name_en_us": "Pecos WIN",
+      "name_ja_jp": "ペコス WIN"
+    },
+    {
+      "id": 780,
+      "gift_id": 1870,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d49d4295bf3881e52300375b9a160449.png",
+      "name_en_us": "Out of metal WIN",
+      "name_ja_jp": "はずれメタル WIN"
+    },
+    {
+      "id": 781,
+      "gift_id": 1871,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1991831d49ba612fbd6ca132bc053719.png",
+      "name_en_us": "PINYA WIN",
+      "name_ja_jp": "PINYA WIN"
+    },
+    {
+      "id": 782,
+      "gift_id": 1872,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2c23642af1b5ad4c41f19f45a4fa8bf9.png",
+      "name_en_us": "AO WIN",
+      "name_ja_jp": "AO WIN"
+    },
+    {
+      "id": 783,
+      "gift_id": 1873,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/35042632493ac7721375884b3e8e3565.png",
+      "name_en_us": "Mr. B WIN",
+      "name_ja_jp": "B君 WIN"
+    },
+    {
+      "id": 784,
+      "gift_id": 1874,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/32632136a33433f9fb2e6c7017706a23.png",
+      "name_en_us": "Pacific rampage WIN",
+      "name_ja_jp": "太平洋の暴れん坊 WIN"
+    },
+    {
+      "id": 785,
+      "gift_id": 1875,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2c9d976dc0f653961424ab48627a0240.png",
+      "name_en_us": "Masa WIN",
+      "name_ja_jp": "Masa WIN"
+    },
+    {
+      "id": 786,
+      "gift_id": 1876,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/12f4cad8f23cbf3ae96043de100e269f.png",
+      "name_en_us": "SER WIN",
+      "name_ja_jp": "SER WIN"
+    },
+    {
+      "id": 787,
+      "gift_id": 1877,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e56a4ac615d82ee95e782d4497be8613.png",
+      "name_en_us": "Zeugal WIN",
+      "name_ja_jp": "ゼウガル WIN"
+    },
+    {
+      "id": 788,
+      "gift_id": 1878,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3dd50070556cfbb028989f09519c2120.png",
+      "name_en_us": "Aging WIN",
+      "name_ja_jp": "加齢 WIN"
+    },
+    {
+      "id": 789,
+      "gift_id": 1879,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/178fffc5060a7360d8bdf326bf92743f.png",
+      "name_en_us": "Destruction King WIN",
+      "name_ja_jp": "破壊王 WIN"
+    },
+    {
+      "id": 790,
+      "gift_id": 1880,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/46464b67bcf7ce6a6302aa1d1a49ae72.png",
+      "name_en_us": "Thalys Cutter WIN",
+      "name_ja_jp": "タリスカッター WIN"
     }
   ]
 }
