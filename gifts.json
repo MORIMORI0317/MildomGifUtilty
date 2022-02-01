@@ -1,5 +1,5 @@
 {
-  "data_version": 116.399994,
+  "data_version": 117.399994,
   "gifts": [
     {
       "id": 0,
@@ -7119,6 +7119,51 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/46464b67bcf7ce6a6302aa1d1a49ae72.png",
       "name_en_us": "Thalys Cutter WIN",
       "name_ja_jp": "タリスカッター WIN"
+    },
+    {
+      "id": 791,
+      "gift_id": 1881,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4bbae2196c792e0e15418cc3bd54ef84.png",
+      "name_en_us": "S rank gift",
+      "name_ja_jp": "Sランクギフト"
+    },
+    {
+      "id": 792,
+      "gift_id": 1882,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/81f288266cedb67f737dd753661ca8fd.png",
+      "name_en_us": "A rank gift",
+      "name_ja_jp": "Aランクギフト"
+    },
+    {
+      "id": 793,
+      "gift_id": 1883,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/135cb851ecc028734dde4b2d853878bc.png",
+      "name_en_us": "B rank gift",
+      "name_ja_jp": "Bランクギフト"
+    },
+    {
+      "id": 794,
+      "gift_id": 1884,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/364c8ee066504bf8c550f102fd46646d.png",
+      "name_en_us": "C rank gift",
+      "name_ja_jp": "Cランクギフト"
+    },
+    {
+      "id": 795,
+      "gift_id": 1885,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6ca3adb77e30d35b1e1443cc14939695.png",
+      "name_en_us": "D rank gift",
+      "name_ja_jp": "Dランクギフト"
     }
   ]
 }
