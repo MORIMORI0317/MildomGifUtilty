@@ -1,5 +1,5 @@
 {
-  "data_version": 117.399994,
+  "data_version": 118.399994,
   "gifts": [
     {
       "id": 0,
@@ -7164,6 +7164,78 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6ca3adb77e30d35b1e1443cc14939695.png",
       "name_en_us": "D rank gift",
       "name_ja_jp": "Dランクギフト"
+    },
+    {
+      "id": 796,
+      "gift_id": 1886,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/96848354dfb97472966b6c55d83cad27.png",
+      "name_en_us": "Ao, new work",
+      "name_ja_jp": "あお、新作"
+    },
+    {
+      "id": 797,
+      "gift_id": 1887,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c93f67c9f319a518f8c3855aea0bbe79.png",
+      "name_en_us": "TIE Ru",
+      "name_ja_jp": "TIE Ru"
+    },
+    {
+      "id": 798,
+      "gift_id": 1888,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/01f6e7334ddbfdda3d6416a03333c80b.png",
+      "name_en_us": "Lamb Lamb G",
+      "name_ja_jp": "ラムラムG"
+    },
+    {
+      "id": 799,
+      "gift_id": 1890,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b982ad10cc4dd83a90c3c80942b3fd4a.png",
+      "name_en_us": "Ukimaru ฅ",
+      "name_ja_jp": "うきまるฅ"
+    },
+    {
+      "id": 800,
+      "gift_id": 1891,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6f435c5e26ee911b9022a6652ea4f914.png",
+      "name_en_us": "Tɞ \"kyyᾘ.ྀི",
+      "name_ja_jp": "Ｔɞ\"ｋｙｙ🦀ྀི"
+    },
+    {
+      "id": 801,
+      "gift_id": 1892,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fb2b9f5e1339e85e1e4f8962775528f5.png",
+      "name_en_us": "Ukimaru ฅ",
+      "name_ja_jp": "うきまるฅ"
+    },
+    {
+      "id": 802,
+      "gift_id": 1893,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/eb2994663a88361e4b489eb79958a68d.png",
+      "name_en_us": "Visiting Yochun",
+      "name_ja_jp": "ヨチュン参上"
+    },
+    {
+      "id": 803,
+      "gift_id": 1894,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/80a0b12d8998585bff4d9efc3e31766a.png",
+      "name_en_us": "Poguma of the world",
+      "name_ja_jp": "世界のぽぐま"
     }
   ]
 }
