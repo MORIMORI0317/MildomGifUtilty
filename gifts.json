@@ -1,5 +1,5 @@
 {
-  "data_version": 118.399994,
+  "data_version": 119.399994,
   "gifts": [
     {
       "id": 0,
@@ -7236,6 +7236,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/80a0b12d8998585bff4d9efc3e31766a.png",
       "name_en_us": "Poguma of the world",
       "name_ja_jp": "世界のぽぐま"
+    },
+    {
+      "id": 804,
+      "gift_id": 1895,
+      "emoji_id": 0,
+      "price": 19,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3973a2fa4e5471147e54642057148caf.png",
+      "name_en_us": "One chocolate",
+      "name_ja_jp": "ひとつぶチョコ"
+    },
+    {
+      "id": 805,
+      "gift_id": 1896,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3ce229ad268e26bc21484817e6ab3336.png",
+      "name_en_us": "Hachi HAcCHi ໒꒱⁸",
+      "name_ja_jp": "はっち HAcCHi ໒꒱‪⁸"
     }
   ]
 }
