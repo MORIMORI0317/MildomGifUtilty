@@ -1,5 +1,5 @@
 {
-  "data_version": 119.399994,
+  "data_version": 120.399994,
   "gifts": [
     {
       "id": 0,
@@ -7254,6 +7254,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3ce229ad268e26bc21484817e6ab3336.png",
       "name_en_us": "Hachi HAcCHi ໒꒱⁸",
       "name_ja_jp": "はっち HAcCHi ໒꒱‪⁸"
+    },
+    {
+      "id": 806,
+      "gift_id": 1897,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fb2b9f5e1339e85e1e4f8962775528f5.png",
+      "name_en_us": "I\u0027m excited!",
+      "name_ja_jp": "うきまるなっ！"
     }
   ]
 }
