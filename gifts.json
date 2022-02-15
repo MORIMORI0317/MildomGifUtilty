@@ -1,5 +1,5 @@
 {
-  "data_version": 122.399994,
+  "data_version": 123.399994,
   "gifts": [
     {
       "id": 0,
@@ -7269,7 +7269,7 @@
       "gift_id": 1900,
       "emoji_id": 0,
       "price": 99,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/70bf2a7ed197f98b58eb0fcfc367c61d.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5cc67a9221abfa84782022260da38b97.png",
       "name_en_us": "Moe Achu ♡",
       "name_ja_jp": "萌えあちゅ♡"
     },
@@ -7371,6 +7371,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/26883d3e52b6c01b5a76712427f990da.png",
       "name_en_us": "Chiklin WIN",
       "name_ja_jp": "チクリン WIN"
+    },
+    {
+      "id": 819,
+      "gift_id": 1910,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ea027c3dc0b5d9f31e6022e3f7853bab.png",
+      "name_en_us": "Valentine chick",
+      "name_ja_jp": "バレンタインひな"
+    },
+    {
+      "id": 820,
+      "gift_id": 1911,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b66aa2fc45ddc824828f8f355af343c7.png",
+      "name_en_us": "Stastamy",
+      "name_ja_jp": "スタスタミ"
+    },
+    {
+      "id": 821,
+      "gift_id": 1912,
+      "emoji_id": 0,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8ed29db8e82f2cdc52e191672c50aef5.png",
+      "name_en_us": "Sanding",
+      "name_ja_jp": "砂かけ"
+    },
+    {
+      "id": 822,
+      "gift_id": 1913,
+      "emoji_id": 0,
+      "price": 10,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ed30abc6c639eb15fc73b675f02b4b08.png",
+      "name_en_us": "Uncle Ken! !!",
+      "name_ja_jp": "けんおじ！！"
     }
   ]
 }
