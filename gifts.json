@@ -1,5 +1,5 @@
 {
-  "data_version": 123.399994,
+  "data_version": 124.399994,
   "gifts": [
     {
       "id": 0,
@@ -7407,6 +7407,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ed30abc6c639eb15fc73b675f02b4b08.png",
       "name_en_us": "Uncle Ken! !!",
       "name_ja_jp": "けんおじ！！"
+    },
+    {
+      "id": 823,
+      "gift_id": 1914,
+      "emoji_id": 0,
+      "price": 22,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e94ec2773c6718420e777d71a0ea63b8.png",
+      "name_en_us": "Chatora Nyan",
+      "name_ja_jp": "ちゃとらニャン"
+    },
+    {
+      "id": 824,
+      "gift_id": 1915,
+      "emoji_id": 0,
+      "price": 22,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1a255d2fc6d985c4448c1828160bc86b.png",
+      "name_en_us": "Nyan",
+      "name_ja_jp": "にゃんして"
+    },
+    {
+      "id": 825,
+      "gift_id": 1916,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/051b6e48cbaec659f1e8881f3234cb09.png",
+      "name_en_us": "rice ball",
+      "name_ja_jp": "おにぎり"
+    },
+    {
+      "id": 826,
+      "gift_id": 1917,
+      "emoji_id": 0,
+      "price": 10,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9ba3ffaf60178ff7d95029676edc4de4.png",
+      "name_en_us": "Charge medal",
+      "name_ja_jp": "チャージメダル"
     }
   ]
 }
