@@ -1,5 +1,5 @@
 {
-  "data_version": 124.399994,
+  "data_version": 125.399994,
   "gifts": [
     {
       "id": 0,
@@ -7443,6 +7443,60 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9ba3ffaf60178ff7d95029676edc4de4.png",
       "name_en_us": "Charge medal",
       "name_ja_jp": "チャージメダル"
+    },
+    {
+      "id": 827,
+      "gift_id": 1918,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0140c57ef06fa4d0cf7debc88ad19a43.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 828,
+      "gift_id": 1919,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/354084a10f094c1498dc8c346afe9a1d.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 829,
+      "gift_id": 1920,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d45ffd1161a998e1c468ffefcd2a3dea.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 830,
+      "gift_id": 1921,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/58aae958299a392bff385589d3508d0c.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 831,
+      "gift_id": 1922,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d9d5aac3f42c1e02ca731e73e8f4acdb.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 832,
+      "gift_id": 1923,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a615395d5b7e0499dbfa4d56378b2dba.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
     }
   ]
 }
