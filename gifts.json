@@ -1,5 +1,5 @@
 {
-  "data_version": 125.399994,
+  "data_version": 126.399994,
   "gifts": [
     {
       "id": 0,
@@ -7497,6 +7497,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a615395d5b7e0499dbfa4d56378b2dba.png",
       "name_en_us": "Original gift",
       "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 833,
+      "gift_id": 1924,
+      "emoji_id": 0,
+      "price": 6999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8ce12fea76d08cfb309cf93e8f3246fd.png",
+      "name_en_us": "Jet",
+      "name_ja_jp": "ジェット機"
     }
   ]
 }
