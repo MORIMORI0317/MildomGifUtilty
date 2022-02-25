@@ -1,5 +1,5 @@
 {
-  "data_version": 126.399994,
+  "data_version": 127.399994,
   "gifts": [
     {
       "id": 0,
@@ -7503,9 +7503,54 @@
       "gift_id": 1924,
       "emoji_id": 0,
       "price": 6999,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8ce12fea76d08cfb309cf93e8f3246fd.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8fe8daf9187b2165ae25b952f4e85d92.png",
       "name_en_us": "Jet",
       "name_ja_jp": "ジェット機"
+    },
+    {
+      "id": 834,
+      "gift_id": 1925,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/797a4704fcaf85a0498888edbd38e630.png",
+      "name_en_us": "Tunkaron",
+      "name_ja_jp": "トゥンカロン"
+    },
+    {
+      "id": 835,
+      "gift_id": 1926,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8b96e07a2c743053e267be050abdf656.png",
+      "name_en_us": "Orangette",
+      "name_ja_jp": "オランジェット"
+    },
+    {
+      "id": 836,
+      "gift_id": 1927,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fbe34e3512c1605d21d1fb059eaad363.png",
+      "name_en_us": "Bear donuts",
+      "name_ja_jp": "くまのドーナツ"
+    },
+    {
+      "id": 837,
+      "gift_id": 1928,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e4f4e814aa864a5b85951e24b1d0f1d9.png",
+      "name_en_us": "candy",
+      "name_ja_jp": "キャンディ"
+    },
+    {
+      "id": 838,
+      "gift_id": 1929,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/22cfaae5c3c5f2616d69d00ae0349871.png",
+      "name_en_us": "Cookie mix",
+      "name_ja_jp": "クッキーミックス"
     }
   ]
 }
