@@ -1,5 +1,5 @@
 {
-  "data_version": 127.399994,
+  "data_version": 128.4,
   "gifts": [
     {
       "id": 0,
@@ -7551,6 +7551,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/22cfaae5c3c5f2616d69d00ae0349871.png",
       "name_en_us": "Cookie mix",
       "name_ja_jp": "クッキーミックス"
+    },
+    {
+      "id": 839,
+      "gift_id": 1930,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/81e0f492df7d6b3a8475a6663cdb52b1.png",
+      "name_en_us": "Not",
+      "name_ja_jp": "ないふぁい"
     }
   ]
 }
