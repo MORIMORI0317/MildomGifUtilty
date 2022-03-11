@@ -1,5 +1,5 @@
 {
-  "data_version": 133.4,
+  "data_version": 134.4,
   "gifts": [
     {
       "id": 0,
@@ -8109,6 +8109,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/904aab9efb25648596010e4776593036.png",
       "name_en_us": "maco.☺︎",
       "name_ja_jp": "maco.☺︎"
+    },
+    {
+      "id": 901,
+      "gift_id": 1956,
+      "emoji_id": 0,
+      "price": 12999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7ede1e793ae67690b593ffc04f5d179d.png",
+      "name_en_us": "I\u0027m BIG Kyun",
+      "name_ja_jp": "BIGきゅんです "
     }
   ]
 }
