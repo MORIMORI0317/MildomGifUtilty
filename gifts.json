@@ -1,5 +1,5 @@
 {
-  "data_version": 134.4,
+  "data_version": 135.4,
   "gifts": [
     {
       "id": 0,
@@ -8118,6 +8118,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7ede1e793ae67690b593ffc04f5d179d.png",
       "name_en_us": "I\u0027m BIG Kyun",
       "name_ja_jp": "BIGきゅんです "
+    },
+    {
+      "id": 902,
+      "gift_id": 1957,
+      "emoji_id": 0,
+      "price": 55555,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/145c40b7191b5dadfcf5192962e957ba.png",
+      "name_en_us": "Palace garden",
+      "name_ja_jp": "宮殿の庭 "
     }
   ]
 }
