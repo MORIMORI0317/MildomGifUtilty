@@ -1,5 +1,5 @@
 {
-  "data_version": 135.4,
+  "data_version": 136.4,
   "gifts": [
     {
       "id": 0,
@@ -8127,6 +8127,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/145c40b7191b5dadfcf5192962e957ba.png",
       "name_en_us": "Palace garden",
       "name_ja_jp": "宮殿の庭 "
+    },
+    {
+      "id": 903,
+      "gift_id": 1958,
+      "emoji_id": 0,
+      "price": 499,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9fb02c3062aaae4fabc4e26545a6878f.png",
+      "name_en_us": "Moving beckoning cat",
+      "name_ja_jp": "動く招き猫"
     }
   ]
 }
