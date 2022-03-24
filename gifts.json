@@ -1,5 +1,5 @@
 {
-  "data_version": 138.4,
+  "data_version": 139.4,
   "gifts": [
     {
       "id": 0,
@@ -8235,6 +8235,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3a7eb0379f61eaab5bd0663f42193588.png",
       "name_en_us": "LM push",
       "name_ja_jp": "LM推し"
+    },
+    {
+      "id": 915,
+      "gift_id": 1970,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a66ba1f94c7c542e3c039b0fdfd009b5.png",
+      "name_en_us": "Sakura mochi",
+      "name_ja_jp": "さくらもち"
+    },
+    {
+      "id": 916,
+      "gift_id": 1971,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1001f0054e14cc63bfb3c83d86cdb807.png",
+      "name_en_us": "Warbler",
+      "name_ja_jp": "うぐいす"
+    },
+    {
+      "id": 917,
+      "gift_id": 1972,
+      "emoji_id": 0,
+      "price": 69,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e2c6bc63c0b3984be0475cc518301c0f.png",
+      "name_en_us": "Fruit sandwich",
+      "name_ja_jp": "フルーツサンド"
     }
   ]
 }
