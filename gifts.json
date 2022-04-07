@@ -1,5 +1,5 @@
 {
-  "data_version": 144.4,
+  "data_version": 145.4,
   "gifts": [
     {
       "id": 0,
@@ -8505,6 +8505,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fd9c80b978815a4a06c0f03fb0476a3a.png",
       "name_en_us": "Happy easter",
       "name_ja_jp": "ハッピーイースター"
+    },
+    {
+      "id": 945,
+      "gift_id": 2001,
+      "emoji_id": 0,
+      "price": 199,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/51bdfa787a13a142d3b3e3301deb7bb3.png",
+      "name_en_us": "Nyandango",
+      "name_ja_jp": "にゃんだんご"
+    },
+    {
+      "id": 946,
+      "gift_id": 2002,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9287551b1b2174025ed97c2f44736d65.png",
+      "name_en_us": "Nyan candy",
+      "name_ja_jp": "にゃんキャンディ"
+    },
+    {
+      "id": 947,
+      "gift_id": 2003,
+      "emoji_id": 0,
+      "price": 599,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/31881520b4f8fd9cc575140b54a5a0a7.png",
+      "name_en_us": "Nyanbako",
+      "name_ja_jp": "にゃんばこ"
+    },
+    {
+      "id": 948,
+      "gift_id": 2004,
+      "emoji_id": 0,
+      "price": 2399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/51614ef4df72cd631b41b20c211018c5.png",
+      "name_en_us": "Besides",
+      "name_ja_jp": "ほかにゃん"
     }
   ]
 }
