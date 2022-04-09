@@ -1,5 +1,5 @@
 {
-  "data_version": 146.4,
+  "data_version": 147.4,
   "gifts": [
     {
       "id": 0,
@@ -8613,6 +8613,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2f017fdc622e728a434c66008a2cc550.png",
       "name_en_us": "hug",
       "name_ja_jp": "ハグ"
+    },
+    {
+      "id": 957,
+      "gift_id": 2013,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2e8b2a9e15e308e9ad0a9275001e0623.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 958,
+      "gift_id": 2015,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/13399543387542ac58fdde41869d2bf7.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 959,
+      "gift_id": 2016,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/91d2f8d2f87db3a85137fadac5324ad4.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 960,
+      "gift_id": 2017,
+      "emoji_id": 0,
+      "price": 1111,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/da0602b80539c3507fb0409b1861804e.png",
+      "name_en_us": "firework",
+      "name_ja_jp": "花火"
     }
   ]
 }
