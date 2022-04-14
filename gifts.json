@@ -1,5 +1,5 @@
 {
-  "data_version": 148.4,
+  "data_version": 149.4,
   "gifts": [
     {
       "id": 0,
@@ -8694,6 +8694,78 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6ca3adb77e30d35b1e1443cc14939695.png",
       "name_en_us": "D rank gift",
       "name_ja_jp": "Dランクギフト"
+    },
+    {
+      "id": 966,
+      "gift_id": 2023,
+      "emoji_id": 0,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c9da4ac4d7f7c091e7fa0f7f5deaf620.png",
+      "name_en_us": "Pien Gunbi",
+      "name_ja_jp": "ぴえんぐんび"
+    },
+    {
+      "id": 967,
+      "gift_id": 2024,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3003e0f3278d37fd337038663979a2f8.png",
+      "name_en_us": "Pakkuncho",
+      "name_ja_jp": "パックンチョ"
+    },
+    {
+      "id": 968,
+      "gift_id": 2025,
+      "emoji_id": 0,
+      "price": 10,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e18c41e0722dd9b465c1203e2832d39f.png",
+      "name_en_us": "Boji RIN",
+      "name_ja_jp": "ぼじRIN"
+    },
+    {
+      "id": 969,
+      "gift_id": 2026,
+      "emoji_id": 0,
+      "price": 349,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/68d707de13dd437f7989aa71fb76df2e.png",
+      "name_en_us": "Bear balloons",
+      "name_ja_jp": "くまちゃん風船"
+    },
+    {
+      "id": 970,
+      "gift_id": 2027,
+      "emoji_id": 0,
+      "price": 599,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/42b2346c7338a47fa995af2c3eef2ea9.png",
+      "name_en_us": "Norinori turkey",
+      "name_ja_jp": "ノリノリターキー"
+    },
+    {
+      "id": 971,
+      "gift_id": 2028,
+      "emoji_id": 0,
+      "price": 749,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d4a2c445f7e041c7caef00762e0128f1.png",
+      "name_en_us": "Sweets stand",
+      "name_ja_jp": "スイーツスタンド"
+    },
+    {
+      "id": 972,
+      "gift_id": 2029,
+      "emoji_id": 0,
+      "price": 199,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/54789f813c6486175dccda986fb924ac.png",
+      "name_en_us": "ice cream",
+      "name_ja_jp": "アイスクリーム"
+    },
+    {
+      "id": 973,
+      "gift_id": 2030,
+      "emoji_id": 0,
+      "price": 249,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/02dad7f37fbb02d5c5c2fdcd3c07c79a.png",
+      "name_en_us": "Go-kart",
+      "name_ja_jp": "ゴーカート"
     }
   ]
 }
