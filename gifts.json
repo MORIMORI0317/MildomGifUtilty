@@ -1,5 +1,5 @@
 {
-  "data_version": 152.4,
+  "data_version": 153.4,
   "gifts": [
     {
       "id": 0,
@@ -8892,6 +8892,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a6829369a6b47fbea63a7a6c2aaaa5f6.png",
       "name_en_us": "Kurome @",
       "name_ja_jp": "くろめ＠"
+    },
+    {
+      "id": 988,
+      "gift_id": 2046,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/86bf8772736b54ccb8c59f2bcf6d413f.png",
+      "name_en_us": "The best!",
+      "name_ja_jp": "最高!"
+    },
+    {
+      "id": 989,
+      "gift_id": 2047,
+      "emoji_id": 0,
+      "price": 9999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/723f06ab7011ba95bbecb6b46a8746bb.png",
+      "name_en_us": "unicorn",
+      "name_ja_jp": "ユニコーン"
     }
   ]
 }
