@@ -1,5 +1,5 @@
 {
-  "data_version": 154.4,
+  "data_version": 155.4,
   "gifts": [
     {
       "id": 0,
@@ -8946,6 +8946,87 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d4bcf73e2285e6b7dcb493ca62a4f4b3.png",
       "name_en_us": "Special GW",
       "name_ja_jp": "スペシャルGW"
+    },
+    {
+      "id": 994,
+      "gift_id": 2052,
+      "emoji_id": 0,
+      "price": 20,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/121e6ba01d0af739d123adb30c39b89a.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 995,
+      "gift_id": 2053,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1bd50b4da66ab7f043935bde11700eba.png",
+      "name_en_us": "Peka Story",
+      "name_ja_jp": "ぺいるか物語"
+    },
+    {
+      "id": 996,
+      "gift_id": 2054,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0db3d9cddd33fc40db52d0c2bc9c1fb3.png",
+      "name_en_us": "yuaaa",
+      "name_ja_jp": "yuaaa"
+    },
+    {
+      "id": 997,
+      "gift_id": 2055,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e64698decb67a577ea29b860d4bdfbd2.png",
+      "name_en_us": "Plum tororo [Hiroshima dialect]",
+      "name_ja_jp": "梅とろろ【広島弁】"
+    },
+    {
+      "id": 998,
+      "gift_id": 2056,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b0eda67b90624dcd7c512d6c9888f934.png",
+      "name_en_us": "Yochiokun",
+      "name_ja_jp": "よちおくん"
+    },
+    {
+      "id": 999,
+      "gift_id": 2057,
+      "emoji_id": 0,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2364a254875a01665c1d1d6de356285c.png",
+      "name_en_us": "ᾟ.ྀི Nupin ⑅⃝",
+      "name_ja_jp": "🧸ྀིぬぴん‎⑅⃝"
+    },
+    {
+      "id": 1000,
+      "gift_id": 2058,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b0c186f9e22b46c58e31c167ac5e146b.png",
+      "name_en_us": "Shibuya mature woman",
+      "name_ja_jp": "渋谷の熟女"
+    },
+    {
+      "id": 1001,
+      "gift_id": 2059,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/35d6a23296560ea0f50c8d060d3b10f6.png",
+      "name_en_us": "Himekichi (liquor)",
+      "name_ja_jp": "ひめ吉（酒）"
+    },
+    {
+      "id": 1002,
+      "gift_id": 2060,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b1d7f90bfcc4cb7a2725307a23e35645.png",
+      "name_en_us": "Fuchi-san ٩ (ᐛ) و",
+      "name_ja_jp": "ふちさん٩( ᐛ )و"
     }
   ]
 }
