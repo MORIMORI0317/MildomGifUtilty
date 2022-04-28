@@ -1,5 +1,5 @@
 {
-  "data_version": 157.4,
+  "data_version": 158.4,
   "gifts": [
     {
       "id": 0,
@@ -9081,6 +9081,69 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d7fe6d606c0555b6de494edf4d7a703f.png",
       "name_en_us": "www",
       "name_ja_jp": "www"
+    },
+    {
+      "id": 1009,
+      "gift_id": 2067,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44f6c1525ddc28e9ba62c41fee4bf36c.png",
+      "name_en_us": "excuse me for disturbing you",
+      "name_ja_jp": "おじゃまします"
+    },
+    {
+      "id": 1010,
+      "gift_id": 2068,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6298158e4b94a8c9da4c760b9aa3eadf.png",
+      "name_en_us": "welcome",
+      "name_ja_jp": "いらっしゃい"
+    },
+    {
+      "id": 1011,
+      "gift_id": 2069,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5b6d883946c0eb2f49b9a8a90aec3837.png",
+      "name_en_us": "Pretend panda",
+      "name_ja_jp": "ふりむきパンダ"
+    },
+    {
+      "id": 1012,
+      "gift_id": 2070,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c367d7ba0823384fbbed285da34e6fc1.png",
+      "name_en_us": "Mogumogu panda",
+      "name_ja_jp": "もぐもぐパンダ"
+    },
+    {
+      "id": 1013,
+      "gift_id": 2071,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/00a241e5e9039d91671b55caa5297352.png",
+      "name_en_us": "Around the panda",
+      "name_ja_jp": "ごろごろパンダ"
+    },
+    {
+      "id": 1014,
+      "gift_id": 2072,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/260893e01de20f492642d994499c8181.png",
+      "name_en_us": "Fighting panda",
+      "name_ja_jp": "たたかうパンダ"
+    },
+    {
+      "id": 1015,
+      "gift_id": 2073,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/21512b19228420f7538b44f86b468848.png",
+      "name_en_us": "Yurayura Panda",
+      "name_ja_jp": "ゆらゆらパンダ"
     }
   ]
 }
