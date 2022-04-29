@@ -1,5 +1,5 @@
 {
-  "data_version": 158.4,
+  "data_version": 159.4,
   "gifts": [
     {
       "id": 0,
@@ -8853,7 +8853,7 @@
       "gift_id": 2041,
       "emoji_id": 0,
       "price": 99,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5a546cd861eb80b8cc4f66337aa5329f.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/559ab7b8702162b1a5d8ab9fabcfa423.png",
       "name_en_us": "Hinapiyo є (･ ө ･.) э ›› ~",
       "name_ja_jp": "ひなぴよ є(･ө･｡)э››~"
     },
@@ -9144,6 +9144,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/21512b19228420f7538b44f86b468848.png",
       "name_en_us": "Yurayura Panda",
       "name_ja_jp": "ゆらゆらパンダ"
+    },
+    {
+      "id": 1016,
+      "gift_id": 2074,
+      "emoji_id": 0,
+      "price": 5999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3021de9afd7519f2726cbc4038828fc5.png",
+      "name_en_us": "Floor enthusiasm",
+      "name_ja_jp": "フロア大熱狂"
     }
   ]
 }
