@@ -1,5 +1,5 @@
 {
-  "data_version": 159.4,
+  "data_version": 160.4,
   "gifts": [
     {
       "id": 0,
@@ -9153,6 +9153,60 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3021de9afd7519f2726cbc4038828fc5.png",
       "name_en_us": "Floor enthusiasm",
       "name_ja_jp": "フロア大熱狂"
+    },
+    {
+      "id": 1017,
+      "gift_id": 2075,
+      "emoji_id": 0,
+      "price": 599,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1c0b92262f3806ab0167852fecb939cf.png",
+      "name_en_us": "Magic book",
+      "name_ja_jp": "マジックブック"
+    },
+    {
+      "id": 1018,
+      "gift_id": 2076,
+      "emoji_id": 0,
+      "price": 159,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/72e5c5f31032c50e99d2525007be0b07.png",
+      "name_en_us": "Magic wand (for acceptance)",
+      "name_ja_jp": "魔杖（验收用）"
+    },
+    {
+      "id": 1019,
+      "gift_id": 2077,
+      "emoji_id": 0,
+      "price": 249,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/121d267f75b931c24a5f99abcb1bb1a4.png",
+      "name_en_us": "Magic hat (acceptance)",
+      "name_ja_jp": "魔法の帽子（验收）"
+    },
+    {
+      "id": 1020,
+      "gift_id": 2078,
+      "emoji_id": 0,
+      "price": 349,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/914f4fb57a7eb792b06c41bea5dfd269.png",
+      "name_en_us": "Wishing bottle (acceptance)",
+      "name_ja_jp": "ウィッシングボトル（验收）"
+    },
+    {
+      "id": 1021,
+      "gift_id": 2079,
+      "emoji_id": 0,
+      "price": 799,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9e4d19dba3249bedf69385b23ec87c31.png",
+      "name_en_us": "Sand Chronicles (acceptance)",
+      "name_ja_jp": "砂时计（验收）"
+    },
+    {
+      "id": 1022,
+      "gift_id": 2080,
+      "emoji_id": 0,
+      "price": 1299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d485cb6d6e7f18ecf864068107c69108.png",
+      "name_en_us": "Crystal ball (acceptance)",
+      "name_ja_jp": "水晶玉（验收）"
     }
   ]
 }
