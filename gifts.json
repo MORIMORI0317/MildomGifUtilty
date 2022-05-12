@@ -1,5 +1,5 @@
 {
-  "data_version": 162.4,
+  "data_version": 163.4,
   "gifts": [
     {
       "id": 0,
@@ -9396,6 +9396,105 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/09fa9ecea35e79749635654199a5ebe8.png",
       "name_en_us": "[VIP] Good luck !!",
       "name_ja_jp": "【VIP】がんばれ!!"
+    },
+    {
+      "id": 1044,
+      "gift_id": 2108,
+      "emoji_id": 0,
+      "price": 1299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/921c648fe1012069e30c468844b4b689.png",
+      "name_en_us": "That\u0027s it",
+      "name_ja_jp": "それな"
+    },
+    {
+      "id": 1045,
+      "gift_id": 2109,
+      "emoji_id": 0,
+      "price": 1299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/68d185b7e955c97eb9c0c76fe69b74f3.png",
+      "name_en_us": "Yos Yos",
+      "name_ja_jp": "ヨスヨス"
+    },
+    {
+      "id": 1046,
+      "gift_id": 2110,
+      "emoji_id": 0,
+      "price": 1999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3cc2930c7981eb799edc15e10385b333.png",
+      "name_en_us": "Like",
+      "name_ja_jp": "好き"
+    },
+    {
+      "id": 1047,
+      "gift_id": 2111,
+      "emoji_id": 0,
+      "price": 1299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/68d185b7e955c97eb9c0c76fe69b74f3.png",
+      "name_en_us": "Yos Yos",
+      "name_ja_jp": "ヨスヨス"
+    },
+    {
+      "id": 1048,
+      "gift_id": 2112,
+      "emoji_id": 0,
+      "price": 1999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4cd270c64ff25fa6f72273531ce135e5.png",
+      "name_en_us": "dance",
+      "name_ja_jp": "踊る"
+    },
+    {
+      "id": 1049,
+      "gift_id": 2113,
+      "emoji_id": 0,
+      "price": 1299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/68d185b7e955c97eb9c0c76fe69b74f3.png",
+      "name_en_us": "Yos Yos",
+      "name_ja_jp": "ヨスヨス"
+    },
+    {
+      "id": 1050,
+      "gift_id": 2103,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b3e7b4db9c4a5508bea4cc505d5978df.png",
+      "name_en_us": "Wizard\u0027s wand",
+      "name_ja_jp": "魔術師の杖"
+    },
+    {
+      "id": 1051,
+      "gift_id": 2104,
+      "emoji_id": 0,
+      "price": 199,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a79b14f06c94a46031151654dcf9cba1.png",
+      "name_en_us": "Wizard\u0027s hat",
+      "name_ja_jp": "魔術師の帽子"
+    },
+    {
+      "id": 1052,
+      "gift_id": 2105,
+      "emoji_id": 0,
+      "price": 349,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/48e82b65c00e40b3a8643fe9818a6577.png",
+      "name_en_us": "Star grain bottle",
+      "name_ja_jp": "星粒のボトル"
+    },
+    {
+      "id": 1053,
+      "gift_id": 2106,
+      "emoji_id": 0,
+      "price": 699,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3b067195a6a5c73407a4f81b2dd24f21.png",
+      "name_en_us": "Star hourglass",
+      "name_ja_jp": "星の砂時計"
+    },
+    {
+      "id": 1054,
+      "gift_id": 2107,
+      "emoji_id": 0,
+      "price": 1299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0a12f8e758c159a8c6f479fa8c363ca5.png",
+      "name_en_us": "Stardust crystal ball",
+      "name_ja_jp": "星屑の水晶玉"
     }
   ]
 }
