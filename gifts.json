@@ -1,5 +1,5 @@
 {
-  "data_version": 161.4,
+  "data_version": 162.4,
   "gifts": [
     {
       "id": 0,
@@ -9324,6 +9324,78 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c2951fe3afd78bc1ba77569dc99a631c.png",
       "name_en_us": "Leave the office on time",
       "name_ja_jp": "定時退社"
+    },
+    {
+      "id": 1036,
+      "gift_id": 2099,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a9f9ded92bf8af5446042e21c7b15505.png",
+      "name_en_us": "Good luck ♡",
+      "name_ja_jp": "がんばれ♡"
+    },
+    {
+      "id": 1037,
+      "gift_id": 2100,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/71277217703203ac2e3a6f71d673b128.png",
+      "name_en_us": "Good luck ♡",
+      "name_ja_jp": "がんばれ♡"
+    },
+    {
+      "id": 1038,
+      "gift_id": 2101,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/672df3c5b6b74ed25dec03388f862e78.png",
+      "name_en_us": "Go!",
+      "name_ja_jp": "いけいけ～！"
+    },
+    {
+      "id": 1039,
+      "gift_id": 2102,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/37ffdfd0ba2f6112a9bedc212a3bcdb7.png",
+      "name_en_us": "Cheers for good work",
+      "name_ja_jp": "おつかれさま"
+    },
+    {
+      "id": 1040,
+      "gift_id": 2095,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3712a59a19655cda304087b5067d7945.png",
+      "name_en_us": "[VIP] Congratulations!",
+      "name_ja_jp": "【VIP】祝！"
+    },
+    {
+      "id": 1041,
+      "gift_id": 2096,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d49696cbca8f155c0efe9203f1d5f33d.png",
+      "name_en_us": "[VIP] God",
+      "name_ja_jp": "【VIP】神"
+    },
+    {
+      "id": 1042,
+      "gift_id": 2097,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f2ffbc2cae1c103441a594d992fae8e5.png",
+      "name_en_us": "[VIP] A little",
+      "name_ja_jp": "【VIP】すこ"
+    },
+    {
+      "id": 1043,
+      "gift_id": 2098,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/09fa9ecea35e79749635654199a5ebe8.png",
+      "name_en_us": "[VIP] Good luck !!",
+      "name_ja_jp": "【VIP】がんばれ!!"
     }
   ]
 }
