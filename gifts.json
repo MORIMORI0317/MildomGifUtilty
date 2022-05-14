@@ -1,5 +1,5 @@
 {
-  "data_version": 163.4,
+  "data_version": 164.4,
   "gifts": [
     {
       "id": 0,
@@ -9411,7 +9411,7 @@
       "gift_id": 2109,
       "emoji_id": 0,
       "price": 1299,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/68d185b7e955c97eb9c0c76fe69b74f3.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
       "name_en_us": "Yos Yos",
       "name_ja_jp": "ヨスヨス"
     },
@@ -9429,7 +9429,7 @@
       "gift_id": 2111,
       "emoji_id": 0,
       "price": 1299,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/68d185b7e955c97eb9c0c76fe69b74f3.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
       "name_en_us": "Yos Yos",
       "name_ja_jp": "ヨスヨス"
     },
@@ -9495,6 +9495,69 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0a12f8e758c159a8c6f479fa8c363ca5.png",
       "name_en_us": "Stardust crystal ball",
       "name_ja_jp": "星屑の水晶玉"
+    },
+    {
+      "id": 1055,
+      "gift_id": 2114,
+      "emoji_id": 0,
+      "price": 15,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/835b9fe3960c69e227f947642b4057fc.png",
+      "name_en_us": "Strawberry",
+      "name_ja_jp": "いちご"
+    },
+    {
+      "id": 1056,
+      "gift_id": 2115,
+      "emoji_id": 0,
+      "price": 59,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2c66f940de0346867d521b5cc9c1affb.png",
+      "name_en_us": "Ladybugs",
+      "name_ja_jp": "てんとうむし"
+    },
+    {
+      "id": 1057,
+      "gift_id": 2116,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/33025007b3ef2ecf25b9a87bf3da5412.png",
+      "name_en_us": "snails",
+      "name_ja_jp": "カタツムリ"
+    },
+    {
+      "id": 1058,
+      "gift_id": 2117,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e7fc26addb4a9b93c19b9754ea0de859.png",
+      "name_en_us": "umbrella",
+      "name_ja_jp": "傘"
+    },
+    {
+      "id": 1059,
+      "gift_id": 2118,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0b4e3b2b8bb7be19ea46119d623c27d9.png",
+      "name_en_us": "hydrangea",
+      "name_ja_jp": "あじさい"
+    },
+    {
+      "id": 1060,
+      "gift_id": 2119,
+      "emoji_id": 0,
+      "price": 69,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cdb09b75596c1170875e0fdb2e5dcfc5.png",
+      "name_en_us": "Frog",
+      "name_ja_jp": "カエル"
+    },
+    {
+      "id": 1061,
+      "gift_id": 2120,
+      "emoji_id": 0,
+      "price": 14999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2c32bb633dd3ef8967c17da35e740988.png",
+      "name_en_us": "Rainbow dream island",
+      "name_ja_jp": "虹の夢島"
     }
   ]
 }
