@@ -1,5 +1,5 @@
 {
-  "data_version": 165.4,
+  "data_version": 165.5,
   "gifts": [
     {
       "id": 0,
@@ -644,7 +644,7 @@
       "id": 71,
       "gift_id": 1139,
       "emoji_id": 807244611222503495,
-      "price": 9,
+      "price": 19,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0de62eb43a5f656eca7cb8114f236af7.png",
       "name_en_us": "Teru Teru Bozu",
       "name_ja_jp": "てるてる坊主"
