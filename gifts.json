@@ -1,5 +1,5 @@
 {
-  "data_version": 165.5,
+  "data_version": 166.5,
   "gifts": [
     {
       "id": 0,
@@ -9792,6 +9792,60 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cbefa6e71462444e00707e4c2fe5bc17.png",
       "name_en_us": "Dooooooon",
       "name_ja_jp": "ドオオオオオン"
+    },
+    {
+      "id": 1088,
+      "gift_id": 2147,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c11afa9cab452c9498bf9b054cf4a296.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1089,
+      "gift_id": 2148,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8ca9a8bd8f627134262974a316e12ea1.png",
+      "name_en_us": "Vivor Bagins",
+      "name_ja_jp": "ビボルバギンズ"
+    },
+    {
+      "id": 1090,
+      "gift_id": 2149,
+      "emoji_id": 0,
+      "price": 33,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/54fd270c2c07cfecd97bb15a08f6e1e9.png",
+      "name_en_us": "Fujimura_SNB",
+      "name_ja_jp": "藤村_SNB"
+    },
+    {
+      "id": 1091,
+      "gift_id": 2150,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b982ad10cc4dd83a90c3c80942b3fd4a.png",
+      "name_en_us": "Warm",
+      "name_ja_jp": "あたおくん"
+    },
+    {
+      "id": 1092,
+      "gift_id": 2151,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/020984cb423d94655cf0ac0b891cd25f.png",
+      "name_en_us": "Warm",
+      "name_ja_jp": "あたおくん"
+    },
+    {
+      "id": 1093,
+      "gift_id": 2152,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cfb521a0317d6873ee2e3b9191459846.png",
+      "name_en_us": "Uncle",
+      "name_ja_jp": "けんおじ"
     }
   ]
 }
