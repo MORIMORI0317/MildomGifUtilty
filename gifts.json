@@ -1,5 +1,5 @@
 {
-  "data_version": 167.5,
+  "data_version": 168.5,
   "gifts": [
     {
       "id": 0,
@@ -9945,6 +9945,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ab2229d9bccea8890be0a8713a7fabdd.png",
       "name_en_us": "Sakipi 1st Anniversary",
       "name_ja_jp": "さきぴ1周年"
+    },
+    {
+      "id": 1105,
+      "gift_id": 2164,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/bba08c8801cc02790c5add786cddb0a0.png",
+      "name_en_us": "Ji ~",
+      "name_ja_jp": "じ～"
+    },
+    {
+      "id": 1106,
+      "gift_id": 2165,
+      "emoji_id": 0,
+      "price": 19,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a99bfa92f5645fa88d2811bd914e3987.png",
+      "name_en_us": "genius",
+      "name_ja_jp": "天才"
     }
   ]
 }
