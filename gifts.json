@@ -1,5 +1,5 @@
 {
-  "data_version": 168.5,
+  "data_version": 169.5,
   "gifts": [
     {
       "id": 0,
@@ -9888,7 +9888,7 @@
       "gift_id": 2157,
       "emoji_id": 0,
       "price": 9,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c2c2be89307bfe4bcd3b816923c251a5.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3cfd3b1dffc37a91f38df8312ece6a9f.png",
       "name_en_us": "Na-chan ♡",
       "name_ja_jp": "なーちゃん♡"
     },
@@ -9906,7 +9906,7 @@
       "gift_id": 2159,
       "emoji_id": 0,
       "price": 9,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3f9711f1b183fcad2b851e8844c73bef.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d71a352efe5d9fd8a5c8ed76f7518b0c.png",
       "name_en_us": "Bunny Achu",
       "name_ja_jp": "バニーあちゅ"
     },
@@ -9963,6 +9963,69 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a99bfa92f5645fa88d2811bd914e3987.png",
       "name_en_us": "genius",
       "name_ja_jp": "天才"
+    },
+    {
+      "id": 1107,
+      "gift_id": 2166,
+      "emoji_id": 0,
+      "price": 29,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0fa3adfbf5f7007a1886b2247a51323f.png",
+      "name_en_us": "megaphone",
+      "name_ja_jp": "メガホン"
+    },
+    {
+      "id": 1108,
+      "gift_id": 2167,
+      "emoji_id": 0,
+      "price": 4999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/82088bb441d823e0bf1511772e1bf3c5.png",
+      "name_en_us": "Miracle World",
+      "name_ja_jp": "ミラクルワールド"
+    },
+    {
+      "id": 1109,
+      "gift_id": 2168,
+      "emoji_id": 0,
+      "price": 2999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0bbb996c03f5c45b171a312c6d3e0cb7.png",
+      "name_en_us": "Animal cup",
+      "name_ja_jp": "アニマルカップ"
+    },
+    {
+      "id": 1110,
+      "gift_id": 2169,
+      "emoji_id": 0,
+      "price": 2222,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/943ed321747a53ed238999427080314f.png",
+      "name_en_us": "Animal train",
+      "name_ja_jp": "アニマルトレイン"
+    },
+    {
+      "id": 1111,
+      "gift_id": 2170,
+      "emoji_id": 0,
+      "price": 1999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3d3aa5e6d2ee41ade0e13ad1ffc8dbe4.png",
+      "name_en_us": "Alpaca dance",
+      "name_ja_jp": "アルパカダンス"
+    },
+    {
+      "id": 1112,
+      "gift_id": 2171,
+      "emoji_id": 0,
+      "price": 1222,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/eb8af815256158ffea53e88b1ef913b2.png",
+      "name_en_us": "Lion swing",
+      "name_ja_jp": "ライオンブランコ"
+    },
+    {
+      "id": 1113,
+      "gift_id": 2172,
+      "emoji_id": 0,
+      "price": 999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a9266268fb0c0747d67c0c4b51d21d9b.png",
+      "name_en_us": " Duck shower",
+      "name_ja_jp": " アヒルシャワー"
     }
   ]
 }
