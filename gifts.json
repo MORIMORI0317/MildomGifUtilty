@@ -1,5 +1,5 @@
 {
-  "data_version": 169.5,
+  "data_version": 170.5,
   "gifts": [
     {
       "id": 0,
@@ -10026,6 +10026,60 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a9266268fb0c0747d67c0c4b51d21d9b.png",
       "name_en_us": " Duck shower",
       "name_ja_jp": " アヒルシャワー"
+    },
+    {
+      "id": 1114,
+      "gift_id": 2173,
+      "emoji_id": 0,
+      "price": 19,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/26eb08023c58d48d4a0a776e8f9a5ca2.png",
+      "name_en_us": "Exciting",
+      "name_ja_jp": "わくわく"
+    },
+    {
+      "id": 1115,
+      "gift_id": 2174,
+      "emoji_id": 0,
+      "price": 19,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/124842d96886c77d7949aae6d7954f78.png",
+      "name_en_us": "splendid",
+      "name_ja_jp": "素敵"
+    },
+    {
+      "id": 1116,
+      "gift_id": 2175,
+      "emoji_id": 0,
+      "price": 19,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/45ab8cb945af7ad485584544f5087d8c.png",
+      "name_en_us": "Ahh.",
+      "name_ja_jp": "アッハイ。"
+    },
+    {
+      "id": 1117,
+      "gift_id": 2176,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/020f4c173a0cf30391c3beb5f2ed738f.png",
+      "name_en_us": "Cherry stamina",
+      "name_ja_jp": "チェリースタミ"
+    },
+    {
+      "id": 1118,
+      "gift_id": 2177,
+      "emoji_id": 0,
+      "price": 50,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/974899ac5e8a0bc290767b7ba50e839d.png",
+      "name_en_us": "To process",
+      "name_ja_jp": "処す"
+    },
+    {
+      "id": 1119,
+      "gift_id": 2178,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/dd7a2e8e73fba8e08df12fe41a91c099.png",
+      "name_en_us": "Dress",
+      "name_ja_jp": "ドレスっこ"
     }
   ]
 }
