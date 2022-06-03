@@ -1,5 +1,5 @@
 {
-  "data_version": 172.5,
+  "data_version": 173.5,
   "gifts": [
     {
       "id": 0,
@@ -10221,9 +10221,135 @@
       "gift_id": 2195,
       "emoji_id": 0,
       "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "name_en_us": "Snypastami",
+      "name_ja_jp": "スナイパスタミ"
+    },
+    {
+      "id": 1136,
+      "gift_id": 2196,
+      "emoji_id": 0,
+      "price": 399,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cedb087eed3a19ce8127ec98afe470af.png",
       "name_en_us": "Snypastami",
       "name_ja_jp": "スナイパスタミ"
+    },
+    {
+      "id": 1137,
+      "gift_id": 2197,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8f93707de9d441b563b3979b98d62ab1.png",
+      "name_en_us": "Rain pretend Hina ☂️",
+      "name_ja_jp": "雨ふりひな☂️"
+    },
+    {
+      "id": 1138,
+      "gift_id": 2198,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d00e5260ed43c0694adf1a925f4c40d5.png",
+      "name_en_us": "Katy",
+      "name_ja_jp": "かてぃ"
+    },
+    {
+      "id": 1139,
+      "gift_id": 2199,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/65934b3cb1fa65869b12e810adca24c6.png",
+      "name_en_us": "Kappa Yunako",
+      "name_ja_jp": "カッパゆなっこ"
+    },
+    {
+      "id": 1140,
+      "gift_id": 2200,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fcf74e98ede7e6fbd185d1a10464315d.png",
+      "name_en_us": "Enjoy Ἳ.",
+      "name_ja_jp": "Enjoy🎶"
+    },
+    {
+      "id": 1141,
+      "gift_id": 2201,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ab6955f3f0254a2d53921c994c0a571e.png",
+      "name_en_us": "Kaochi",
+      "name_ja_jp": "かおち"
+    },
+    {
+      "id": 1142,
+      "gift_id": 2202,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/59893aa0d5705ae8636617bd86063f23.png",
+      "name_en_us": "Ah ♡",
+      "name_ja_jp": "あㄘゅ♡"
+    },
+    {
+      "id": 1143,
+      "gift_id": 2203,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/91df1aac0c0c090acf022ce51aab868b.png",
+      "name_en_us": "True face",
+      "name_ja_jp": "真顔"
+    },
+    {
+      "id": 1144,
+      "gift_id": 2204,
+      "emoji_id": 0,
+      "price": 88888,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e006b8fffe430e027b9a313df51bdd20.png",
+      "name_en_us": "Brilliant transformation",
+      "name_ja_jp": "華麗なる変身"
+    },
+    {
+      "id": 1145,
+      "gift_id": 2205,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6baa799e037d62f91d9d5c4249674853.png",
+      "name_en_us": "Rainy days",
+      "name_ja_jp": "雨の日はむはむ"
+    },
+    {
+      "id": 1146,
+      "gift_id": 2206,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/409f9207fa9ae38ad127f464e34fb921.png",
+      "name_en_us": "Bear on a rainy day",
+      "name_ja_jp": "雨の日くまさん"
+    },
+    {
+      "id": 1147,
+      "gift_id": 2207,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0e34ae835f7a2521a723115d1851c06f.png",
+      "name_en_us": "Nyanko on a rainy day",
+      "name_ja_jp": "雨の日にゃんこ"
+    },
+    {
+      "id": 1148,
+      "gift_id": 2208,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e4a4e224eb265427fc0caafddb3457b3.png",
+      "name_en_us": "Rainy day dog",
+      "name_ja_jp": "雨の日わんこ"
+    },
+    {
+      "id": 1149,
+      "gift_id": 2209,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e790e411746fd53658404e009be195a5.png",
+      "name_en_us": "I hope it will be fine",
+      "name_ja_jp": "晴れるといいなぁ"
     }
   ]
 }
