@@ -1,5 +1,5 @@
 {
-  "data_version": 173.5,
+  "data_version": 173.6,
   "gifts": [
     {
       "id": 0,
@@ -10256,7 +10256,7 @@
       "id": 1139,
       "gift_id": 2199,
       "emoji_id": 0,
-      "price": 399,
+      "price": 199,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/65934b3cb1fa65869b12e810adca24c6.png",
       "name_en_us": "Kappa Yunako",
       "name_ja_jp": "カッパゆなっこ"
@@ -10292,7 +10292,7 @@
       "id": 1143,
       "gift_id": 2203,
       "emoji_id": 0,
-      "price": 399,
+      "price": 199,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/91df1aac0c0c090acf022ce51aab868b.png",
       "name_en_us": "True face",
       "name_ja_jp": "真顔"
