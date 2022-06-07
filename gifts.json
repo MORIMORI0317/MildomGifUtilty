@@ -1,5 +1,5 @@
 {
-  "data_version": 173.6,
+  "data_version": 174.6,
   "gifts": [
     {
       "id": 0,
@@ -10350,6 +10350,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e790e411746fd53658404e009be195a5.png",
       "name_en_us": "I hope it will be fine",
       "name_ja_jp": "晴れるといいなぁ"
+    },
+    {
+      "id": 1150,
+      "gift_id": 2210,
+      "emoji_id": 0,
+      "price": 1499,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5be72484d76ac14594061d37bcc4b89d.png",
+      "name_en_us": "Night sky walk",
+      "name_ja_jp": "夜空のおさんぽ"
+    },
+    {
+      "id": 1151,
+      "gift_id": 2211,
+      "emoji_id": 0,
+      "price": 1499,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5be72484d76ac14594061d37bcc4b89d.png",
+      "name_en_us": "Night sky walk",
+      "name_ja_jp": "夜空のおさんぽ"
     }
   ]
 }
