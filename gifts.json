@@ -1,5 +1,5 @@
 {
-  "data_version": 174.6,
+  "data_version": 175.6,
   "gifts": [
     {
       "id": 0,
@@ -4857,7 +4857,7 @@
       "gift_id": 1628,
       "emoji_id": 0,
       "price": 99,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b988c047cc71c07daa2668499cfa151b.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fffde72bb64c7964a2f1cd758410f3d0.jpg",
       "name_en_us": "I can recommend it!",
       "name_ja_jp": "推せる！"
     },
@@ -10356,7 +10356,7 @@
       "gift_id": 2210,
       "emoji_id": 0,
       "price": 1499,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5be72484d76ac14594061d37bcc4b89d.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fffde72bb64c7964a2f1cd758410f3d0.jpg",
       "name_en_us": "Night sky walk",
       "name_ja_jp": "夜空のおさんぽ"
     },
@@ -10368,6 +10368,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5be72484d76ac14594061d37bcc4b89d.png",
       "name_en_us": "Night sky walk",
       "name_ja_jp": "夜空のおさんぽ"
+    },
+    {
+      "id": 1152,
+      "gift_id": 2212,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/da0238ff1a48c816f1a0b9e92a1a6b8c.png",
+      "name_en_us": "Uniform toys",
+      "name_ja_jp": "制服おもち"
+    },
+    {
+      "id": 1153,
+      "gift_id": 2213,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fffde72bb64c7964a2f1cd758410f3d0.jpg",
+      "name_en_us": "Mii-chan",
+      "name_ja_jp": "みぃちゃん💕ず"
+    },
+    {
+      "id": 1154,
+      "gift_id": 2214,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d1156bbd0246cd2f4d2ec9aeb5ec26ab.png",
+      "name_en_us": "Otedama Andy",
+      "name_ja_jp": "お手玉アンディ"
+    },
+    {
+      "id": 1155,
+      "gift_id": 2215,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a95eaf04cbfa296fc54ccd47502a2e6e.png",
+      "name_en_us": "Mii-chan",
+      "name_ja_jp": "みぃちゃん💕ず"
     }
   ]
 }
