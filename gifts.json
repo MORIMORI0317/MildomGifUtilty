@@ -1,5 +1,5 @@
 {
-  "data_version": 176.6,
+  "data_version": 177.6,
   "gifts": [
     {
       "id": 0,
@@ -10413,6 +10413,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8e9a99f286534e6b857bf3a8234b83ec.png",
       "name_en_us": "Cherry",
       "name_ja_jp": "さくらんぼ"
+    },
+    {
+      "id": 1157,
+      "gift_id": 2217,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/eaf053476d1bddae6b7e6cbc9e99cc83.png",
+      "name_en_us": "Chami-kun",
+      "name_ja_jp": "ちゃみーくん"
+    },
+    {
+      "id": 1158,
+      "gift_id": 2218,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fffde72bb64c7964a2f1cd758410f3d0.jpg",
+      "name_en_us": "12751311",
+      "name_ja_jp": "12751311"
+    },
+    {
+      "id": 1159,
+      "gift_id": 2219,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a30cb504b450cc6f81ad4a51f4111e04.png",
+      "name_en_us": "Mini rocket",
+      "name_ja_jp": "ミニロケット"
+    },
+    {
+      "id": 1160,
+      "gift_id": 2220,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7b6d2568c541a7d254d97569b46852ae.png",
+      "name_en_us": "Gong Yoo Dance",
+      "name_ja_jp": "ゆんゆの舞"
     }
   ]
 }
