@@ -1,5 +1,5 @@
 {
-  "data_version": 177.6,
+  "data_version": 178.6,
   "gifts": [
     {
       "id": 0,
@@ -10449,6 +10449,60 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7b6d2568c541a7d254d97569b46852ae.png",
       "name_en_us": "Gong Yoo Dance",
       "name_ja_jp": "ゆんゆの舞"
+    },
+    {
+      "id": 1161,
+      "gift_id": 2221,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1a66160dc8987a3a3b88f52d29ef7cb7.png",
+      "name_en_us": "No!",
+      "name_ja_jp": "ないすー！"
+    },
+    {
+      "id": 1162,
+      "gift_id": 2222,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/004a0cf52395d4adf392f4ec1c36af95.png",
+      "name_en_us": "Respect",
+      "name_ja_jp": "尊み"
+    },
+    {
+      "id": 1163,
+      "gift_id": 2223,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4b2eb5028f72357100666501dfe081c4.png",
+      "name_en_us": "cute",
+      "name_ja_jp": "かわいい"
+    },
+    {
+      "id": 1164,
+      "gift_id": 2224,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b21975beeb36922eae1c3a8498ff9b80.png",
+      "name_en_us": "very",
+      "name_ja_jp": "すごい"
+    },
+    {
+      "id": 1165,
+      "gift_id": 2225,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/86bf8772736b54ccb8c59f2bcf6d413f.png",
+      "name_en_us": "Best",
+      "name_ja_jp": "最高"
+    },
+    {
+      "id": 1166,
+      "gift_id": 2226,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/96eb6847bf2a9a5772f47a589dc8eded.png",
+      "name_en_us": "God",
+      "name_ja_jp": "神"
     }
   ]
 }
