@@ -1,5 +1,5 @@
 {
-  "data_version": 178.6,
+  "data_version": 179.6,
   "gifts": [
     {
       "id": 0,
@@ -824,16 +824,16 @@
       "id": 91,
       "gift_id": 1162,
       "emoji_id": 807244721873223680,
-      "price": 799,
+      "price": 1999,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/56dfeb4a51177a6b478a2c8f3cc94971.png",
-      "name_en_us": "Tanabata wishes",
+      "name_en_us": "Tanabata\u0027s wish",
       "name_ja_jp": "七夕の願い事"
     },
     {
       "id": 92,
       "gift_id": 1163,
       "emoji_id": 807244727404855306,
-      "price": 900,
+      "price": 2999,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d5e6d37e57c7881c30015d3d44322727.png",
       "name_en_us": "I met you again",
       "name_ja_jp": "また逢えたね"
@@ -10503,6 +10503,78 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/96eb6847bf2a9a5772f47a589dc8eded.png",
       "name_en_us": "God",
       "name_ja_jp": "神"
+    },
+    {
+      "id": 1167,
+      "gift_id": 2227,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "name_en_us": "Wind chimes",
+      "name_ja_jp": "風鈴"
+    },
+    {
+      "id": 1168,
+      "gift_id": 2228,
+      "emoji_id": 0,
+      "price": 19,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/acdcd5d52007ae34c318f1ea43e1c2b8.png",
+      "name_en_us": "Star jelly",
+      "name_ja_jp": "星ゼリー"
+    },
+    {
+      "id": 1169,
+      "gift_id": 2229,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0d5b9e4b8566c055abeb57952dc9eeec.png",
+      "name_en_us": "Orihime",
+      "name_ja_jp": "織姫"
+    },
+    {
+      "id": 1170,
+      "gift_id": 2230,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6a1fa8b0c414269c90d59ffb790151b6.png",
+      "name_en_us": "Hikoboshi",
+      "name_ja_jp": "彦星"
+    },
+    {
+      "id": 1171,
+      "gift_id": 2231,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4244034bd052e7dd278b9ca5ccc99dd5.png",
+      "name_en_us": "Bamboo and strips",
+      "name_ja_jp": "笹と短冊"
+    },
+    {
+      "id": 1172,
+      "gift_id": 2232,
+      "emoji_id": 0,
+      "price": 19,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cd146b2341aa59953d56fc31b1a428e7.png",
+      "name_en_us": "shell",
+      "name_ja_jp": "シェル"
+    },
+    {
+      "id": 1173,
+      "gift_id": 2233,
+      "emoji_id": 0,
+      "price": 199,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/49ba533b26887189f766ce870bf92165.png",
+      "name_en_us": "Pool party",
+      "name_ja_jp": "プールパーティ"
+    },
+    {
+      "id": 1174,
+      "gift_id": 2234,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b0ebd0fc5d9a2563a82cb52ca01aea7f.png",
+      "name_en_us": "Sexy stamina",
+      "name_ja_jp": "セクシースタミ"
     }
   ]
 }
