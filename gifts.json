@@ -1,5 +1,5 @@
 {
-  "data_version": 179.6,
+  "data_version": 180.6,
   "gifts": [
     {
       "id": 0,
@@ -10562,7 +10562,7 @@
       "id": 1173,
       "gift_id": 2233,
       "emoji_id": 0,
-      "price": 199,
+      "price": 399,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/49ba533b26887189f766ce870bf92165.png",
       "name_en_us": "Pool party",
       "name_ja_jp": "プールパーティ"
@@ -10575,6 +10575,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b0ebd0fc5d9a2563a82cb52ca01aea7f.png",
       "name_en_us": "Sexy stamina",
       "name_ja_jp": "セクシースタミ"
+    },
+    {
+      "id": 1175,
+      "gift_id": 2235,
+      "emoji_id": 0,
+      "price": 3999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5fe00ce05b316047cc8b799de505c379.png",
+      "name_en_us": "shooting star",
+      "name_ja_jp": "流れ星"
+    },
+    {
+      "id": 1176,
+      "gift_id": 2236,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6a27f79d86af1dfadb952a302c4fc2e7.png",
+      "name_en_us": "Glitter",
+      "name_ja_jp": "キラキラまっくす"
     }
   ]
 }
