@@ -1,5 +1,5 @@
 {
-  "data_version": 180.6,
+  "data_version": 181.6,
   "gifts": [
     {
       "id": 0,
@@ -10593,6 +10593,60 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6a27f79d86af1dfadb952a302c4fc2e7.png",
       "name_en_us": "Glitter",
       "name_ja_jp": "キラキラまっくす"
+    },
+    {
+      "id": 1177,
+      "gift_id": 2237,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f843947c67852e85a1ac02405825622c.png",
+      "name_en_us": "Rainy season Hina",
+      "name_ja_jp": "梅雨ひな"
+    },
+    {
+      "id": 1178,
+      "gift_id": 2238,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a81f68a0ab869f829c928f131d6f3d6d.jpg",
+      "name_en_us": "10148036",
+      "name_ja_jp": "10148036"
+    },
+    {
+      "id": 1179,
+      "gift_id": 2239,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3da8a27de7d863991b1c5b2617fa7f65.png",
+      "name_en_us": "Dog",
+      "name_ja_jp": "いぬっこ"
+    },
+    {
+      "id": 1180,
+      "gift_id": 2240,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/00e077f7f0b96a4faf56d601a9fdd98e.png",
+      "name_en_us": "Pet dog cherry",
+      "name_ja_jp": "愛犬チェリー"
+    },
+    {
+      "id": 1181,
+      "gift_id": 2241,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/11216b079c4ca7bc9b333e3638ed85b5.png",
+      "name_en_us": "What are you doing ~",
+      "name_ja_jp": "やってっかぁ〜"
+    },
+    {
+      "id": 1182,
+      "gift_id": 2242,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fcb1275a0eb74198777b7244892835b4.png",
+      "name_en_us": "Warm",
+      "name_ja_jp": "あたおくん"
     }
   ]
 }
