@@ -1,5 +1,5 @@
 {
-  "data_version": 181.6,
+  "data_version": 181.70001,
   "gifts": [
     {
       "id": 0,
@@ -850,9 +850,9 @@
     {
       "id": 94,
       "gift_id": 1165,
-      "emoji_id": 807244739783032862,
+      "emoji_id": 0,
       "price": 800,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/56dfeb4a51177a6b478a2c8f3cc94971.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fffde72bb64c7964a2f1cd758410f3d0.jpg",
       "name_en_us": "Tanabata\u0027s wish",
       "name_ja_jp": "七夕の願い事"
     },
