@@ -1,5 +1,5 @@
 {
-  "data_version": 182.70001,
+  "data_version": 183.70001,
   "gifts": [
     {
       "id": 0,
@@ -10656,6 +10656,60 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c06b78e7ddd948c479a4099307c96b1f.png",
       "name_en_us": "Ukimaru",
       "name_ja_jp": "うきまる"
+    },
+    {
+      "id": 1184,
+      "gift_id": 2244,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/237a0d7dac5e803fcf67147af16ca479.png",
+      "name_en_us": "Loyal dog Cheri",
+      "name_ja_jp": "忠犬チェリ公"
+    },
+    {
+      "id": 1185,
+      "gift_id": 2245,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8589aaa7543c6e4f50408fb8ae18836e.png",
+      "name_en_us": "San-chan ♡",
+      "name_ja_jp": "サンちゃん♡"
+    },
+    {
+      "id": 1186,
+      "gift_id": 2246,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/851806ece50137be83ad8694ae8778bf.png",
+      "name_en_us": "Otsuhina ὂ.!",
+      "name_ja_jp": "おつひなっ🐣！"
+    },
+    {
+      "id": 1187,
+      "gift_id": 2247,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b9daeb963c02887dd4ae819d8720166c.png",
+      "name_en_us": "Nyaikuma! !!",
+      "name_ja_jp": "にゃいくま！！"
+    },
+    {
+      "id": 1188,
+      "gift_id": 2248,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/902ac826f1ca526acd76b4dfed0353f7.png",
+      "name_en_us": "Zune",
+      "name_ja_jp": "ｽﾞｩｰﾝ"
+    },
+    {
+      "id": 1189,
+      "gift_id": 2249,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f49080700760fe924eb26f264b2160dc.png",
+      "name_en_us": "Ieko ㌠",
+      "name_ja_jp": "いちぇこ㌠"
     }
   ]
 }
