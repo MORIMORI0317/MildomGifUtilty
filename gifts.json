@@ -1,5 +1,5 @@
 {
-  "data_version": 183.70001,
+  "data_version": 184.70001,
   "gifts": [
     {
       "id": 0,
@@ -10710,6 +10710,177 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f49080700760fe924eb26f264b2160dc.png",
       "name_en_us": "Ieko ㌠",
       "name_ja_jp": "いちぇこ㌠"
+    },
+    {
+      "id": 1190,
+      "gift_id": 2250,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/dd6f25c5365e4c34a4eea70d1779997f.png",
+      "name_en_us": "I was surprised!",
+      "name_ja_jp": "びっくり！"
+    },
+    {
+      "id": 1191,
+      "gift_id": 2256,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/53956fb47e0b7bbc1ddc50768ca82a33.png",
+      "name_en_us": "Plum Chan",
+      "name_ja_jp": "梅ちゃーん"
+    },
+    {
+      "id": 1192,
+      "gift_id": 2257,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b79368b50cb806c603d9fc3fdc942f96.png",
+      "name_en_us": "Soon Soon Ἳ.",
+      "name_ja_jp": "すんすんすーん🎶"
+    },
+    {
+      "id": 1193,
+      "gift_id": 2258,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/87bc2485e9757c399d1d5d844bc3cee4.png",
+      "name_en_us": "Kumamyan",
+      "name_ja_jp": "くまみゃん"
+    },
+    {
+      "id": 1194,
+      "gift_id": 2259,
+      "emoji_id": 0,
+      "price": 20,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fffde72bb64c7964a2f1cd758410f3d0.jpg",
+      "name_en_us": "[Nu !!]",
+      "name_ja_jp": "【ぬっ!!】"
+    },
+    {
+      "id": 1195,
+      "gift_id": 2260,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8dc6b44fc3be7cae987c9c117f7082d4.png",
+      "name_en_us": "Nai sushi",
+      "name_ja_jp": "ナイ寿司"
+    },
+    {
+      "id": 1196,
+      "gift_id": 2261,
+      "emoji_id": 0,
+      "price": 20,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/15117e9edcc7aa7a4e553c4518ff8cba.png",
+      "name_en_us": "[Nu !!]",
+      "name_ja_jp": "【ぬっ!!】"
+    },
+    {
+      "id": 1197,
+      "gift_id": 2262,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/14a522f12890dfe750ce1af05947bca2.png",
+      "name_en_us": "face",
+      "name_ja_jp": "顔面"
+    },
+    {
+      "id": 1198,
+      "gift_id": 2263,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/214cf17ee236dfec273326755cf07089.png",
+      "name_en_us": "Love \u0026 peace.",
+      "name_ja_jp": "ラブ＆ピース。"
+    },
+    {
+      "id": 1199,
+      "gift_id": 2264,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d7519749f4af381adc5c05092399440c.png",
+      "name_en_us": "Konnun",
+      "name_ja_jp": "こんぬん"
+    },
+    {
+      "id": 1200,
+      "gift_id": 2265,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/932f4f61a0684454e1d7b4198d619649.png",
+      "name_en_us": "Push!",
+      "name_ja_jp": "おす！"
+    },
+    {
+      "id": 1201,
+      "gift_id": 2266,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/16c081d9157de24f5911095a6171bfe9.png",
+      "name_en_us": "Little Goddess Hades",
+      "name_ja_jp": "幼女神ハーデス"
+    },
+    {
+      "id": 1202,
+      "gift_id": 2267,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8c52d039d040b5cbd58fd9f6c66eef0d.png",
+      "name_en_us": "Usako",
+      "name_ja_jp": "うさっこ"
+    },
+    {
+      "id": 1203,
+      "gift_id": 2268,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/02459c28e18897a6a3c0401ad012153a.png",
+      "name_en_us": "Good morning ἱ.",
+      "name_ja_jp": "おはひな🌞"
+    },
+    {
+      "id": 1204,
+      "gift_id": 2251,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/740179b5d52ac006c3271e688ba1773d.png",
+      "name_en_us": "Great chance!",
+      "name_ja_jp": "大チャンス！"
+    },
+    {
+      "id": 1205,
+      "gift_id": 2252,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a9754407b690c35420dcf663ad81777a.png",
+      "name_en_us": "lucky",
+      "name_ja_jp": "ラッキー"
+    },
+    {
+      "id": 1206,
+      "gift_id": 2253,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9c84cb2e47a331ab6183e65e4f3cb09d.png",
+      "name_en_us": "Super lucky",
+      "name_ja_jp": "スーパーラッキー"
+    },
+    {
+      "id": 1207,
+      "gift_id": 2254,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a0909986b0577b2c027bc2ddad503aac.png",
+      "name_en_us": "Ultra lucky",
+      "name_ja_jp": "ウルトララッキー"
+    },
+    {
+      "id": 1208,
+      "gift_id": 2255,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3b71b99990c324a268ae2c5634dc6cf7.png",
+      "name_en_us": "Mill lucky",
+      "name_ja_jp": "ミルラッキー"
     }
   ]
 }
