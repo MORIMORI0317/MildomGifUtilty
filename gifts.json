@@ -1,5 +1,5 @@
 {
-  "data_version": 184.70001,
+  "data_version": 185.70001,
   "gifts": [
     {
       "id": 0,
@@ -5351,7 +5351,7 @@
       "id": 594,
       "gift_id": 1687,
       "emoji_id": 0,
-      "price": 7,
+      "price": 19,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/df928a19f498e03cd160ced99c7ad971.png",
       "name_en_us": "Magical rod",
       "name_ja_jp": "マジカルロッド"
@@ -5405,7 +5405,7 @@
       "id": 600,
       "gift_id": 1683,
       "emoji_id": 0,
-      "price": 259,
+      "price": 299,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8866ec67111f8f2a5f3538044d9e51ec.png",
       "name_en_us": "Magical flower",
       "name_ja_jp": "マジカルフラワー"
@@ -5414,7 +5414,7 @@
       "id": 601,
       "gift_id": 1684,
       "emoji_id": 0,
-      "price": 259,
+      "price": 299,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ed7ce1d5367ef06c85b55b726c836448.png",
       "name_en_us": "Magical feather",
       "name_ja_jp": "マジカルフェザー"
@@ -5423,7 +5423,7 @@
       "id": 602,
       "gift_id": 1685,
       "emoji_id": 0,
-      "price": 259,
+      "price": 299,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/163fb66ec6a1f2b003c39abc61b48d10.png",
       "name_en_us": "Damage potion",
       "name_ja_jp": "ダメージポーション"
@@ -10881,6 +10881,60 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3b71b99990c324a268ae2c5634dc6cf7.png",
       "name_en_us": "Mill lucky",
       "name_ja_jp": "ミルラッキー"
+    },
+    {
+      "id": 1209,
+      "gift_id": 2269,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3c9ee9dc6bdfc3151064a461d9d5c69a.png",
+      "name_en_us": "Pico Pico Hammer",
+      "name_ja_jp": "ピコピコハンマー"
+    },
+    {
+      "id": 1210,
+      "gift_id": 2270,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0a7c0a6a94f7c689a786a32b0bf0b5ae.png",
+      "name_en_us": "Polar bear ★ Strip",
+      "name_ja_jp": "しろくま★短冊"
+    },
+    {
+      "id": 1211,
+      "gift_id": 2271,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7b09acfa47f5ca21619e8caa4e7ab7b8.png",
+      "name_en_us": "Polar bear ★ star",
+      "name_ja_jp": "しろくま★星"
+    },
+    {
+      "id": 1212,
+      "gift_id": 2272,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ce2bb62bdb96776b8ce28b47bb1c2fbc.png",
+      "name_en_us": "Polar bear ★ Konpeito",
+      "name_ja_jp": "しろくま★金平糖"
+    },
+    {
+      "id": 1213,
+      "gift_id": 2273,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/db9c521e59142143c5ba2cde766ee2cd.png",
+      "name_en_us": "Polar bear ★ Jinbei",
+      "name_ja_jp": "しろくま★甚平"
+    },
+    {
+      "id": 1214,
+      "gift_id": 2274,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e0271940a2b4decd1a1150d37ac83cc4.png",
+      "name_en_us": "Polar bear ★ Tanabata",
+      "name_ja_jp": "しろくま★七夕"
     }
   ]
 }
