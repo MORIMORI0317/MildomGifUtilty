@@ -1,5 +1,5 @@
 {
-  "data_version": 185.70001,
+  "data_version": 186.70001,
   "gifts": [
     {
       "id": 0,
@@ -10662,7 +10662,7 @@
       "gift_id": 2244,
       "emoji_id": 0,
       "price": 99,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/237a0d7dac5e803fcf67147af16ca479.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/992a303ac027c7d0d6ee86850942a437.png",
       "name_en_us": "Loyal dog Cheri",
       "name_ja_jp": "忠犬チェリ公"
     },
@@ -10680,7 +10680,7 @@
       "gift_id": 2246,
       "emoji_id": 0,
       "price": 99,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/851806ece50137be83ad8694ae8778bf.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9211c19596c3fd21dc3de7f30d9b7a48.png",
       "name_en_us": "Otsuhina ὂ.!",
       "name_ja_jp": "おつひなっ🐣！"
     },
@@ -10689,7 +10689,7 @@
       "gift_id": 2247,
       "emoji_id": 0,
       "price": 99,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b9daeb963c02887dd4ae819d8720166c.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/08189cee5be51c0bf2352d9c09d5a986.png",
       "name_en_us": "Nyaikuma! !!",
       "name_ja_jp": "にゃいくま！！"
     },
@@ -10698,7 +10698,7 @@
       "gift_id": 2248,
       "emoji_id": 0,
       "price": 99,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/902ac826f1ca526acd76b4dfed0353f7.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a574a7d1892dd40836c92bed4456509f.png",
       "name_en_us": "Zune",
       "name_ja_jp": "ｽﾞｩｰﾝ"
     },
@@ -10935,6 +10935,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e0271940a2b4decd1a1150d37ac83cc4.png",
       "name_en_us": "Polar bear ★ Tanabata",
       "name_ja_jp": "しろくま★七夕"
+    },
+    {
+      "id": 1215,
+      "gift_id": 2275,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6f10fb01b972e9bc7f5d44e1901e6238.png",
+      "name_en_us": "Dog paws",
+      "name_ja_jp": "わんこの肉球"
+    },
+    {
+      "id": 1216,
+      "gift_id": 2276,
+      "emoji_id": 0,
+      "price": 29,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ed950736df569dd0875a91d5fd0c7b5d.png",
+      "name_en_us": "Nambawan",
+      "name_ja_jp": "なんばーわん"
     }
   ]
 }
