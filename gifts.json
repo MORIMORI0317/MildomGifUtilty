@@ -1,5 +1,5 @@
 {
-  "data_version": 186.70001,
+  "data_version": 187.70001,
   "gifts": [
     {
       "id": 0,
@@ -10953,6 +10953,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ed950736df569dd0875a91d5fd0c7b5d.png",
       "name_en_us": "Nambawan",
       "name_ja_jp": "なんばーわん"
+    },
+    {
+      "id": 1217,
+      "gift_id": 2277,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f91556a404b84aaaac21fb29eba59af5.png",
+      "name_en_us": "Not Tapi Hina",
+      "name_ja_jp": "ないたぴひな"
     }
   ]
 }
