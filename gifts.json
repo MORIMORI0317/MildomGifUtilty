@@ -1,5 +1,5 @@
 {
-  "data_version": 187.70001,
+  "data_version": 188.70001,
   "gifts": [
     {
       "id": 0,
@@ -10962,6 +10962,69 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f91556a404b84aaaac21fb29eba59af5.png",
       "name_en_us": "Not Tapi Hina",
       "name_ja_jp": "ないたぴひな"
+    },
+    {
+      "id": 1218,
+      "gift_id": 2278,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c061397e5e50c70fb10764aa9838600b.png",
+      "name_en_us": "Nyankokko",
+      "name_ja_jp": "にゃんこっこ"
+    },
+    {
+      "id": 1219,
+      "gift_id": 2279,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/97afa307ebbbee2f700b81db148153be.png",
+      "name_en_us": "Bean sprouts",
+      "name_ja_jp": "もやし"
+    },
+    {
+      "id": 1220,
+      "gift_id": 2280,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/13d0133c9b79d861449141dc48f3f619.png",
+      "name_en_us": "LOVE",
+      "name_ja_jp": "LOVE"
+    },
+    {
+      "id": 1221,
+      "gift_id": 2281,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/633fd54d68bbca3f4c9bd24491db029f.png",
+      "name_en_us": "Achii",
+      "name_ja_jp": "あちぃ"
+    },
+    {
+      "id": 1222,
+      "gift_id": 2282,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/86d17e9f7b385108309c53910a77d7a2.png",
+      "name_en_us": "ZZZ",
+      "name_ja_jp": "ZZZ"
+    },
+    {
+      "id": 1223,
+      "gift_id": 2283,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/161c8aa6ce51356240a1ba195aa7c1ad.png",
+      "name_en_us": "Stastamy",
+      "name_ja_jp": "スタスタミ"
+    },
+    {
+      "id": 1224,
+      "gift_id": 2284,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c80430648d16383a96dbaa43d7ddd288.png",
+      "name_en_us": "Vivor Bagins",
+      "name_ja_jp": "ビボルバギンズ"
     }
   ]
 }
