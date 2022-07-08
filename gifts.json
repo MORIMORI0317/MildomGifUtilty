@@ -1,5 +1,5 @@
 {
-  "data_version": 188.70001,
+  "data_version": 189.70001,
   "gifts": [
     {
       "id": 0,
@@ -11025,6 +11025,60 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c80430648d16383a96dbaa43d7ddd288.png",
       "name_en_us": "Vivor Bagins",
       "name_ja_jp": "ビボルバギンズ"
+    },
+    {
+      "id": 1225,
+      "gift_id": 2285,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c0cc3b57c247335556fb805f8646084f.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1226,
+      "gift_id": 2286,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2cf77acb056279dcb2ad0cd52b5484c4.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1227,
+      "gift_id": 2287,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c0cc3b57c247335556fb805f8646084f.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1228,
+      "gift_id": 2288,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c0cc3b57c247335556fb805f8646084f.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1229,
+      "gift_id": 2289,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c6bc285b5a893793bc2f376a1775a488.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1230,
+      "gift_id": 2290,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a53e408aa3adb4c4a17f3addf5fb3274.png",
+      "name_en_us": "Original gift",
+      "name_ja_jp": "オリジナルギフト"
     }
   ]
 }
