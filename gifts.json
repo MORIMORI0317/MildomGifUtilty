@@ -1,5 +1,5 @@
 {
-  "data_version": 189.80002,
+  "data_version": 190.80002,
   "gifts": [
     {
       "id": 0,
@@ -11079,6 +11079,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a53e408aa3adb4c4a17f3addf5fb3274.png",
       "name_en_us": "Original gift",
       "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1231,
+      "gift_id": 2291,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "name_en_us": "One sunflower",
+      "name_ja_jp": "一輪のひまわり"
+    },
+    {
+      "id": 1232,
+      "gift_id": 2292,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "name_en_us": "Sunflower bouquet",
+      "name_ja_jp": "ひまわりの花束"
     }
   ]
 }
