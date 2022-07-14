@@ -1,5 +1,5 @@
 {
-  "data_version": 190.80002,
+  "data_version": 191.80002,
   "gifts": [
     {
       "id": 0,
@@ -11097,6 +11097,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
       "name_en_us": "Sunflower bouquet",
       "name_ja_jp": "ひまわりの花束"
+    },
+    {
+      "id": 1233,
+      "gift_id": 2293,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2a4970e68286d255c6ddf3f7c0569db1.png",
+      "name_en_us": "Dogeza stamina",
+      "name_ja_jp": "土下座スタミ"
+    },
+    {
+      "id": 1234,
+      "gift_id": 2294,
+      "emoji_id": 0,
+      "price": 10,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/bb7e7ffa911999ed911da9639b576a1c.png",
+      "name_en_us": "Makomako",
+      "name_ja_jp": "まこまこ"
+    },
+    {
+      "id": 1235,
+      "gift_id": 2295,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/bb44e328ed69952d3445aead8586dfce.png",
+      "name_en_us": "To process",
+      "name_ja_jp": "処す"
     }
   ]
 }
