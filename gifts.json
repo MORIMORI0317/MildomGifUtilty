@@ -1,5 +1,5 @@
 {
-  "data_version": 191.80002,
+  "data_version": 192.80002,
   "gifts": [
     {
       "id": 0,
@@ -11124,6 +11124,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/bb44e328ed69952d3445aead8586dfce.png",
       "name_en_us": "To process",
       "name_ja_jp": "処す"
+    },
+    {
+      "id": 1236,
+      "gift_id": 2296,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/79b6f8bcd36df9c30226c9ad540d508c.png",
+      "name_en_us": "Kazy Bear",
+      "name_ja_jp": "ケイジーベア"
+    },
+    {
+      "id": 1237,
+      "gift_id": 2297,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6897a90431f0251a28a777f43ac7f4fe.png",
+      "name_en_us": "Greedy",
+      "name_ja_jp": "強欲ぐう"
     }
   ]
 }
