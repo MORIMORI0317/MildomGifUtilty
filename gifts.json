@@ -1,5 +1,5 @@
 {
-  "data_version": 192.80002,
+  "data_version": 193.80002,
   "gifts": [
     {
       "id": 0,
@@ -11085,7 +11085,7 @@
       "gift_id": 2291,
       "emoji_id": 0,
       "price": 39,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9bc22401da7aeef80ab65937d0b6ac55.png",
       "name_en_us": "One sunflower",
       "name_ja_jp": "一輪のひまわり"
     },
@@ -11094,7 +11094,7 @@
       "gift_id": 2292,
       "emoji_id": 0,
       "price": 99,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0f6d670384ad9d8aa3b0765d73de050c.png",
       "name_en_us": "Sunflower bouquet",
       "name_ja_jp": "ひまわりの花束"
     },
@@ -11142,6 +11142,78 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6897a90431f0251a28a777f43ac7f4fe.png",
       "name_en_us": "Greedy",
       "name_ja_jp": "強欲ぐう"
+    },
+    {
+      "id": 1238,
+      "gift_id": 2298,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e9b318320d4fb78f1956d42237cb78ff.png",
+      "name_en_us": "smile",
+      "name_ja_jp": "笑"
+    },
+    {
+      "id": 1239,
+      "gift_id": 2299,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/89100821964bc409bb7374264346a21a.png",
+      "name_en_us": "keep it up",
+      "name_ja_jp": "がんばれ"
+    },
+    {
+      "id": 1240,
+      "gift_id": 2300,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e2d584721c6f54e905c81520a68f18ee.png",
+      "name_en_us": "very",
+      "name_ja_jp": "すごい"
+    },
+    {
+      "id": 1241,
+      "gift_id": 2301,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5142dedac7448d0854b010af9baa3bd5.png",
+      "name_en_us": "As expected",
+      "name_ja_jp": "さすが"
+    },
+    {
+      "id": 1242,
+      "gift_id": 2302,
+      "emoji_id": 0,
+      "price": 1299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/52bf28481f97a1b70d672afab31488a8.png",
+      "name_en_us": "Cheers for good work",
+      "name_ja_jp": "おつかれさま"
+    },
+    {
+      "id": 1243,
+      "gift_id": 2303,
+      "emoji_id": 0,
+      "price": 1299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c2d30440ec2bdfba59bb242468265e8f.png",
+      "name_en_us": "I did it ♪",
+      "name_ja_jp": "やったね♪"
+    },
+    {
+      "id": 1244,
+      "gift_id": 2304,
+      "emoji_id": 0,
+      "price": 1299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/12c13ccf06467782f1055b0db4ea9c1d.png",
+      "name_en_us": "superb!",
+      "name_ja_jp": "さいこう！"
+    },
+    {
+      "id": 1245,
+      "gift_id": 2305,
+      "emoji_id": 0,
+      "price": 1999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/569fcdc4562610ba171df4512a93f356.png",
+      "name_en_us": "Kyun",
+      "name_ja_jp": "きゅん"
     }
   ]
 }
