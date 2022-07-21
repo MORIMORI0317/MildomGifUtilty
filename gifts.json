@@ -1,5 +1,5 @@
 {
-  "data_version": 193.80002,
+  "data_version": 194.80002,
   "gifts": [
     {
       "id": 0,
@@ -11214,6 +11214,141 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/569fcdc4562610ba171df4512a93f356.png",
       "name_en_us": "Kyun",
       "name_ja_jp": "きゅん"
+    },
+    {
+      "id": 1246,
+      "gift_id": 2306,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "name_en_us": "teeth! ??",
+      "name_ja_jp": "は！？"
+    },
+    {
+      "id": 1247,
+      "gift_id": 2307,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5f09badb5f53887e5a3bfef4ce09a056.png",
+      "name_en_us": "teeth! ??",
+      "name_ja_jp": "は！？"
+    },
+    {
+      "id": 1248,
+      "gift_id": 2308,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6a2d15293371d0efced936558add4bc7.png",
+      "name_en_us": "Summer vacation with Nito",
+      "name_ja_jp": "にーとの夏休み"
+    },
+    {
+      "id": 1249,
+      "gift_id": 2309,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1de6da936410e0061fee7b76b64af8ab.png",
+      "name_en_us": "Yukata Yui Yui",
+      "name_ja_jp": "浴衣ゆいゆい"
+    },
+    {
+      "id": 1250,
+      "gift_id": 2310,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9fb22c9f35c835607713a75df293731f.png",
+      "name_en_us": "yuaaa",
+      "name_ja_jp": "yuaaa"
+    },
+    {
+      "id": 1251,
+      "gift_id": 2311,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c7d482482f60b748f6b4fecae6ec2b7c.png",
+      "name_en_us": "Konnun",
+      "name_ja_jp": "こんぬん"
+    },
+    {
+      "id": 1252,
+      "gift_id": 2312,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e1a3ba50e7f31421d861cc6949dc4668.png",
+      "name_en_us": "Bush note",
+      "name_ja_jp": "ぶし音符"
+    },
+    {
+      "id": 1253,
+      "gift_id": 2313,
+      "emoji_id": 0,
+      "price": 27,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0312b4f98daf2de1f5abfd86f8f91b79.png",
+      "name_en_us": "Watermelon (small)",
+      "name_ja_jp": "スイカ（小）"
+    },
+    {
+      "id": 1254,
+      "gift_id": 2314,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/834e814238b1d87aa9e6d26303acba78.png",
+      "name_en_us": "Watermelon (middle)",
+      "name_ja_jp": "スイカ（中）"
+    },
+    {
+      "id": 1255,
+      "gift_id": 2315,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/094371a23fe090794a8f911ef479d142.png",
+      "name_en_us": "Pandakko",
+      "name_ja_jp": "ぱんだっこ"
+    },
+    {
+      "id": 1256,
+      "gift_id": 2316,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d4c68af2315d3d0760ffed9badd093d0.png",
+      "name_en_us": "Saya",
+      "name_ja_jp": "すや"
+    },
+    {
+      "id": 1257,
+      "gift_id": 2317,
+      "emoji_id": 0,
+      "price": 19,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ce6f6570d9cbadee25639575335f71b3.png",
+      "name_en_us": "The stamina I\u0027ve been waiting for",
+      "name_ja_jp": "待ってたスタミ"
+    },
+    {
+      "id": 1258,
+      "gift_id": 2318,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/191dce58eacc88d2c8fc258ac2be9ad0.png",
+      "name_en_us": "Kurokure is the best",
+      "name_ja_jp": "くろくれ最高"
+    },
+    {
+      "id": 1259,
+      "gift_id": 2319,
+      "emoji_id": 0,
+      "price": 30,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f886383f8339d681e7aab8c015c3ad43.png",
+      "name_en_us": "Hey, lid!",
+      "name_ja_jp": "おい、ぶた！"
+    },
+    {
+      "id": 1260,
+      "gift_id": 2320,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b1c2ec7048a05c4e0a874c84568e675e.png",
+      "name_en_us": "It\u0027s summer",
+      "name_ja_jp": "夏だね"
     }
   ]
 }
