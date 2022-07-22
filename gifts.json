@@ -1,5 +1,5 @@
 {
-  "data_version": 194.80002,
+  "data_version": 195.80002,
   "gifts": [
     {
       "id": 0,
@@ -860,7 +860,7 @@
       "id": 95,
       "gift_id": 1166,
       "emoji_id": 807244745142435850,
-      "price": 9,
+      "price": 19,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/698fac98a60364f76fef1506fd3a7438.png",
       "name_en_us": "Mildom Uchiwa",
       "name_ja_jp": "Mildomうちわ"
@@ -11238,7 +11238,7 @@
       "gift_id": 2308,
       "emoji_id": 0,
       "price": 9,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6a2d15293371d0efced936558add4bc7.png",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1dc51f2e666d118de71fbc2075fe07ea.png",
       "name_en_us": "Summer vacation with Nito",
       "name_ja_jp": "にーとの夏休み"
     },
@@ -11349,6 +11349,87 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b1c2ec7048a05c4e0a874c84568e675e.png",
       "name_en_us": "It\u0027s summer",
       "name_ja_jp": "夏だね"
+    },
+    {
+      "id": 1261,
+      "gift_id": 2321,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/bd9ca4c002ccb205c5c3a16b26796a53.png",
+      "name_en_us": "Chocolate banana",
+      "name_ja_jp": "チョコバナナ"
+    },
+    {
+      "id": 1262,
+      "gift_id": 2322,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7a1e1e25fb4d51403dca378a23d57400.png",
+      "name_en_us": "Frankfurt",
+      "name_ja_jp": "フランクフルト"
+    },
+    {
+      "id": 1263,
+      "gift_id": 2323,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/803172df194e7874db5a8e6bbca7cbb1.png",
+      "name_en_us": "shaved ice",
+      "name_ja_jp": "かき氷"
+    },
+    {
+      "id": 1264,
+      "gift_id": 2324,
+      "emoji_id": 0,
+      "price": 19,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/043f290f89c76c82577016adda3dd493.png",
+      "name_en_us": "Goldfish",
+      "name_ja_jp": "金魚"
+    },
+    {
+      "id": 1265,
+      "gift_id": 2325,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0cc91a341c7777382b6beeef69228c18.png",
+      "name_en_us": "Moonlight flowers",
+      "name_ja_jp": "月光の花"
+    },
+    {
+      "id": 1266,
+      "gift_id": 2326,
+      "emoji_id": 0,
+      "price": 199,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d7a06cfafe16b3781e1ee535b29864e6.png",
+      "name_en_us": "Magic quill pen",
+      "name_ja_jp": "魔法の羽ペン"
+    },
+    {
+      "id": 1267,
+      "gift_id": 2327,
+      "emoji_id": 0,
+      "price": 349,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4bdaf979a92245437a49b47bb84958ad.png",
+      "name_en_us": "Star candle",
+      "name_ja_jp": "星のろうそく"
+    },
+    {
+      "id": 1268,
+      "gift_id": 2328,
+      "emoji_id": 0,
+      "price": 699,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/bfc936f8414849d3e96d60761044a85d.png",
+      "name_en_us": "Mirror fairy",
+      "name_ja_jp": "鏡の妖精"
+    },
+    {
+      "id": 1269,
+      "gift_id": 2329,
+      "emoji_id": 0,
+      "price": 1299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/eb322c2252273d742864547e0f109ecc.png",
+      "name_en_us": "Magical harp",
+      "name_ja_jp": "マジカルハープ"
     }
   ]
 }
