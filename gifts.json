@@ -1,5 +1,5 @@
 {
-  "data_version": 195.80002,
+  "data_version": 196.80002,
   "gifts": [
     {
       "id": 0,
@@ -11430,6 +11430,285 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/eb322c2252273d742864547e0f109ecc.png",
       "name_en_us": "Magical harp",
       "name_ja_jp": "マジカルハープ"
+    },
+    {
+      "id": 1270,
+      "gift_id": 2330,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d00ff4f1cb547c15544cffcab7d69458.png",
+      "name_en_us": "Rainy Stamy",
+      "name_ja_jp": "レイニースタミ"
+    },
+    {
+      "id": 1271,
+      "gift_id": 2331,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f91556a404b84aaaac21fb29eba59af5.png",
+      "name_en_us": "Amehina ☂",
+      "name_ja_jp": "あめひな☂﻿"
+    },
+    {
+      "id": 1272,
+      "gift_id": 2332,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7abb2a9c428756e9559c3e99fd5f8bbb.png",
+      "name_en_us": "Spring Kin",
+      "name_ja_jp": "春キン"
+    },
+    {
+      "id": 1273,
+      "gift_id": 2333,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/827e86d806ebdce67b1b87a382d920ce.png",
+      "name_en_us": "Rainy season tororo",
+      "name_ja_jp": "梅雨とろろ"
+    },
+    {
+      "id": 1274,
+      "gift_id": 2334,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c40eec7db1fdb439f4b393dbf1971847.png",
+      "name_en_us": "Naopi-chan!",
+      "name_ja_jp": "なおぴちゃん！"
+    },
+    {
+      "id": 1275,
+      "gift_id": 2335,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/86dd3e6f4aa32aa233d24894060b06b2.png",
+      "name_en_us": "Rainy season coumarin",
+      "name_ja_jp": "梅雨くまりん"
+    },
+    {
+      "id": 1276,
+      "gift_id": 2336,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c5365ea4d929a5b4f55cbd8e19fc6890.png",
+      "name_en_us": "yuaaa",
+      "name_ja_jp": "yuaaa"
+    },
+    {
+      "id": 1277,
+      "gift_id": 2337,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8dd899dab38406686d37972b168a8c9d.png",
+      "name_en_us": "Nacchan ^. 灬. ^",
+      "name_ja_jp": "なっちゃん^.灬.^"
+    },
+    {
+      "id": 1278,
+      "gift_id": 2338,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b55b44ad6ac87181b300cde12c86428d.png",
+      "name_en_us": "Rainy season",
+      "name_ja_jp": "梅雨っこ"
+    },
+    {
+      "id": 1279,
+      "gift_id": 2339,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ba02d379629fb7cbeace86af9e31b251.png",
+      "name_en_us": "ᾙ.ྀི Gunbi-kun (・ @ ・) ᾙ.ྀི",
+      "name_ja_jp": "🦒ྀིぐんび君(・@・)🦒ྀི"
+    },
+    {
+      "id": 1280,
+      "gift_id": 2340,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/324e4a957b01df3f6026a1b2e9bf999d.png",
+      "name_en_us": "Dust pen",
+      "name_ja_jp": "ちりぺん"
+    },
+    {
+      "id": 1281,
+      "gift_id": 2341,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b763048db9359cb264ea3de493d4dfb4.png",
+      "name_en_us": "Kerokero Maru",
+      "name_ja_jp": "ケロケロ丸"
+    },
+    {
+      "id": 1282,
+      "gift_id": 2342,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2f996396a2fde2cdbbfb2e7fb07664c9.png",
+      "name_en_us": "Yui Momose",
+      "name_ja_jp": "百瀬ゆい"
+    },
+    {
+      "id": 1283,
+      "gift_id": 2343,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4fd0ad4ca58d813540775c3a816b2b5a.png",
+      "name_en_us": "Brilliant weirdo",
+      "name_ja_jp": "華麗なる変人"
+    },
+    {
+      "id": 1284,
+      "gift_id": 2344,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/bf7ae74a994eb9585543d12e810e5d5d.png",
+      "name_en_us": "Chimo-chan",
+      "name_ja_jp": "ちもちゃん"
+    },
+    {
+      "id": 1285,
+      "gift_id": 2345,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7615a7062b2e912494e2b86ba57d1e2c.png",
+      "name_en_us": "Bear apple star",
+      "name_ja_jp": "くまのりんご星"
+    },
+    {
+      "id": 1286,
+      "gift_id": 2346,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4f70d865914eee6057e3a4f6cceb92e2.png",
+      "name_en_us": "Hikoboshi stamina",
+      "name_ja_jp": "彦星スタミ"
+    },
+    {
+      "id": 1287,
+      "gift_id": 2347,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9084e319f14b736e0a5d97e40f5cdb41.png",
+      "name_en_us": "Don! !!",
+      "name_ja_jp": "どん！！"
+    },
+    {
+      "id": 1288,
+      "gift_id": 2348,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/26a15a1ab5d0f3ff4a03a888c84f32b4.png",
+      "name_en_us": "Inori Nekono GIFT ♡",
+      "name_ja_jp": "猫乃いのりGIFT♡"
+    },
+    {
+      "id": 1289,
+      "gift_id": 2349,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/048a22890c3c4ff9908186dc6bf4d56e.png",
+      "name_en_us": "yuuገ.ጡ.ጿ.ꕤ",
+      "name_ja_jp": "yuu𓂃𓈒𓏸ꕤ"
+    },
+    {
+      "id": 1290,
+      "gift_id": 2350,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ea64faf5a235addde5a39a236d5f02b6.png",
+      "name_en_us": "Baby",
+      "name_ja_jp": "赤ちゃんころも"
+    },
+    {
+      "id": 1291,
+      "gift_id": 2351,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c8a48d9d49bd0b742cf65a8adafb3136.png",
+      "name_en_us": "Cute guy",
+      "name_ja_jp": "かわいいやつ"
+    },
+    {
+      "id": 1292,
+      "gift_id": 2352,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4cb393d990b80545b730f81deff90c1a.png",
+      "name_en_us": "Original BUSHI",
+      "name_ja_jp": "元祖BUSHI"
+    },
+    {
+      "id": 1293,
+      "gift_id": 2353,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/87a13fa8e819efaf73e37d53855003f9.png",
+      "name_en_us": "donut",
+      "name_ja_jp": "ドーナツ"
+    },
+    {
+      "id": 1294,
+      "gift_id": 2354,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44be2fecfe8a03e3492a488770984329.png",
+      "name_en_us": "Popcorn",
+      "name_ja_jp": "ポップコーン"
+    },
+    {
+      "id": 1295,
+      "gift_id": 2355,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3178c457906b08b374f4fc5c058e65e7.png",
+      "name_en_us": "Takuma dog",
+      "name_ja_jp": "たくま犬"
+    },
+    {
+      "id": 1296,
+      "gift_id": 2356,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7e6ee6971e91380b82db29cf38d5fda2.png",
+      "name_en_us": "Festival Hina ὂ.",
+      "name_ja_jp": "お祭りひな🐣"
+    },
+    {
+      "id": 1297,
+      "gift_id": 2357,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f4429edded589eac5c6d61744766bd60.png",
+      "name_en_us": "Wishing",
+      "name_ja_jp": "願ちぇこ"
+    },
+    {
+      "id": 1298,
+      "gift_id": 2358,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/766696f09bb687bd5e09b16babe572a3.png",
+      "name_en_us": "Dora-chan",
+      "name_ja_jp": "どらちゃん"
+    },
+    {
+      "id": 1299,
+      "gift_id": 2359,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/dd8e4b312449c64959d9fba2d09624d5.png",
+      "name_en_us": "Not Tapi Hina ὂ.",
+      "name_ja_jp": "ないたぴひな🐣"
+    },
+    {
+      "id": 1300,
+      "gift_id": 2360,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cf98749b7f54bd8ad28f52e9cb38df4e.png",
+      "name_en_us": "Nico ♡ ⃛",
+      "name_ja_jp": "にこ♡⃛"
     }
   ]
 }
