@@ -1,5 +1,5 @@
 {
-  "data_version": 196.80002,
+  "data_version": 197.80002,
   "gifts": [
     {
       "id": 0,
@@ -11709,6 +11709,78 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cf98749b7f54bd8ad28f52e9cb38df4e.png",
       "name_en_us": "Nico ♡ ⃛",
       "name_ja_jp": "にこ♡⃛"
+    },
+    {
+      "id": 1301,
+      "gift_id": 2361,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/738f712511f41b2097c57271662db52b.png",
+      "name_en_us": "Glitter",
+      "name_ja_jp": "きらきら"
+    },
+    {
+      "id": 1302,
+      "gift_id": 2362,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/98685b9ed73379bf8532aecc43c5f845.png",
+      "name_en_us": "gentle",
+      "name_ja_jp": "ほんわか"
+    },
+    {
+      "id": 1303,
+      "gift_id": 2363,
+      "emoji_id": 0,
+      "price": 89,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/49054dc6a4404d5b17d049cc706f881e.png",
+      "name_en_us": "thank you",
+      "name_ja_jp": "感謝するぞい"
+    },
+    {
+      "id": 1304,
+      "gift_id": 2364,
+      "emoji_id": 0,
+      "price": 89,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/bb0184cc9091e83d6cf5b225ab8c230f.png",
+      "name_en_us": "I\u0027m not worried anymore",
+      "name_ja_jp": "もう心配ないわ"
+    },
+    {
+      "id": 1305,
+      "gift_id": 2365,
+      "emoji_id": 0,
+      "price": 499,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f21f6c430f5a54d6e043d362c2c247bd.png",
+      "name_en_us": "Hafu ~",
+      "name_ja_jp": "はふ～"
+    },
+    {
+      "id": 1306,
+      "gift_id": 2366,
+      "emoji_id": 0,
+      "price": 499,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c87e76b1f2b312ef57c4426ba7fb558e.png",
+      "name_en_us": "Respect",
+      "name_ja_jp": "尊し"
+    },
+    {
+      "id": 1307,
+      "gift_id": 2367,
+      "emoji_id": 0,
+      "price": 999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4caefe645fbf2a0ee3c85154a80a9575.png",
+      "name_en_us": "Ah ah",
+      "name_ja_jp": "ああああ"
+    },
+    {
+      "id": 1308,
+      "gift_id": 2368,
+      "emoji_id": 0,
+      "price": 999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/744860121e3cf6217325df8340dbb7ca.png",
+      "name_en_us": "Older sister ♡",
+      "name_ja_jp": "お姉さま♡"
     }
   ]
 }
