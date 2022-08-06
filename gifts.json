@@ -1,5 +1,5 @@
 {
-  "data_version": 197.80002,
+  "data_version": 198.80002,
   "gifts": [
     {
       "id": 0,
@@ -11781,6 +11781,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/744860121e3cf6217325df8340dbb7ca.png",
       "name_en_us": "Older sister ♡",
       "name_ja_jp": "お姉さま♡"
+    },
+    {
+      "id": 1309,
+      "gift_id": 2369,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3c79faff48076cbc63ef673a2fe7acd6.png",
+      "name_en_us": "Natsuhina",
+      "name_ja_jp": "なつひな"
+    },
+    {
+      "id": 1310,
+      "gift_id": 2370,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0f35e3d16d13524fc65e379539110171.png",
+      "name_en_us": "clumsy",
+      "name_ja_jp": "ぽんこつ"
     }
   ]
 }
