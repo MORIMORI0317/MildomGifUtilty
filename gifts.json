@@ -1,5 +1,5 @@
 {
-  "data_version": 198.80002,
+  "data_version": 199.80002,
   "gifts": [
     {
       "id": 0,
@@ -11799,6 +11799,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0f35e3d16d13524fc65e379539110171.png",
       "name_en_us": "clumsy",
       "name_ja_jp": "ぽんこつ"
+    },
+    {
+      "id": 1311,
+      "gift_id": 2371,
+      "emoji_id": 0,
+      "price": 19,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ce9beece33cee541a1ab7aca4e00d78b.png",
+      "name_en_us": "beautiful sound",
+      "name_ja_jp": "美しい音"
+    },
+    {
+      "id": 1312,
+      "gift_id": 2372,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8c53e098011002c71e4fa0ad64f678f8.png",
+      "name_en_us": "One more song♪",
+      "name_ja_jp": "もう1曲♪"
+    },
+    {
+      "id": 1313,
+      "gift_id": 2373,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2f6b0356e571d2a616e1e664ec06b9dd.png",
+      "name_en_us": "singing bird",
+      "name_ja_jp": "歌う鳥"
     }
   ]
 }
