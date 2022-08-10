@@ -1,5 +1,5 @@
 {
-  "data_version": 199.80002,
+  "data_version": 200.80002,
   "gifts": [
     {
       "id": 0,
@@ -11826,6 +11826,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2f6b0356e571d2a616e1e664ec06b9dd.png",
       "name_en_us": "singing bird",
       "name_ja_jp": "歌う鳥"
+    },
+    {
+      "id": 1314,
+      "gift_id": 2374,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/234ec35641e27b8be1d9e7b24f0de356.png",
+      "name_en_us": "Kinopiostami",
+      "name_ja_jp": "キノピオスタミ"
+    },
+    {
+      "id": 1315,
+      "gift_id": 2375,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/59a7939fb2e0104cd8580d2a869d26f4.png",
+      "name_en_us": "Yukata Hina",
+      "name_ja_jp": "浴衣ひな"
+    },
+    {
+      "id": 1316,
+      "gift_id": 2376,
+      "emoji_id": 0,
+      "price": 33,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/dc05dc1f8faf38480577a98678e6b52a.png",
+      "name_en_us": "Unicorn♡",
+      "name_ja_jp": "ユニコーン♡"
     }
   ]
 }
