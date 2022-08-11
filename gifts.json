@@ -1,5 +1,5 @@
 {
-  "data_version": 200.80002,
+  "data_version": 201.80002,
   "gifts": [
     {
       "id": 0,
@@ -11853,6 +11853,78 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/dc05dc1f8faf38480577a98678e6b52a.png",
       "name_en_us": "Unicorn♡",
       "name_ja_jp": "ユニコーン♡"
+    },
+    {
+      "id": 1317,
+      "gift_id": 2377,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0952af5d6d5f56b83a27da79b62b5775.png",
+      "name_en_us": "potato",
+      "name_ja_jp": "ジャガイモ"
+    },
+    {
+      "id": 1318,
+      "gift_id": 2378,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e101090661835e4759421295c3308dc9.png",
+      "name_en_us": "carrot",
+      "name_ja_jp": "ニンジン"
+    },
+    {
+      "id": 1319,
+      "gift_id": 2379,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ab1c1ec24aadf3629f353bd173512cd2.png",
+      "name_en_us": "eggplant",
+      "name_ja_jp": "ナス"
+    },
+    {
+      "id": 1320,
+      "gift_id": 2380,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/543e084f5e6bd82dd788be84fa772559.png",
+      "name_en_us": "tomato",
+      "name_ja_jp": "トマト"
+    },
+    {
+      "id": 1321,
+      "gift_id": 2381,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5e19e5de48993941150788bef373fa25.png",
+      "name_en_us": "saffron rice",
+      "name_ja_jp": "サフランライス"
+    },
+    {
+      "id": 1322,
+      "gift_id": 2382,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f41ec0343134915d9000d561a4bffb26.png",
+      "name_en_us": "Mango lassi",
+      "name_ja_jp": "マンゴーラッシー"
+    },
+    {
+      "id": 1323,
+      "gift_id": 2383,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/21c32f94a09adc2b8ce8d96c90dd8839.png",
+      "name_en_us": "curry roux",
+      "name_ja_jp": "カレールー"
+    },
+    {
+      "id": 1324,
+      "gift_id": 2384,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/99433cdfb239d7ed973ca9e13e4418d7.png",
+      "name_en_us": "bear chef curry",
+      "name_ja_jp": "クマの料理人カレー"
     }
   ]
 }
