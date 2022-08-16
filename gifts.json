@@ -1,5 +1,5 @@
 {
-  "data_version": 201.80002,
+  "data_version": 202.80002,
   "gifts": [
     {
       "id": 0,
@@ -11925,6 +11925,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/99433cdfb239d7ed973ca9e13e4418d7.png",
       "name_en_us": "bear chef curry",
       "name_ja_jp": "クマの料理人カレー"
+    },
+    {
+      "id": 1325,
+      "gift_id": 2385,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7427de31650501365f1e721eae3e945c.png",
+      "name_en_us": "Pine",
+      "name_ja_jp": "パイン"
+    },
+    {
+      "id": 1326,
+      "gift_id": 2386,
+      "emoji_id": 0,
+      "price": 999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e04262aed9d6f6cd0a1faedcb18ce8da.png",
+      "name_en_us": "Good work (fireworks)",
+      "name_ja_jp": "おつかれさま(花火)"
+    },
+    {
+      "id": 1327,
+      "gift_id": 2387,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/26a0b0f3f707268879115cf95e27ea6e.png",
+      "name_en_us": "nice",
+      "name_ja_jp": "ナイス"
     }
   ]
 }
