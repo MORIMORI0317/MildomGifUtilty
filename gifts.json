@@ -1,5 +1,5 @@
 {
-  "data_version": 202.80002,
+  "data_version": 203.80002,
   "gifts": [
     {
       "id": 0,
@@ -11952,6 +11952,87 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/26a0b0f3f707268879115cf95e27ea6e.png",
       "name_en_us": "nice",
       "name_ja_jp": "ナイス"
+    },
+    {
+      "id": 1328,
+      "gift_id": 2388,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/68a193d731fcc62e61bf1f8a785db989.png",
+      "name_en_us": "enjoy",
+      "name_ja_jp": "enjoy"
+    },
+    {
+      "id": 1329,
+      "gift_id": 2389,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0d85e9faf388578a9da6cda1361800fc.png",
+      "name_en_us": "Isono",
+      "name_ja_jp": "磯野"
+    },
+    {
+      "id": 1330,
+      "gift_id": 2390,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ebd4162d1480138640861798efa34fc6.png",
+      "name_en_us": "KIRAtchi",
+      "name_ja_jp": "KIRAっち"
+    },
+    {
+      "id": 1331,
+      "gift_id": 2391,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/00ebbca0213b993b6105294115fc7a13.png",
+      "name_en_us": "Chikuwa ˘͈ᵕ͈",
+      "name_ja_jp": "ちくわ˘͈ᵕ˘͈"
+    },
+    {
+      "id": 1332,
+      "gift_id": 2392,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/24a7ccb8457f1e77c9d6876004e3870d.png",
+      "name_en_us": "Face ٩(ᐕ)و",
+      "name_ja_jp": "顔面٩(　ᐕ)و"
+    },
+    {
+      "id": 1333,
+      "gift_id": 2393,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d936fec9216757881066533325772ebb.png",
+      "name_en_us": "major",
+      "name_ja_jp": "だいしゅき"
+    },
+    {
+      "id": 1334,
+      "gift_id": 2394,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a28d2a37a8ad2bc98ae9ce1dcc19b0c8.png",
+      "name_en_us": "Katsuage Yay",
+      "name_ja_jp": "カツアゲわーい"
+    },
+    {
+      "id": 1335,
+      "gift_id": 2395,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f893aba4662751645af929672d95d689.png",
+      "name_en_us": "Mashyu",
+      "name_ja_jp": "まっしゅゅゅ"
+    },
+    {
+      "id": 1336,
+      "gift_id": 2396,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b0eb1d98dcec4f961c50f515303d96e1.png",
+      "name_en_us": "Cheers Petit",
+      "name_ja_jp": "ぷてぃ乾杯"
     }
   ]
 }
