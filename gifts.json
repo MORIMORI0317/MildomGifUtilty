@@ -1,5 +1,5 @@
 {
-  "data_version": 203.80002,
+  "data_version": 204.80002,
   "gifts": [
     {
       "id": 0,
@@ -4181,7 +4181,7 @@
       "id": 464,
       "gift_id": 1558,
       "emoji_id": 0,
-      "price": 9,
+      "price": 59,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7d2d8c574bdc84e927c62e722505b94e.png",
       "name_en_us": "Grape",
       "name_ja_jp": "ぶどう"
@@ -12033,6 +12033,96 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b0eb1d98dcec4f961c50f515303d96e1.png",
       "name_en_us": "Cheers Petit",
       "name_ja_jp": "ぷてぃ乾杯"
+    },
+    {
+      "id": 1337,
+      "gift_id": 2397,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a2a30fbb69b2e6e20b3d8488a709637d.png",
+      "name_en_us": "pounding panda",
+      "name_ja_jp": "ドキドキパンダ"
+    },
+    {
+      "id": 1338,
+      "gift_id": 2398,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6385c161c34885c64fa6bdf099047ec7.png",
+      "name_en_us": "I love money!",
+      "name_ja_jp": "お金大好き〜！"
+    },
+    {
+      "id": 1339,
+      "gift_id": 2399,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a3eff7708437e340c6b9c78155d87624.png",
+      "name_en_us": "Kira-ya Ἰ",
+      "name_ja_jp": "きーらやー🎆"
+    },
+    {
+      "id": 1340,
+      "gift_id": 2400,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7f540f383c0e4da945f827aed2ae1268.png",
+      "name_en_us": "Rear charging explosion Tamaya",
+      "name_ja_jp": "リア充爆発たまや"
+    },
+    {
+      "id": 1341,
+      "gift_id": 2401,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/af0e26768f0b28a49a9e3d204094d619.png",
+      "name_en_us": "summer ram",
+      "name_ja_jp": "夏ラムちゃん"
+    },
+    {
+      "id": 1342,
+      "gift_id": 2402,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7861565e63f7dd5fd1f226445d94e3f2.png",
+      "name_en_us": "apple fireworks",
+      "name_ja_jp": "りんご花火"
+    },
+    {
+      "id": 1343,
+      "gift_id": 2403,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c0076aa5190d621cc90fa5b104b74d32.png",
+      "name_en_us": "Sleeping Bear Werewolf Killer",
+      "name_ja_jp": "眠りのたくま 人狼殺"
+    },
+    {
+      "id": 1344,
+      "gift_id": 2404,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7cd2ff3265cfa26d9d4222c346ddf60c.png",
+      "name_en_us": "Face gift ᵽ�",
+      "name_ja_jp": "顔面ぎふと𝟛"
+    },
+    {
+      "id": 1345,
+      "gift_id": 2405,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/16dab8a0a283402e5fb4e812d4232b97.png",
+      "name_en_us": "sponge cake",
+      "name_ja_jp": "スポンジケーキ"
+    },
+    {
+      "id": 1346,
+      "gift_id": 2406,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "name_en_us": "celebration cake",
+      "name_ja_jp": "お祝いケーキ"
     }
   ]
 }
