@@ -1,5 +1,5 @@
 {
-  "data_version": 204.80002,
+  "data_version": 205.80002,
   "gifts": [
     {
       "id": 0,
@@ -12123,6 +12123,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
       "name_en_us": "celebration cake",
       "name_ja_jp": "お祝いケーキ"
+    },
+    {
+      "id": 1347,
+      "gift_id": 2407,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0835dda7fac0bc2369cb4dd41ac4e391.png",
+      "name_en_us": "Hina fireworks",
+      "name_ja_jp": "ひな花火"
+    },
+    {
+      "id": 1348,
+      "gift_id": 2408,
+      "emoji_id": 0,
+      "price": 99999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/25830d48ec44d3e5ab544b2d50766ad9.png",
+      "name_en_us": "Exciting amusement park",
+      "name_ja_jp": "ワクワク遊園地"
     }
   ]
 }
