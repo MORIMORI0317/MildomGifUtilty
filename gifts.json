@@ -1,5 +1,5 @@
 {
-  "data_version": 205.80002,
+  "data_version": 206.80002,
   "gifts": [
     {
       "id": 0,
@@ -4848,8 +4848,8 @@
       "gift_id": 1627,
       "emoji_id": 0,
       "price": 99,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b988c047cc71c07daa2668499cfa151b.png",
-      "name_en_us": "I can recommend it!",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fffde72bb64c7964a2f1cd758410f3d0.jpg",
+      "name_en_us": "Push!",
       "name_ja_jp": "推せる！"
     },
     {
@@ -12141,6 +12141,150 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/25830d48ec44d3e5ab544b2d50766ad9.png",
       "name_en_us": "Exciting amusement park",
       "name_ja_jp": "ワクワク遊園地"
+    },
+    {
+      "id": 1349,
+      "gift_id": 2409,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/76ecc831dde03405404ed2ce4a487328.png",
+      "name_en_us": "happy plum",
+      "name_ja_jp": "喜ぶ梅"
+    },
+    {
+      "id": 1350,
+      "gift_id": 2410,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f51c769000e1a7bd32454886d3367a91.png",
+      "name_en_us": "what happened?",
+      "name_ja_jp": "どうしたの？"
+    },
+    {
+      "id": 1351,
+      "gift_id": 2411,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b4903c9c13bfe6f84b3f8d03eded2c55.png",
+      "name_en_us": "smiling Takamine",
+      "name_ja_jp": "微笑む高嶺"
+    },
+    {
+      "id": 1352,
+      "gift_id": 2412,
+      "emoji_id": 0,
+      "price": 89,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/52eee579d51bf40610c0117e151c79fd.png",
+      "name_en_us": "Thank you!",
+      "name_ja_jp": "ヨロシク！"
+    },
+    {
+      "id": 1353,
+      "gift_id": 2413,
+      "emoji_id": 0,
+      "price": 89,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/281f1710472cccce1346a6a8425b0d71.png",
+      "name_en_us": "…",
+      "name_ja_jp": "…"
+    },
+    {
+      "id": 1354,
+      "gift_id": 2414,
+      "emoji_id": 0,
+      "price": 89,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/132a26c4ef22b3799e57f95f165d1bed.png",
+      "name_en_us": "Big sister~! ?",
+      "name_ja_jp": "お姉さま～！？"
+    },
+    {
+      "id": 1355,
+      "gift_id": 2415,
+      "emoji_id": 0,
+      "price": 89,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1a80e774d46ed3a2491d8ad5e29e4d13.png",
+      "name_en_us": "sutkodokkoi",
+      "name_ja_jp": "スットコドッコイ"
+    },
+    {
+      "id": 1356,
+      "gift_id": 2416,
+      "emoji_id": 0,
+      "price": 499,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0e4c883334dbcb9ae9ac3d199ad2a382.png",
+      "name_en_us": "I feel a little shy",
+      "name_ja_jp": "少し照れますね"
+    },
+    {
+      "id": 1357,
+      "gift_id": 2417,
+      "emoji_id": 0,
+      "price": 499,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d0e34069cb5dee289864b5230e14970b.png",
+      "name_en_us": "Himeka Appears!",
+      "name_ja_jp": "姫歌登場！"
+    },
+    {
+      "id": 1358,
+      "gift_id": 2418,
+      "emoji_id": 0,
+      "price": 499,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0a809a2b60a097728526a8611cedc44d.png",
+      "name_en_us": "I\u0027ll protect you",
+      "name_ja_jp": "守ってあげるからね"
+    },
+    {
+      "id": 1359,
+      "gift_id": 2419,
+      "emoji_id": 0,
+      "price": 499,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e17bee62e037a38b5e28f5bbfb776e73.png",
+      "name_en_us": "Nisui is happy",
+      "name_ja_jp": "二水嬉しい"
+    },
+    {
+      "id": 1360,
+      "gift_id": 2420,
+      "emoji_id": 0,
+      "price": 999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3d7248f86c996d9d928f3ea80ad10ac8.png",
+      "name_en_us": "Even if I vomit blood",
+      "name_ja_jp": "血反吐を吐いてでも"
+    },
+    {
+      "id": 1361,
+      "gift_id": 2421,
+      "emoji_id": 0,
+      "price": 999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/460fe032998f20a9c6d3545f46268a1e.png",
+      "name_en_us": "happy",
+      "name_ja_jp": "ハッピー★"
+    },
+    {
+      "id": 1362,
+      "gift_id": 2422,
+      "emoji_id": 0,
+      "price": 999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f70bfe84a978f5ffbbaea6d73f51c5e4.png",
+      "name_en_us": "I\u0027m serious",
+      "name_ja_jp": "本気でいくよ"
+    },
+    {
+      "id": 1363,
+      "gift_id": 2423,
+      "emoji_id": 0,
+      "price": 999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/77f5badb958a8e708d7118f36b654560.png",
+      "name_en_us": "follow me",
+      "name_ja_jp": "私について来て"
+    },
+    {
+      "id": 1364,
+      "gift_id": 2424,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fe7ecce339bc25f40d3310e6c4f852e5.png",
+      "name_en_us": "snowman",
+      "name_ja_jp": "雪だるま"
     }
   ]
 }
