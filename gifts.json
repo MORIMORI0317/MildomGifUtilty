@@ -1,5 +1,5 @@
 {
-  "data_version": 206.80002,
+  "data_version": 207.80002,
   "gifts": [
     {
       "id": 0,
@@ -12285,6 +12285,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fe7ecce339bc25f40d3310e6c4f852e5.png",
       "name_en_us": "snowman",
       "name_ja_jp": "雪だるま"
+    },
+    {
+      "id": 1365,
+      "gift_id": 2425,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/7cc2cef3cf03731ec3730747bf10d3f0.png",
+      "name_en_us": "original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1366,
+      "gift_id": 2426,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a81f68a0ab869f829c928f131d6f3d6d.jpg",
+      "name_en_us": "original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1367,
+      "gift_id": 2427,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0102aa428d5ed187a9264f1218d2cc53.png",
+      "name_en_us": "original gift",
+      "name_ja_jp": "オリジナルギフト"
     }
   ]
 }
