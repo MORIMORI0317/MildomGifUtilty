@@ -1,5 +1,5 @@
 {
-  "data_version": 207.80002,
+  "data_version": 208.80002,
   "gifts": [
     {
       "id": 0,
@@ -12312,6 +12312,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0102aa428d5ed187a9264f1218d2cc53.png",
       "name_en_us": "original gift",
       "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1368,
+      "gift_id": 2428,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9200e16605634006fa7b973e0336e1f4.png",
+      "name_en_us": "pounding mochi",
+      "name_ja_jp": "餅つき"
     }
   ]
 }
