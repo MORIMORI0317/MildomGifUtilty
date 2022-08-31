@@ -1,5 +1,5 @@
 {
-  "data_version": 208.80002,
+  "data_version": 209.80002,
   "gifts": [
     {
       "id": 0,
@@ -12321,6 +12321,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9200e16605634006fa7b973e0336e1f4.png",
       "name_en_us": "pounding mochi",
       "name_ja_jp": "餅つき"
+    },
+    {
+      "id": 1369,
+      "gift_id": 2429,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e9344ef746593628364b7b5dc0e7e725.png",
+      "name_en_us": "Genki drink",
+      "name_ja_jp": "元気ドリンク"
+    },
+    {
+      "id": 1370,
+      "gift_id": 2430,
+      "emoji_id": 0,
+      "price": 1,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e9344ef746593628364b7b5dc0e7e725.png",
+      "name_en_us": "Genki drink",
+      "name_ja_jp": "元気ドリンク"
     }
   ]
 }
