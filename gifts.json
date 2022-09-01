@@ -1,5 +1,5 @@
 {
-  "data_version": 209.80002,
+  "data_version": 210.80002,
   "gifts": [
     {
       "id": 0,
@@ -12339,6 +12339,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e9344ef746593628364b7b5dc0e7e725.png",
       "name_en_us": "Genki drink",
       "name_ja_jp": "元気ドリンク"
+    },
+    {
+      "id": 1371,
+      "gift_id": 2431,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/eb2eb4dce030ed7e68facdc51ad2f276.png",
+      "name_en_us": "Kacho Fugetsu",
+      "name_ja_jp": "花鳥風月"
+    },
+    {
+      "id": 1372,
+      "gift_id": 2432,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/70756b38435aa2afe5694f880e96f5c9.png",
+      "name_en_us": "weekend!",
+      "name_ja_jp": "週末！"
+    },
+    {
+      "id": 1373,
+      "gift_id": 2433,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/37448c289baec61a487e073126d4a270.png",
+      "name_en_us": "before the magic melts",
+      "name_ja_jp": "魔法がとける前に"
     }
   ]
 }
