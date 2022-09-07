@@ -1,5 +1,5 @@
 {
-  "data_version": 212.80002,
+  "data_version": 213.80002,
   "gifts": [
     {
       "id": 0,
@@ -12438,6 +12438,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6e2f3063d09fd6fd947d2d21c967cf01.png",
       "name_en_us": "Moon-viewing rabbit dumpling",
       "name_ja_jp": "お月見うさぎ団子"
+    },
+    {
+      "id": 1382,
+      "gift_id": 2442,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e94ec2773c6718420e777d71a0ea63b8.png",
+      "name_en_us": "Chatranyan",
+      "name_ja_jp": "ちゃとらにゃん"
     }
   ]
 }
