@@ -1,5 +1,5 @@
 {
-  "data_version": 213.80002,
+  "data_version": 214.80002,
   "gifts": [
     {
       "id": 0,
@@ -12447,6 +12447,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e94ec2773c6718420e777d71a0ea63b8.png",
       "name_en_us": "Chatranyan",
       "name_ja_jp": "ちゃとらにゃん"
+    },
+    {
+      "id": 1383,
+      "gift_id": 2444,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/057932a780b57d99b20bcad41930dfbb.png",
+      "name_en_us": "Do Akanbe",
+      "name_ja_jp": "ドあっかんべえ"
+    },
+    {
+      "id": 1384,
+      "gift_id": 2445,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b38b2f1af87b0b81b2d89541b0ab1aeb.png",
+      "name_en_us": "garbage caricature",
+      "name_ja_jp": "ごみぃ似顔絵"
+    },
+    {
+      "id": 1385,
+      "gift_id": 2443,
+      "emoji_id": 0,
+      "price": 33,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c252b7e08d1f568280c89a521709008f.png",
+      "name_en_us": "Mildam\u0027s 3rd anniversary!",
+      "name_ja_jp": "ミルダム3周年！"
+    },
+    {
+      "id": 1386,
+      "gift_id": 2447,
+      "emoji_id": 0,
+      "price": 2999,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/20f13a1559864f16373231319274d713.png",
+      "name_en_us": "Mirumiru grand prize limited gift",
+      "name_ja_jp": "ミルミル大賞限定ギフト"
     }
   ]
 }
