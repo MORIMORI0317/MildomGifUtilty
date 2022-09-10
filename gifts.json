@@ -1,5 +1,5 @@
 {
-  "data_version": 214.80002,
+  "data_version": 215.80002,
   "gifts": [
     {
       "id": 0,
@@ -12483,6 +12483,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/20f13a1559864f16373231319274d713.png",
       "name_en_us": "Mirumiru grand prize limited gift",
       "name_ja_jp": "ミルミル大賞限定ギフト"
+    },
+    {
+      "id": 1387,
+      "gift_id": 2448,
+      "emoji_id": 0,
+      "price": 29,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "name_en_us": "Throb",
+      "name_ja_jp": "ドキドキ"
+    },
+    {
+      "id": 1388,
+      "gift_id": 2449,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "name_en_us": "heart shooting star",
+      "name_ja_jp": "ハートの流れ星"
     }
   ]
 }
