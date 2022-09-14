@@ -1,5 +1,5 @@
 {
-  "data_version": 216.90002,
+  "data_version": 217.90002,
   "gifts": [
     {
       "id": 0,
@@ -12528,6 +12528,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/32c45d50e02d18ff95e1cf8d3eda3fe1.png",
       "name_en_us": "heart",
       "name_ja_jp": "ハート"
+    },
+    {
+      "id": 1392,
+      "gift_id": 2453,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ba962f911f6cdefad4e532d57997dcd6.png",
+      "name_en_us": "original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1393,
+      "gift_id": 2454,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0e0368dd04c06923854ab97c5a29fce2.png",
+      "name_en_us": "original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1394,
+      "gift_id": 2455,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/634ff23ee9b3ed75285184ea87e62ed2.png",
+      "name_en_us": "original gift",
+      "name_ja_jp": "オリジナルギフト"
     }
   ]
 }
