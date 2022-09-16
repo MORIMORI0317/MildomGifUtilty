@@ -1,5 +1,5 @@
 {
-  "data_version": 218.00003,
+  "data_version": 219.00003,
   "gifts": [
     {
       "id": 0,
@@ -12555,6 +12555,78 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/634ff23ee9b3ed75285184ea87e62ed2.png",
       "name_en_us": "original gift",
       "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1395,
+      "gift_id": 2456,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/60fc647477056203414116bd1c0f2bd8.png",
+      "name_en_us": "Hamsuke",
+      "name_ja_jp": "ハムすけ"
+    },
+    {
+      "id": 1396,
+      "gift_id": 2457,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/01adc604ae3cb7674a7b4f5dadaaacfb.png",
+      "name_en_us": "Hina is ok",
+      "name_ja_jp": "ひなおっけーいっ"
+    },
+    {
+      "id": 1397,
+      "gift_id": 2458,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3599be996f1d6739e59fb8fb9c96da81.png",
+      "name_en_us": "Namo Amitabha Buddha",
+      "name_ja_jp": "南無阿弥陀仏"
+    },
+    {
+      "id": 1398,
+      "gift_id": 2459,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/56a1fc4d51dc25ca42817f62fa4330bf.png",
+      "name_en_us": "Tagamestami",
+      "name_ja_jp": "タガメスタミ"
+    },
+    {
+      "id": 1399,
+      "gift_id": 2460,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d0a7e7f4a475526574a7d61a4dd95532.png",
+      "name_en_us": "Magapanda",
+      "name_ja_jp": "マガパンダ"
+    },
+    {
+      "id": 1400,
+      "gift_id": 2461,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b08559b0165664ae8a18f23f33a20bdd.png",
+      "name_en_us": "Age ↑",
+      "name_ja_jp": "アゲー↑"
+    },
+    {
+      "id": 1401,
+      "gift_id": 2462,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/17bf8164845fd6aa0b853bae8d386981.png",
+      "name_en_us": "Maido!",
+      "name_ja_jp": "まいど！"
+    },
+    {
+      "id": 1402,
+      "gift_id": 2463,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8c012392553db15851ec13fea3d19dd0.png",
+      "name_en_us": "Misan ἵ³³",
+      "name_ja_jp": "みさん🍓³³"
     }
   ]
 }
