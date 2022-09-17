@@ -1,5 +1,5 @@
 {
-  "data_version": 219.00003,
+  "data_version": 220.00003,
   "gifts": [
     {
       "id": 0,
@@ -12627,6 +12627,69 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8c012392553db15851ec13fea3d19dd0.png",
       "name_en_us": "Misan ἵ³³",
       "name_ja_jp": "みさん🍓³³"
+    },
+    {
+      "id": 1403,
+      "gift_id": 2464,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5a73e5874e94b8697288ce54a9359e07.png",
+      "name_en_us": "Warakko",
+      "name_ja_jp": "わらっこ"
+    },
+    {
+      "id": 1404,
+      "gift_id": 2465,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5b5382c83dd00e37562eecb726d7a216.png",
+      "name_en_us": "Mini Kumarin",
+      "name_ja_jp": "ミニくまりん"
+    },
+    {
+      "id": 1405,
+      "gift_id": 2466,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/5d8ec1b93543fe1716b6b9c7a3a31034.png",
+      "name_en_us": "balloon bear",
+      "name_ja_jp": "バルーンくま"
+    },
+    {
+      "id": 1406,
+      "gift_id": 2467,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/410b85f5744ffdb7cddfd9273b8fbee5.png",
+      "name_en_us": "afro bear",
+      "name_ja_jp": "アフロくま"
+    },
+    {
+      "id": 1407,
+      "gift_id": 2468,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fd7c66c3a98907ba343936fc152313ca.png",
+      "name_en_us": "dancing bear",
+      "name_ja_jp": "ダンスくま"
+    },
+    {
+      "id": 1408,
+      "gift_id": 2469,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2d212ace7ea248e3814bedeec93426d7.png",
+      "name_en_us": "neon bear",
+      "name_ja_jp": "ネオンくま"
+    },
+    {
+      "id": 1409,
+      "gift_id": 2470,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2ec30ae7bba6f858526d2b7a90566872.png",
+      "name_en_us": "DJ Bear",
+      "name_ja_jp": "DJくま"
     }
   ]
 }
