@@ -1,5 +1,5 @@
 {
-  "data_version": 220.00003,
+  "data_version": 221.00003,
   "gifts": [
     {
       "id": 0,
@@ -12690,6 +12690,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2ec30ae7bba6f858526d2b7a90566872.png",
       "name_en_us": "DJ Bear",
       "name_ja_jp": "DJくま"
+    },
+    {
+      "id": 1410,
+      "gift_id": 2471,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e5a48826ce5914b48d67ea93375e2a80.png",
+      "name_en_us": "17 years old",
+      "name_ja_jp": "おっぺけ17歳"
     }
   ]
 }
