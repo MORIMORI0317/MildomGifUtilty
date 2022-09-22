@@ -1,5 +1,5 @@
 {
-  "data_version": 221.00003,
+  "data_version": 222.00003,
   "gifts": [
     {
       "id": 0,
@@ -12699,6 +12699,114 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e5a48826ce5914b48d67ea93375e2a80.png",
       "name_en_us": "17 years old",
       "name_ja_jp": "おっぺけ17歳"
+    },
+    {
+      "id": 1411,
+      "gift_id": 2472,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4b5bf3891bac16a495540fbb941f59d1.png",
+      "name_en_us": "snowman",
+      "name_ja_jp": "雪だるま"
+    },
+    {
+      "id": 1412,
+      "gift_id": 2473,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1f6f88b41a212197f6293771c625408a.png",
+      "name_en_us": "Mini Dan-chan",
+      "name_ja_jp": "ミニだんちゃん"
+    },
+    {
+      "id": 1413,
+      "gift_id": 2474,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/bff73d28d720aeeb941b184b5b61101b.png",
+      "name_en_us": "Drooling and sleeping cat.",
+      "name_ja_jp": "よだれと眠り猫。"
+    },
+    {
+      "id": 1414,
+      "gift_id": 2475,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/cc427ebd146af1156fde9e5be29518ea.png",
+      "name_en_us": "straight face",
+      "name_ja_jp": "真顔"
+    },
+    {
+      "id": 1415,
+      "gift_id": 2476,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/49e1737bb6d75bc1de098c11fad29398.png",
+      "name_en_us": "Maid Kumarin",
+      "name_ja_jp": "メイドくまりん"
+    },
+    {
+      "id": 1416,
+      "gift_id": 2477,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2f9b8e90a720fbb666942197e8bdec35.png",
+      "name_en_us": "Otsumiku",
+      "name_ja_jp": "おつみく"
+    },
+    {
+      "id": 1417,
+      "gift_id": 2478,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/30d34f1dc302f58c7e39459c2e0d12c4.png",
+      "name_en_us": "Naopi and Shiba Inu",
+      "name_ja_jp": "なおぴと芝犬🐕"
+    },
+    {
+      "id": 1418,
+      "gift_id": 2479,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/adcab1980b7d779789464549e8101758.png",
+      "name_en_us": "yellow bear",
+      "name_ja_jp": "黄熊"
+    },
+    {
+      "id": 1419,
+      "gift_id": 2480,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/eb750bf7bcc910a8405e6456745d898d.png",
+      "name_en_us": "cherry cherry",
+      "name_ja_jp": "チェリチェリー"
+    },
+    {
+      "id": 1420,
+      "gift_id": 2481,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3cedf1221191e5772ab857309a094778.png",
+      "name_en_us": "I love everyone",
+      "name_ja_jp": "みんな大好き"
+    },
+    {
+      "id": 1421,
+      "gift_id": 2482,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/6cb51a40a5909dcb9aaa1462aa36feae.png",
+      "name_en_us": "Tapi LOVE♡",
+      "name_ja_jp": "たぴLOVE♡"
+    },
+    {
+      "id": 1422,
+      "gift_id": 2483,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2e860aa0e0b056f64fa4b0a5071b0b34.png",
+      "name_en_us": "Harujiro",
+      "name_ja_jp": "はるじろー"
     }
   ]
 }
