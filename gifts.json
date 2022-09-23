@@ -1,5 +1,5 @@
 {
-  "data_version": 222.00003,
+  "data_version": 223.00003,
   "gifts": [
     {
       "id": 0,
@@ -12038,7 +12038,7 @@
       "id": 1337,
       "gift_id": 2397,
       "emoji_id": 0,
-      "price": 39,
+      "price": 59,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a2a30fbb69b2e6e20b3d8488a709637d.png",
       "name_en_us": "pounding panda",
       "name_ja_jp": "ドキドキパンダ"
@@ -12807,6 +12807,78 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2e860aa0e0b056f64fa4b0a5071b0b34.png",
       "name_en_us": "Harujiro",
       "name_ja_jp": "はるじろー"
+    },
+    {
+      "id": 1423,
+      "gift_id": 2484,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/64c7b80f213a5b193b152c3395bcb5c0.png",
+      "name_en_us": "CLUB Achu♡",
+      "name_ja_jp": "CLUBあちゅ♡"
+    },
+    {
+      "id": 1424,
+      "gift_id": 2485,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/89750972a9a92b53588dbba27a6ffa8b.png",
+      "name_en_us": "brilliant dream",
+      "name_ja_jp": "華麗なるゆめ💕"
+    },
+    {
+      "id": 1425,
+      "gift_id": 2486,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c102bb9ede1198929959e5bec152bbd7.png",
+      "name_en_us": "Chiku Beam",
+      "name_ja_jp": "ちくびーむ"
+    },
+    {
+      "id": 1426,
+      "gift_id": 2487,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9bbc2aa643973042fd786ce751b9892b.png",
+      "name_en_us": "I love oranges♡",
+      "name_ja_jp": "みかん大好き♡ "
+    },
+    {
+      "id": 1427,
+      "gift_id": 2488,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d14890211ffb1a581379bbddd970b8be.png",
+      "name_en_us": "mallet of hammer",
+      "name_ja_jp": "打出の小槌"
+    },
+    {
+      "id": 1428,
+      "gift_id": 2489,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "name_en_us": "grape group",
+      "name_ja_jp": "ぶどう派"
+    },
+    {
+      "id": 1429,
+      "gift_id": 2490,
+      "emoji_id": 0,
+      "price": 59,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "name_en_us": "Muscat",
+      "name_ja_jp": "マスカット"
+    },
+    {
+      "id": 1430,
+      "gift_id": 2491,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "name_en_us": "Muscat faction",
+      "name_ja_jp": "マスカット派"
     }
   ]
 }
