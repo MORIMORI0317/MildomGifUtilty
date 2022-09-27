@@ -1,5 +1,5 @@
 {
-  "data_version": 223.00003,
+  "data_version": 224.00003,
   "gifts": [
     {
       "id": 0,
@@ -12879,6 +12879,33 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
       "name_en_us": "Muscat faction",
       "name_ja_jp": "マスカット派"
+    },
+    {
+      "id": 1431,
+      "gift_id": 2492,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2b7e3d79faa44fb81e9cbd129468ea80.png",
+      "name_en_us": "four Leaf Clover",
+      "name_ja_jp": "四つ葉のクローバー"
+    },
+    {
+      "id": 1432,
+      "gift_id": 2493,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/0945926c32a94346e1fee98ea965a226.png",
+      "name_en_us": "original gift",
+      "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1433,
+      "gift_id": 2494,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9b8a5c4be86adaa1b51bf2a7a7460ade.png",
+      "name_en_us": "original gift",
+      "name_ja_jp": "オリジナルギフト"
     }
   ]
 }
