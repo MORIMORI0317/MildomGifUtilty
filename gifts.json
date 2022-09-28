@@ -1,5 +1,5 @@
 {
-  "data_version": 224.00003,
+  "data_version": 225.00003,
   "gifts": [
     {
       "id": 0,
@@ -12858,7 +12858,7 @@
       "gift_id": 2489,
       "emoji_id": 0,
       "price": 299,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4e7f6b366785f87433550226f722a66d.png",
       "name_en_us": "grape group",
       "name_ja_jp": "ぶどう派"
     },
@@ -12867,7 +12867,7 @@
       "gift_id": 2490,
       "emoji_id": 0,
       "price": 59,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ff8e6cff48109ba8c358343a63f81a90.png",
       "name_en_us": "Muscat",
       "name_ja_jp": "マスカット"
     },
@@ -12876,7 +12876,7 @@
       "gift_id": 2491,
       "emoji_id": 0,
       "price": 299,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/229baa867a9cec9ed12f2cb03dfd4071.png",
       "name_en_us": "Muscat faction",
       "name_ja_jp": "マスカット派"
     },
@@ -12906,6 +12906,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9b8a5c4be86adaa1b51bf2a7a7460ade.png",
       "name_en_us": "original gift",
       "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1434,
+      "gift_id": 2495,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a7f5c3dd821a2097804d547b1b62a310.png",
+      "name_en_us": "flowing melody",
+      "name_ja_jp": "流れるメロディ"
     }
   ]
 }
