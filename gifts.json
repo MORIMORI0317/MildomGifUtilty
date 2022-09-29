@@ -1,5 +1,5 @@
 {
-  "data_version": 225.00003,
+  "data_version": 226.00003,
   "gifts": [
     {
       "id": 0,
@@ -12915,6 +12915,42 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a7f5c3dd821a2097804d547b1b62a310.png",
       "name_en_us": "flowing melody",
       "name_ja_jp": "流れるメロディ"
+    },
+    {
+      "id": 1435,
+      "gift_id": 2496,
+      "emoji_id": 0,
+      "price": 39,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d814d381c5c399303d7d51d95af411c7.png",
+      "name_en_us": "poop",
+      "name_ja_jp": "うんち"
+    },
+    {
+      "id": 1436,
+      "gift_id": 2497,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3e43274642aacfa3bd0b56c5f912764e.png",
+      "name_en_us": "cupcake",
+      "name_ja_jp": "カップケーキ"
+    },
+    {
+      "id": 1437,
+      "gift_id": 2498,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3f9ef7aa92ef3e1f45978b9384b0c515.png",
+      "name_en_us": "God",
+      "name_ja_jp": "神"
+    },
+    {
+      "id": 1438,
+      "gift_id": 2499,
+      "emoji_id": 0,
+      "price": 19,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4d2ca90f37717a679e082d22b017666b.png",
+      "name_en_us": "sushi",
+      "name_ja_jp": "寿司"
     }
   ]
 }
