@@ -1,5 +1,5 @@
 {
-  "data_version": 226.00003,
+  "data_version": 227.00003,
   "gifts": [
     {
       "id": 0,
@@ -12344,9 +12344,9 @@
       "id": 1371,
       "gift_id": 2431,
       "emoji_id": 0,
-      "price": 39,
+      "price": 59,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/eb2eb4dce030ed7e68facdc51ad2f276.png",
-      "name_en_us": "Kacho Fugetsu",
+      "name_en_us": "Kachou Fugetsu",
       "name_ja_jp": "花鳥風月"
     },
     {
@@ -12951,6 +12951,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4d2ca90f37717a679e082d22b017666b.png",
       "name_en_us": "sushi",
       "name_ja_jp": "寿司"
+    },
+    {
+      "id": 1439,
+      "gift_id": 2500,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e50629b0b3b53b65c0a6386771f28cc6.jpg",
+      "name_en_us": "MIKU ○",
+      "name_ja_jp": "MIKU●○"
+    },
+    {
+      "id": 1440,
+      "gift_id": 2501,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ff80bfae3168076c395c30c2bb3ff93f.png",
+      "name_en_us": "original gift",
+      "name_ja_jp": "オリジナルギフト"
     }
   ]
 }
