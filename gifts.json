@@ -1,5 +1,5 @@
 {
-  "data_version": 227.00003,
+  "data_version": 228.00003,
   "gifts": [
     {
       "id": 0,
@@ -12969,6 +12969,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ff80bfae3168076c395c30c2bb3ff93f.png",
       "name_en_us": "original gift",
       "name_ja_jp": "オリジナルギフト"
+    },
+    {
+      "id": 1441,
+      "gift_id": 2502,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e663c136ba2cb569523464670e0100ae.png",
+      "name_en_us": "Delicious",
+      "name_ja_jp": "おいし～"
     }
   ]
 }
