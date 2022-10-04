@@ -1,5 +1,5 @@
 {
-  "data_version": 228.00003,
+  "data_version": 229.00003,
   "gifts": [
     {
       "id": 0,
@@ -12978,6 +12978,69 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e663c136ba2cb569523464670e0100ae.png",
       "name_en_us": "Delicious",
       "name_ja_jp": "おいし～"
+    },
+    {
+      "id": 1442,
+      "gift_id": 2510,
+      "emoji_id": 0,
+      "price": 59,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/878eb7e0077efc8206607c1dfb6734ec.png",
+      "name_en_us": "candy",
+      "name_ja_jp": "キャンディ"
+    },
+    {
+      "id": 1443,
+      "gift_id": 2503,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/812c892f083c38f2ee91ccd1ff818e92.png",
+      "name_en_us": "Fluffy Penguin",
+      "name_ja_jp": "ぷかぷかペンギン"
+    },
+    {
+      "id": 1444,
+      "gift_id": 2504,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/348f9358d104293082672455c4443575.png",
+      "name_en_us": "Fluffy Penguin",
+      "name_ja_jp": "フレフレペンギン"
+    },
+    {
+      "id": 1445,
+      "gift_id": 2505,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fc2c4bf1076906e82964c9d2e03e064e.png",
+      "name_en_us": "fluffy penguin",
+      "name_ja_jp": "ふわふわペンギン"
+    },
+    {
+      "id": 1446,
+      "gift_id": 2506,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/3626319f6f1a135c940e537852000db9.png",
+      "name_en_us": "fashionable penguin",
+      "name_ja_jp": "おしゃれペンギン"
+    },
+    {
+      "id": 1447,
+      "gift_id": 2508,
+      "emoji_id": 0,
+      "price": 599,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a99078b257d00433ff8644214f72f2ab.png",
+      "name_en_us": "drift ice penguin",
+      "name_ja_jp": "流氷ペンギン"
+    },
+    {
+      "id": 1448,
+      "gift_id": 2509,
+      "emoji_id": 0,
+      "price": 599,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/08211f7b41c1499d89b42cbf8fde0e39.png",
+      "name_en_us": "Tokotoko Penguin",
+      "name_ja_jp": "とことこペンギン"
     }
   ]
 }
