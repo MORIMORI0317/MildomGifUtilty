@@ -1,5 +1,5 @@
 {
-  "data_version": 229.00003,
+  "data_version": 230.00003,
   "gifts": [
     {
       "id": 0,
@@ -13028,7 +13028,7 @@
       "id": 1447,
       "gift_id": 2508,
       "emoji_id": 0,
-      "price": 599,
+      "price": 299,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/a99078b257d00433ff8644214f72f2ab.png",
       "name_en_us": "drift ice penguin",
       "name_ja_jp": "流氷ペンギン"
@@ -13037,10 +13037,28 @@
       "id": 1448,
       "gift_id": 2509,
       "emoji_id": 0,
-      "price": 599,
+      "price": 299,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/08211f7b41c1499d89b42cbf8fde0e39.png",
       "name_en_us": "Tokotoko Penguin",
       "name_ja_jp": "とことこペンギン"
+    },
+    {
+      "id": 1449,
+      "gift_id": 2511,
+      "emoji_id": 0,
+      "price": 9,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c06f62e967bc7afd94ee09e2695e5e5a.png",
+      "name_en_us": "full moon and bats",
+      "name_ja_jp": "満月とコウモリ"
+    },
+    {
+      "id": 1450,
+      "gift_id": 2512,
+      "emoji_id": 0,
+      "price": 599,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/fffde72bb64c7964a2f1cd758410f3d0.jpg",
+      "name_en_us": "test",
+      "name_ja_jp": "test"
     }
   ]
 }
