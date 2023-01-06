@@ -1,5 +1,5 @@
 {
-  "data_version": 231.00003,
+  "data_version": 231.10004,
   "gifts": [
     {
       "id": 0,
@@ -12362,7 +12362,7 @@
       "id": 1373,
       "gift_id": 2433,
       "emoji_id": 0,
-      "price": 39,
+      "price": 59,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/37448c289baec61a487e073126d4a270.png",
       "name_en_us": "before the magic melts",
       "name_ja_jp": "魔法がとける前に"
