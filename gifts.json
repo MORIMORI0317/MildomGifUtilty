@@ -1,5 +1,5 @@
 {
-  "data_version": 232.10004,
+  "data_version": 233.10004,
   "gifts": [
     {
       "id": 0,
@@ -14895,6 +14895,15 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/26ceaca43ac289d9d4f20a0d25be3714.jpg",
       "name_en_us": "beauty",
       "name_ja_jp": "beauty"
+    },
+    {
+      "id": 1655,
+      "gift_id": 2725,
+      "emoji_id": 0,
+      "price": 90000,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ca69b1473d0107e2f5c9fdb379ea583b.png",
+      "name_en_us": "longed-for castle",
+      "name_ja_jp": "あこがれのお城"
     }
   ]
 }
