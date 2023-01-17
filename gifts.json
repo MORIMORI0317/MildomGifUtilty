@@ -1,5 +1,5 @@
 {
-  "data_version": 233.10004,
+  "data_version": 234.10004,
   "gifts": [
     {
       "id": 0,
@@ -14855,8 +14855,8 @@
       "id": 1650,
       "gift_id": 2719,
       "emoji_id": 0,
-      "price": 1,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/f76124f771767320cd13be4e439f44e2.jpg",
+      "price": 799,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/8a18fa7ae1d76eb8c21da58873689e10.png",
       "name_en_us": "pig",
       "name_ja_jp": "pig"
     },
@@ -14900,10 +14900,19 @@
       "id": 1655,
       "gift_id": 2725,
       "emoji_id": 0,
-      "price": 90000,
+      "price": 100000,
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/ca69b1473d0107e2f5c9fdb379ea583b.png",
       "name_en_us": "longed-for castle",
       "name_ja_jp": "あこがれのお城"
+    },
+    {
+      "id": 1656,
+      "gift_id": 2726,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4d378c6d407dcd1d671a4b88548c0f1a.png",
+      "name_en_us": "strawberry picking",
+      "name_ja_jp": "いちご狩り"
     }
   ]
 }
