@@ -1,5 +1,5 @@
 {
-  "data_version": 234.10004,
+  "data_version": 235.10004,
   "gifts": [
     {
       "id": 0,
@@ -14882,8 +14882,8 @@
       "id": 1653,
       "gift_id": 2723,
       "emoji_id": 0,
-      "price": 1,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/e5dcb5fe4d5897f1c9d2c5e62420f525.jpg",
+      "price": 1199,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9c987f6be81c9376239da6d09a68a7a5.png",
       "name_en_us": "unhappy",
       "name_ja_jp": "unhappy"
     },
@@ -14913,6 +14913,24 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/4d378c6d407dcd1d671a4b88548c0f1a.png",
       "name_en_us": "strawberry picking",
       "name_ja_jp": "いちご狩り"
+    },
+    {
+      "id": 1657,
+      "gift_id": 2727,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44be2fecfe8a03e3492a488770984329.png",
+      "name_en_us": "Popcorn",
+      "name_ja_jp": "ポップコーン"
+    },
+    {
+      "id": 1658,
+      "gift_id": 2728,
+      "emoji_id": 0,
+      "price": 399,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/87a13fa8e819efaf73e37d53855003f9.png",
+      "name_en_us": "donuts",
+      "name_ja_jp": "ドーナッツ"
     }
   ]
 }
