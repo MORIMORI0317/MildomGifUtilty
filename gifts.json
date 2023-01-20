@@ -1,5 +1,5 @@
 {
-  "data_version": 235.10004,
+  "data_version": 236.10004,
   "gifts": [
     {
       "id": 0,
@@ -14931,6 +14931,51 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/87a13fa8e819efaf73e37d53855003f9.png",
       "name_en_us": "donuts",
       "name_ja_jp": "ドーナッツ"
+    },
+    {
+      "id": 1659,
+      "gift_id": 2729,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c03349bfa025edaf2cdcfa41018a0f6e.png",
+      "name_en_us": "Mashu non-rear",
+      "name_ja_jp": "まっしゅ非リア"
+    },
+    {
+      "id": 1660,
+      "gift_id": 2730,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/1375994bf0887604b8781ec97957544a.png",
+      "name_en_us": "To Michimania!",
+      "name_ja_jp": "みちまにあへ！"
+    },
+    {
+      "id": 1661,
+      "gift_id": 2731,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9c6e4cbb7b3232056b918a4c10179598.png",
+      "name_en_us": "Wa-chan\u0027s favorite",
+      "name_ja_jp": "わーちゃん推し🌻"
+    },
+    {
+      "id": 1662,
+      "gift_id": 2732,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b7b69cb738020852f447b577d7b08138.png",
+      "name_en_us": "Aquarius (Small)",
+      "name_ja_jp": "みずがめ座（小）"
+    },
+    {
+      "id": 1663,
+      "gift_id": 2733,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d7784e3d53bf9e1ce14e3b2e2dfc27f3.png",
+      "name_en_us": "Aquarius (Large)",
+      "name_ja_jp": "みずがめ座（大）"
     }
   ]
 }
