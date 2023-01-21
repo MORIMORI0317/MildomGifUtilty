@@ -1,5 +1,5 @@
 {
-  "data_version": 236.10004,
+  "data_version": 237.10004,
   "gifts": [
     {
       "id": 0,
@@ -14976,6 +14976,60 @@
       "image": "https://res.mildom.com/download/file/jp/mildom/nngift/d7784e3d53bf9e1ce14e3b2e2dfc27f3.png",
       "name_en_us": "Aquarius (Large)",
       "name_ja_jp": "みずがめ座（大）"
+    },
+    {
+      "id": 1664,
+      "gift_id": 2734,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/9f22ad2720fca74674697a2a710325e9.png",
+      "name_en_us": "Oto Santa",
+      "name_ja_jp": "おとサンタ"
+    },
+    {
+      "id": 1665,
+      "gift_id": 2735,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/2c8ef62ffc881ca055bb243074aab7a0.png",
+      "name_en_us": "Ami( ¨̮ )@Woman from Saga",
+      "name_ja_jp": "あみ( ¨̮ )@佐賀の女"
+    },
+    {
+      "id": 1666,
+      "gift_id": 2736,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/44a8bd817775a7bacd089a63bbca034c.jpg",
+      "name_en_us": "Ikumin+",
+      "name_ja_jp": "いくみん+"
+    },
+    {
+      "id": 1667,
+      "gift_id": 2737,
+      "emoji_id": 0,
+      "price": 299,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/b20d857b78e2a00970bdc4da693d6e12.png",
+      "name_en_us": "Ikumin+",
+      "name_ja_jp": "いくみん+"
+    },
+    {
+      "id": 1668,
+      "gift_id": 2738,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/285406c7a9d0eacf28f912ba54828825.png",
+      "name_en_us": "Chikuwa ˘͈ᵕ͈",
+      "name_ja_jp": "ちくわ˘͈ᵕ˘͈"
+    },
+    {
+      "id": 1669,
+      "gift_id": 2739,
+      "emoji_id": 0,
+      "price": 99,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/010fe26e6303facec13f7b4713de6595.png",
+      "name_en_us": "Kiracchi LOVE",
+      "name_ja_jp": "きらっちLOVE"
     }
   ]
 }
