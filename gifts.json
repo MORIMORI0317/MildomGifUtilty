@@ -1,5 +1,5 @@
 {
-  "data_version": 241.20004,
+  "data_version": 241.30005,
   "gifts": [
     {
       "id": 0,
@@ -14864,8 +14864,8 @@
       "id": 1651,
       "gift_id": 2720,
       "emoji_id": 0,
-      "price": 1,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c6dc4403b5b195b1518f8697017b776d.jpg",
+      "price": 1499,
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/99f9225aa35d5d878e50ff0732ee891b.png",
       "name_en_us": "kick",
       "name_ja_jp": "kick"
     },
@@ -14874,8 +14874,8 @@
       "gift_id": 2722,
       "emoji_id": 0,
       "price": 1,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/c577b2e4896e29ad590b598a1345e838.jpg",
-      "name_en_us": "forgery",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/795adb5070254b0657530e19e7ed7649.png",
+      "name_en_us": "fake",
       "name_ja_jp": "拿捏"
     },
     {
@@ -14892,7 +14892,7 @@
       "gift_id": 2724,
       "emoji_id": 0,
       "price": 1,
-      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/26ceaca43ac289d9d4f20a0d25be3714.jpg",
+      "image": "https://res.mildom.com/download/file/jp/mildom/nngift/667801642b7b1a1b1217ace3c6d9058b.png",
       "name_en_us": "beauty",
       "name_ja_jp": "beauty"
     },
